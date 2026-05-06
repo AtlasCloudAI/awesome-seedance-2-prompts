@@ -1,0 +1,205 @@
+import { type PromptRecord, type SortedPromptData } from "./cms-client.js";
+import { SUPPORTED_LANGUAGES, t } from "./i18n.js";
+
+function buildCategoryAnchor(index: number): string {
+  return `category-${index + 1}`;
+}
+
+function buildLocalePrefix(locale: string): string {
+  return locale === "en" ? "" : `/${locale}`;
+}
+
+function buildPromptLibraryUrl(locale: string): string {
+  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/seedance-2-prompt`;
+}
+
+function buildModelUrl(locale: string): string {
+  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/bytedance/seedance-2.0/text-to-video?ref=JPM683`;
+}
+
+function renderLanguageNavigation(currentLocale: string): string {
+  const badges = SUPPORTED_LANGUAGES.map((lang) => {
+    const isCurrent = lang.code === currentLocale;
+    const color = isCurrent ? "brightgreen" : "lightgrey";
+    const text = isCurrent ? t("current", currentLocale) : t("view", currentLocale);
+    return `[![${lang.name}](https://img.shields.io/badge/${encodeURIComponent(lang.name)}-${encodeURIComponent(text)}-${color})](${lang.readmeFileName})`;
+  }).join(" ");
+
+  return `${badges}\n\n---\n`;
+}
+
+function renderPrompt(prompt: PromptRecord, index: number, locale: string): string {
+  const lines = [
+    `### No. ${index + 1}: ${prompt.title}`,
+    "",
+    `- **${t("category", locale)}:** \`${prompt.category}\``,
+    `- **${t("source", locale)}:** \`${prompt.source_platform}\``,
+    `- **${t("author", locale)}:** ${prompt.author_name}`,
+    `- **${t("language", locale)}:** \`${prompt.language}\``,
+  ];
+
+  if (prompt.video_url) {
+    lines.push(`- **${t("video", locale)}:** [${t("view", locale)}](${prompt.video_url})`);
+    lines.push("");
+    lines.push(`<video src="${prompt.video_url}" controls muted playsinline width="720"></video>`);
+  }
+
+  if (prompt.source_link) {
+    lines.push(`- **${t("sourceLink", locale)}:** [${t("view", locale)}](${prompt.source_link})`);
+  }
+
+  lines.push(
+    "",
+    `#### ${t("description", locale)}`,
+    "",
+    prompt.description,
+    "",
+    `#### ${t("prompt", locale)}`,
+    "",
+    "```text",
+    prompt.prompt,
+    "```",
+    ""
+  );
+
+  return lines.join("\n");
+}
+
+function renderModelIntro(locale: string): string {
+  if (locale === "zh") {
+    return [
+      "## Seedance 2.0 模型简介",
+      "",
+      "Seedance 2.0 擅长多模态视频生成，支持文本、图片、视频和音频混合输入，特别适合参考驱动、复杂运镜、情绪表演、音乐卡点和视频改写等任务。",
+      "",
+      "- 建议先明确主体、场景、动作，再补充镜头语言、节奏和风格细节。",
+      "- 涉及参考图、参考视频或配音时，提示词里可以直接使用 `@image1`、`@video1`、`@audio1` 这样的占位符。",
+      "- 适合广告短片、剧情延展、运镜练习、角色一致性、MV、音画同步和创意特效类题材。",
+      "",
+      "### 推荐写法",
+      "",
+      "- 主体: 先写清主角、物体或产品。",
+      "- 动作: 说明发生了什么，以及环境如何响应。",
+      "- 运镜: 补充推拉摇移、环绕、跟拍、俯拍、特写等镜头指令。",
+      "- 风格: 加入电影光影、材质、氛围、节奏、色彩和音频信息。",
+      "",
+    ].join("\n");
+  }
+
+  if (locale === "zh-TW") {
+    return [
+      "## Seedance 2.0 模型簡介",
+      "",
+      "Seedance 2.0 擅長多模態影片生成，支援文字、圖片、影片與音訊混合輸入，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。",
+      "",
+      "- 建議先明確主體、場景與動作，再補充鏡頭語言、節奏與風格細節。",
+      "- 涉及參考圖、參考影片或配音時，提示詞中可以直接使用 `@image1`、`@video1`、`@audio1` 這類佔位符。",
+      "- 適合廣告短片、劇情延展、運鏡練習、角色一致性、MV、音畫同步與創意特效類題材。",
+      "",
+      "### 推薦寫法",
+      "",
+      "- 主體: 先寫清主角、物體或產品。",
+      "- 動作: 說明發生了什麼，以及環境如何回應。",
+      "- 運鏡: 補充推拉搖移、環繞、跟拍、俯拍、特寫等鏡頭指令。",
+      "- 風格: 加入電影光影、材質、氛圍、節奏、色彩與音訊資訊。",
+      "",
+    ].join("\n");
+  }
+
+  return [
+    "## Seedance 2.0 Overview",
+    "",
+    "Seedance 2.0 is strongest at multimodal video generation. It handles text, image, video, and audio inputs well, and it is especially useful for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix workflows.",
+    "",
+    "- Start with a clear subject, scene, and action, then add camera movement, pacing, mood, and style details.",
+    "- When using references, keep placeholders like `@image1`, `@video1`, and `@audio1` explicit in the prompt.",
+    "- Great for ad creatives, narrative extension, consistency control, MV production, cinematic effects, and stylized short-form storytelling.",
+    "",
+    "### Recommended Structure",
+    "",
+    "- Subject: define the main character, object, or product.",
+    "- Action: describe what happens and how the environment reacts.",
+    "- Camera: add dolly, pan, orbit, tracking, aerial, or close-up directions.",
+    "- Style: include lighting, texture, pace, mood, color, and audio cues.",
+    "",
+  ].join("\n");
+}
+
+export function generateMarkdown(data: SortedPromptData, locale: string): string {
+  const now = new Date().toISOString();
+  const lines: string[] = [];
+  const promptsByCategory = new Map<string, PromptRecord[]>();
+
+  for (const prompt of data.all) {
+    const categoryPrompts = promptsByCategory.get(prompt.category) || [];
+    categoryPrompts.push(prompt);
+    promptsByCategory.set(prompt.category, categoryPrompts);
+  }
+
+  lines.push(`# ${t("title", locale)}`);
+  lines.push("");
+  lines.push("[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)");
+  lines.push("[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompt)");
+  lines.push("[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)");
+  lines.push("");
+  lines.push(`> ${t("subtitle", locale)}`);
+  lines.push("");
+  lines.push(`> ${t("copyright", locale)}`);
+  lines.push("");
+  lines.push(renderLanguageNavigation(locale));
+  lines.push(`## ${t("viewInGallery", locale)}`);
+  lines.push("");
+  lines.push(`- ${t("promptLibrary", locale)}: [${t("view", locale)}](${buildPromptLibraryUrl(locale)})`);
+  lines.push(`- ${t("modelPage", locale)}: [${t("view", locale)}](${buildModelUrl(locale)})`);
+  lines.push("");
+  lines.push(renderModelIntro(locale));
+  lines.push(`## ${t("stats", locale)}`);
+  lines.push("");
+  lines.push(`| ${t("metric", locale)} | ${t("count", locale)} |`);
+  lines.push("|--------|-------|");
+  lines.push(`| ${t("totalPrompts", locale)} | **${data.stats.total}** |`);
+  lines.push(`| ${t("categories", locale)} | **${data.categoryCounts.length}** |`);
+  lines.push(`| ${t("previewVideos", locale)} | **${data.stats.videos}** |`);
+  lines.push(`| ${t("lastUpdated", locale)} | **${now}** |`);
+  lines.push("");
+  lines.push(`## ${t("browseByCategory", locale)}`);
+  lines.push("");
+
+  data.categoryCounts.forEach((item, index) => {
+    const anchor = buildCategoryAnchor(index);
+    lines.push(`- [\`${item.category}\`](#${anchor}): **${item.count}**`);
+  });
+
+  lines.push("");
+  lines.push(`## ${t("featuredPrompts", locale)}`);
+  lines.push("");
+  data.featured.forEach((prompt, index) => lines.push(renderPrompt(prompt, index, locale)));
+  lines.push(`## ${t("allPrompts", locale)}`);
+  lines.push("");
+
+  data.categoryCounts.forEach((item, index) => {
+    const anchor = buildCategoryAnchor(index);
+    const prompts = promptsByCategory.get(item.category) || [];
+    lines.push(`<a id="${anchor}"></a>`);
+    lines.push("");
+    lines.push(`### ${item.category} (${prompts.length})`);
+    lines.push("");
+    prompts.forEach((prompt, promptIndex) => lines.push(renderPrompt(prompt, promptIndex, locale)));
+  });
+
+  lines.push(`## ${t("localUsage", locale)}`);
+  lines.push("");
+  lines.push("```bash");
+  lines.push("npm install");
+  lines.push("npm run build-all");
+  lines.push("```");
+  lines.push("");
+  lines.push(`## ${t("license", locale)}`);
+  lines.push("");
+  lines.push("[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)");
+  lines.push("");
+  lines.push(`> ${t("autoGenerated", locale)} ${now}`);
+  lines.push("");
+
+  return lines.join("\n");
+}
