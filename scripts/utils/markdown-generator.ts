@@ -1,8 +1,8 @@
 import { type PromptRecord, type SortedPromptData } from "./cms-client.js";
 import { SUPPORTED_LANGUAGES, t } from "./i18n.js";
 
-const REPO = "awesome-seedance-2-prompt";
-const REPO_URL = "https://github.com/AtlasCloudAI/awesome-seedance-2-prompt";
+const REPO = "awesome-seedance-2-prompts";
+const REPO_URL = "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts";
 const UTM = `?utm_source=github&utm_campaign=${REPO}`;
 
 function buildCategoryAnchor(index: number): string {
@@ -61,8 +61,8 @@ function renderMoreTools(): string {
   return [
     "## More Atlas Cloud Tools",
     "",
-    "- [atlascloud-cli](https://github.com/AtlasCloudAI/atlascloud-cli) — run prompts from your terminal.",
-    "- [MCP Server](https://github.com/AtlasCloudAI/atlascloud-mcp) — connect Atlas Cloud to MCP-aware agents.",
+    "- [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.",
+    "- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.",
     "- [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.",
     "- [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.",
     "- [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.",

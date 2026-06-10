@@ -2,9 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompt)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompt/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompt)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts)
 
 > 基于 AtlasCloud `homepage-v2` 数据源整理的 Seedance 2.0 提示词与预览视频仓库。
 
@@ -28,8 +28,8 @@
 
 ## 在 AtlasCloud 查看
 
-- 提示词库: [查看](https://www.atlascloud.ai/zh/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompt)
-- 模型页: [查看](https://www.atlascloud.ai/zh/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompt)
+- 提示词库: [查看](https://www.atlascloud.ai/zh/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
+- 模型页: [查看](https://www.atlascloud.ai/zh/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 ## Supported Models
 
@@ -37,7 +37,7 @@
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2-prompt
+- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2-prompts
 
 ## ▶ Run any prompt via Atlas Cloud
 
@@ -45,7 +45,7 @@
 
 **CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/atlascloud-cli) to run prompts directly.
 
-Get an API key: https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2-prompt
+Get an API key: https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2-prompts
 
 ## Seedance 2.0 模型简介
 
@@ -69,7 +69,7 @@ Seedance 2.0 擅长多模态视频生成，支持文本、图片、视频和音�
 | 提示词总数 | **70** |
 | 分类数 | **10** |
 | 预览视频数 | **70** |
-| 最后更新 | **2026-06-10T02:30:24.810Z** |
+| 最后更新 | **2026-06-10T03:49:09.995Z** |
 
 ## 按分类浏览
 
@@ -1775,16 +1775,16 @@ npm run build-all
 
 ## More Atlas Cloud Tools
 
-- [atlascloud-cli](https://github.com/AtlasCloudAI/atlascloud-cli) — run prompts from your terminal.
-- [MCP Server](https://github.com/AtlasCloudAI/atlascloud-mcp) — connect Atlas Cloud to MCP-aware agents.
+- [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.
+- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.
 - [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.
 - [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.
 - [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
 - [Discord](https://discord.gg/MWmMr4q9es) — join the community.
-- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2-prompt) — explore all models and docs.
+- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2-prompts) — explore all models and docs.
 
 ## 许可证
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-06-10T02:30:24.810Z
+> 此 README 为自动生成。 2026-06-10T03:49:09.995Z
