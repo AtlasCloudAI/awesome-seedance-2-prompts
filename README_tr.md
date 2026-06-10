@@ -1,10 +1,12 @@
 # Awesome Seedance 2.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompt)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompt)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompt/pulls)
+[![Prompts](https://img.shields.io/badge/prompts-70%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompt)
 
-> A curated collection of Seedance 2.0 prompts and preview videos sourced from the AtlasCloud homepage-v2 dataset.
+> A curated collection of Seedance 2.0 video prompts — each with real previews generated via Atlas Cloud. Cinematic, anime, UGC, ads, meme & more.
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
@@ -12,10 +14,38 @@
 
 ---
 
+## Contents
+
+- [View in AtlasCloud](#view-in-atlascloud)
+- [Supported Models](#supported-models)
+- [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)
+- [Statistics](#statistics)
+- [Browse by Category](#browse-by-category)
+- [Featured Prompts](#featured-prompts)
+- [All Prompts](#all-prompts)
+- [More Atlas Cloud Tools](#more-atlas-cloud-tools)
+- [License](#license)
+
 ## View in AtlasCloud
 
-- Prompt Library: [View](https://www.atlascloud.ai/tr/seedance-2-prompt)
-- Model Page: [View](https://www.atlascloud.ai/tr/models/bytedance/seedance-2.0/text-to-video?ref=JPM683)
+- Prompt Library: [View](https://www.atlascloud.ai/tr/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompt)
+- Model Page: [View](https://www.atlascloud.ai/tr/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompt)
+
+## Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2-prompt
+
+## ▶ Run any prompt via Atlas Cloud
+
+**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
+
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/atlascloud-cli) to run prompts directly.
+
+Get an API key: https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2-prompt
 
 ## Seedance 2.0 Overview
 
@@ -39,7 +69,7 @@ Seedance 2.0 is strongest at multimodal video generation. It handles text, image
 | Total Prompts | **70** |
 | Categories | **10** |
 | Preview Videos | **70** |
-| Last Updated | **2026-05-06T06:54:38.501Z** |
+| Last Updated | **2026-06-10T02:30:24.820Z** |
 
 ## Browse by Category
 
@@ -1743,8 +1773,18 @@ npm install
 npm run build-all
 ```
 
+## More Atlas Cloud Tools
+
+- [atlascloud-cli](https://github.com/AtlasCloudAI/atlascloud-cli) — run prompts from your terminal.
+- [MCP Server](https://github.com/AtlasCloudAI/atlascloud-mcp) — connect Atlas Cloud to MCP-aware agents.
+- [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.
+- [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.
+- [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.
+- [Discord](https://discord.gg/MWmMr4q9es) — join the community.
+- [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2-prompt) — explore all models and docs.
+
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-05-06T06:54:38.501Z
+> This README is auto-generated. 2026-06-10T02:30:24.820Z
