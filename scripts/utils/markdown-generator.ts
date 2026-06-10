@@ -33,7 +33,7 @@ function renderBadges(promptCount: number): string {
 
 function renderSupportedModels(): string {
   return [
-    "## Supported Models",
+    "## 🧩 Supported Models",
     "",
     "- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7",
     "- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5",
@@ -73,22 +73,22 @@ function renderMoreTools(): string {
 }
 
 function renderContents(data: SortedPromptData, locale: string): string {
-  const lines = ["## Contents", ""];
+  const lines = ["## 📖 Contents", ""];
+  // 模拟 GitHub 锚点：emoji/标点被删、空格转 -，不 trim（emoji 前缀留下前导 -）
   const anchor = (heading: string) =>
     heading
       .toLowerCase()
       .replace(/[^a-z0-9\s-]/g, "")
-      .trim()
       .replace(/\s+/g, "-");
-  lines.push(`- [${t("viewInGallery", locale)}](#${anchor(t("viewInGallery", locale))})`);
-  lines.push("- [Supported Models](#supported-models)");
+  lines.push(`- [🌐 ${t("viewInGallery", locale)}](#${anchor("🌐 " + t("viewInGallery", locale))})`);
+  lines.push("- [🧩 Supported Models](#-supported-models)");
   lines.push("- [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)");
-  lines.push(`- [${t("stats", locale)}](#${anchor(t("stats", locale))})`);
-  lines.push(`- [${t("browseByCategory", locale)}](#${anchor(t("browseByCategory", locale))})`);
-  lines.push(`- [${t("featuredPrompts", locale)}](#${anchor(t("featuredPrompts", locale))})`);
-  lines.push(`- [${t("allPrompts", locale)}](#${anchor(t("allPrompts", locale))})`);
+  lines.push(`- [📊 ${t("stats", locale)}](#${anchor("📊 " + t("stats", locale))})`);
+  lines.push(`- [🏷️ ${t("browseByCategory", locale)}](#${anchor("🏷️ " + t("browseByCategory", locale))})`);
+  lines.push(`- [🔥 ${t("featuredPrompts", locale)}](#${anchor("🔥 " + t("featuredPrompts", locale))})`);
+  lines.push(`- [📋 ${t("allPrompts", locale)}](#${anchor("📋 " + t("allPrompts", locale))})`);
   lines.push("- [More Atlas Cloud Tools](#more-atlas-cloud-tools)");
-  lines.push(`- [${t("license", locale)}](#${anchor(t("license", locale))})`);
+  lines.push(`- [📄 ${t("license", locale)}](#${anchor("📄 " + t("license", locale))})`);
   lines.push("");
   return lines.join("\n");
 }
@@ -144,7 +144,7 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
 function renderModelIntro(locale: string): string {
   if (locale === "zh") {
     return [
-      "## Seedance 2.0 模型简介",
+      "## 🤔 Seedance 2.0 模型简介",
       "",
       "Seedance 2.0 擅长多模态视频生成，支持文本、图片、视频和音频混合输入，特别适合参考驱动、复杂运镜、情绪表演、音乐卡点和视频改写等任务。",
       "",
@@ -164,7 +164,7 @@ function renderModelIntro(locale: string): string {
 
   if (locale === "zh-TW") {
     return [
-      "## Seedance 2.0 模型簡介",
+      "## 🤔 Seedance 2.0 模型簡介",
       "",
       "Seedance 2.0 擅長多模態影片生成，支援文字、圖片、影片與音訊混合輸入，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。",
       "",
@@ -183,7 +183,7 @@ function renderModelIntro(locale: string): string {
   }
 
   return [
-    "## Seedance 2.0 Overview",
+    "## 🤔 Seedance 2.0 Overview",
     "",
     "Seedance 2.0 is strongest at multimodal video generation. It handles text, image, video, and audio inputs well, and it is especially useful for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix workflows.",
     "",
@@ -212,7 +212,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
     promptsByCategory.set(prompt.category, categoryPrompts);
   }
 
-  lines.push(`# ${t("title", locale)}`);
+  lines.push(`# 🎬 ${t("title", locale)}`);
   lines.push("");
   lines.push(renderBadges(data.stats.total));
   lines.push("");
@@ -222,7 +222,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("");
   lines.push(renderLanguageNavigation(locale));
   lines.push(renderContents(data, locale));
-  lines.push(`## ${t("viewInGallery", locale)}`);
+  lines.push(`## 🌐 ${t("viewInGallery", locale)}`);
   lines.push("");
   lines.push(`- ${t("promptLibrary", locale)}: [${t("view", locale)}](${buildPromptLibraryUrl(locale)})`);
   lines.push(`- ${t("modelPage", locale)}: [${t("view", locale)}](${buildModelUrl(locale)})`);
@@ -230,7 +230,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(renderSupportedModels());
   lines.push(renderRunAnyPrompt());
   lines.push(renderModelIntro(locale));
-  lines.push(`## ${t("stats", locale)}`);
+  lines.push(`## 📊 ${t("stats", locale)}`);
   lines.push("");
   lines.push(`| ${t("metric", locale)} | ${t("count", locale)} |`);
   lines.push("|--------|-------|");
@@ -239,7 +239,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(`| ${t("previewVideos", locale)} | **${data.stats.videos}** |`);
   lines.push(`| ${t("lastUpdated", locale)} | **${now}** |`);
   lines.push("");
-  lines.push(`## ${t("browseByCategory", locale)}`);
+  lines.push(`## 🏷️ ${t("browseByCategory", locale)}`);
   lines.push("");
 
   data.categoryCounts.forEach((item, index) => {
@@ -248,10 +248,10 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   });
 
   lines.push("");
-  lines.push(`## ${t("featuredPrompts", locale)}`);
+  lines.push(`## 🔥 ${t("featuredPrompts", locale)}`);
   lines.push("");
   data.featured.forEach((prompt, index) => lines.push(renderPrompt(prompt, index, locale)));
-  lines.push(`## ${t("allPrompts", locale)}`);
+  lines.push(`## 📋 ${t("allPrompts", locale)}`);
   lines.push("");
 
   data.categoryCounts.forEach((item, index) => {
@@ -272,7 +272,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("```");
   lines.push("");
   lines.push(renderMoreTools());
-  lines.push(`## ${t("license", locale)}`);
+  lines.push(`## 📄 ${t("license", locale)}`);
   lines.push("");
   lines.push("[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)");
   lines.push("");

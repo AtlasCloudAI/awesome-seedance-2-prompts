@@ -1,4 +1,4 @@
-# Awesome Seedance 2.0 Prompts
+# 🎬 Awesome Seedance 2.0 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -14,24 +14,24 @@
 
 ---
 
-## Contents
+## 📖 Contents
 
-- [View in AtlasCloud](#view-in-atlascloud)
-- [Supported Models](#supported-models)
+- [🌐 View in AtlasCloud](#-view-in-atlascloud)
+- [🧩 Supported Models](#-supported-models)
 - [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)
-- [Statistics](#statistics)
-- [Browse by Category](#browse-by-category)
-- [Featured Prompts](#featured-prompts)
-- [All Prompts](#all-prompts)
+- [📊 Statistics](#-statistics)
+- [🏷️ Browse by Category](#-browse-by-category)
+- [🔥 Featured Prompts](#-featured-prompts)
+- [📋 All Prompts](#-all-prompts)
 - [More Atlas Cloud Tools](#more-atlas-cloud-tools)
-- [License](#license)
+- [📄 License](#-license)
 
-## View in AtlasCloud
+## 🌐 View in AtlasCloud
 
 - Prompt Library: [View](https://www.atlascloud.ai/ja/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 - Model Page: [View](https://www.atlascloud.ai/ja/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
-## Supported Models
+## 🧩 Supported Models
 
 - 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
@@ -47,7 +47,7 @@
 
 **[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2-prompts)**
 
-## Seedance 2.0 Overview
+## 🤔 Seedance 2.0 Overview
 
 Seedance 2.0 is strongest at multimodal video generation. It handles text, image, video, and audio inputs well, and it is especially useful for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix workflows.
 
@@ -62,16 +62,16 @@ Seedance 2.0 is strongest at multimodal video generation. It handles text, image
 - Camera: add dolly, pan, orbit, tracking, aerial, or close-up directions.
 - Style: include lighting, texture, pace, mood, color, and audio cues.
 
-## Statistics
+## 📊 Statistics
 
 | Metric | Count |
 |--------|-------|
 | Total Prompts | **70** |
 | Categories | **10** |
 | Preview Videos | **70** |
-| Last Updated | **2026-06-10T09:41:43.255Z** |
+| Last Updated | **2026-06-10T09:56:03.996Z** |
 
-## Browse by Category
+## 🏷️ Browse by Category
 
 - [`超リアル映像生成`](#category-1): **5**
 - [`キャラクター＆シーン一貫性`](#category-2): **6**
@@ -84,7 +84,7 @@ Seedance 2.0 is strongest at multimodal video generation. It handles text, image
 - [`音楽シンク`](#category-9): **4**
 - [`感情表現`](#category-10): **3**
 
-## Featured Prompts
+## 🔥 Featured Prompts
 
 ### No. 1: エレガントな洗濯シーン
 
@@ -257,7 +257,7 @@ VRゴーグルを通じて異なるデジタル世界に入り、幻想的な宇
 @video1の物語を反転。男性の目が優しさから冷酷へ変わり、無防備な女性主人公を橋から水中へ突き落とす。ためらいのない決断と不穏な空気で、原作の人物像を覆す。
 ```
 
-## All Prompts
+## 📋 All Prompts
 
 <a id="category-1"></a>
 
@@ -1796,8 +1796,8 @@ npm run build-all
 - [Discord](https://discord.gg/MWmMr4q9es) — join the community.
 - [Website](https://www.atlascloud.ai?utm_source=github&utm_campaign=awesome-seedance-2-prompts) — explore all models and docs.
 
-## License
+## 📄 License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-10T09:41:43.255Z
+> This README is auto-generated. 2026-06-10T09:56:03.996Z
