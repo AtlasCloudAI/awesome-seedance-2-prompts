@@ -37,15 +37,15 @@
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2-prompts
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 ## ▶ Run any prompt via Atlas Cloud
 
 **Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.
 
-**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/atlascloud-cli) to run prompts directly.
+**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.
 
-Get an API key: https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2-prompts
+**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-seedance-2-prompts)**
 
 ## Seedance 2.0 模型簡介
 
@@ -69,7 +69,7 @@ Seedance 2.0 擅長多模態影片生成，支援文字、圖片、影片與音�
 | 提示詞總數 | **70** |
 | 分類數 | **10** |
 | 預覽影片數 | **70** |
-| 最後更新 | **2026-06-10T03:49:09.996Z** |
+| 最後更新 | **2026-06-10T09:41:43.254Z** |
 
 ## 按分類瀏覽
 
@@ -1787,4 +1787,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 為自動生成。 2026-06-10T03:49:09.996Z
+> 此 README 為自動生成。 2026-06-10T09:41:43.254Z

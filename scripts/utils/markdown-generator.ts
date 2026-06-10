@@ -39,7 +39,7 @@ function renderSupportedModels(): string {
     "- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5",
     "- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen",
     "- 🔊 **Audio** — Grok TTS",
-    `- 📚 **Explore more** — https://www.atlascloud.ai/models${UTM}`,
+    `- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models${UTM})`,
     "",
   ].join("\n");
 }
@@ -50,9 +50,9 @@ function renderRunAnyPrompt(): string {
     "",
     "**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.",
     "",
-    "**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/atlascloud-cli) to run prompts directly.",
+    "**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.",
     "",
-    `Get an API key: https://www.atlascloud.ai/console/api-keys${UTM}`,
+    `**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys${UTM})**`,
     "",
   ].join("\n");
 }
