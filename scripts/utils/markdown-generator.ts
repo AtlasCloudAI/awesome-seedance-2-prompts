@@ -1,6 +1,10 @@
 import { type PromptRecord, type SortedPromptData } from "./cms-client.js";
 import { SUPPORTED_LANGUAGES, t } from "./i18n.js";
 
+const REPO = "awesome-seedance-2-prompts";
+const REPO_URL = "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts";
+const UTM = `?utm_source=github&utm_campaign=${REPO}`;
+
 function buildCategoryAnchor(index: number): string {
   return `category-${index + 1}`;
 }
@@ -10,11 +14,83 @@ function buildLocalePrefix(locale: string): string {
 }
 
 function buildPromptLibraryUrl(locale: string): string {
-  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/seedance-2-prompt`;
+  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/seedance-2-prompt${UTM}`;
 }
 
 function buildModelUrl(locale: string): string {
-  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/bytedance/seedance-2.0/text-to-video?ref=JPM683`;
+  return `https://www.atlascloud.ai${buildLocalePrefix(locale)}/models/bytedance/seedance-2.0/text-to-video${UTM}`;
+}
+
+function renderBadges(promptCount: number): string {
+  return [
+    "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)",
+    `[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)`,
+    `[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2-prompt?style=social)](${REPO_URL})`,
+    `[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](${REPO_URL}/pulls)`,
+    `[![Prompts](https://img.shields.io/badge/prompts-${promptCount}%2B-blue.svg)](${REPO_URL})`,
+  ].join("\n");
+}
+
+function renderSupportedModels(): string {
+  return [
+    "## 🧩 Supported Models",
+    "",
+    "- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7",
+    "- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5",
+    "- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen",
+    "- 🔊 **Audio** — Grok TTS",
+    `- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models${UTM})`,
+    "",
+  ].join("\n");
+}
+
+function renderRunAnyPrompt(): string {
+  return [
+    "## ▶ Run any prompt via Atlas Cloud",
+    "",
+    "**Skill (recommended):** Install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code, Codex, or Gemini CLI, then just ask it to generate any prompt from this collection.",
+    "",
+    "**CLI:** Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli) to run prompts directly.",
+    "",
+    `**[→ Get your free Atlas Cloud API key](https://www.atlascloud.ai/console/api-keys${UTM})**`,
+    "",
+  ].join("\n");
+}
+
+function renderMoreTools(): string {
+  return [
+    "## More Atlas Cloud Tools",
+    "",
+    "- [atlascloud-cli](https://github.com/AtlasCloudAI/cli) — run prompts from your terminal.",
+    "- 🔌 [MCP Server](https://github.com/AtlasCloudAI/mcp-server) — connect Atlas Cloud to any MCP client.",
+    "- [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) — skills for Claude Code, Codex, and Gemini CLI.",
+    "- [atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui) — ComfyUI nodes for Atlas Cloud.",
+    "- [n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud) — n8n automation nodes.",
+    "- [Discord](https://discord.gg/MWmMr4q9es) — join the community.",
+    `- [Website](https://www.atlascloud.ai${UTM}) — explore all models and docs.`,
+    "",
+  ].join("\n");
+}
+
+function renderContents(data: SortedPromptData, locale: string): string {
+  const lines = ["## 📖 Contents", ""];
+  // 模拟 GitHub 锚点：emoji/标点被删、空格转 -，不 trim（emoji 前缀留下前导 -）
+  const anchor = (heading: string) =>
+    heading
+      .toLowerCase()
+      .replace(/[^a-z0-9\s-]/g, "")
+      .replace(/\s+/g, "-");
+  lines.push(`- [🌐 ${t("viewInGallery", locale)}](#${anchor("🌐 " + t("viewInGallery", locale))})`);
+  lines.push("- [🧩 Supported Models](#-supported-models)");
+  lines.push("- [▶ Run any prompt via Atlas Cloud](#-run-any-prompt-via-atlas-cloud)");
+  lines.push(`- [📊 ${t("stats", locale)}](#${anchor("📊 " + t("stats", locale))})`);
+  lines.push(`- [🏷️ ${t("browseByCategory", locale)}](#${anchor("🏷️ " + t("browseByCategory", locale))})`);
+  lines.push(`- [🔥 ${t("featuredPrompts", locale)}](#${anchor("🔥 " + t("featuredPrompts", locale))})`);
+  lines.push(`- [📋 ${t("allPrompts", locale)}](#${anchor("📋 " + t("allPrompts", locale))})`);
+  lines.push("- [More Atlas Cloud Tools](#more-atlas-cloud-tools)");
+  lines.push(`- [📄 ${t("license", locale)}](#${anchor("📄 " + t("license", locale))})`);
+  lines.push("");
+  return lines.join("\n");
 }
 
 function renderLanguageNavigation(currentLocale: string): string {
@@ -68,7 +144,7 @@ function renderPrompt(prompt: PromptRecord, index: number, locale: string): stri
 function renderModelIntro(locale: string): string {
   if (locale === "zh") {
     return [
-      "## Seedance 2.0 模型简介",
+      "## 🤔 Seedance 2.0 模型简介",
       "",
       "Seedance 2.0 擅长多模态视频生成，支持文本、图片、视频和音频混合输入，特别适合参考驱动、复杂运镜、情绪表演、音乐卡点和视频改写等任务。",
       "",
@@ -88,7 +164,7 @@ function renderModelIntro(locale: string): string {
 
   if (locale === "zh-TW") {
     return [
-      "## Seedance 2.0 模型簡介",
+      "## 🤔 Seedance 2.0 模型簡介",
       "",
       "Seedance 2.0 擅長多模態影片生成，支援文字、圖片、影片與音訊混合輸入，特別適合參考驅動、複雜運鏡、情緒表演、音樂卡點與影片改寫等任務。",
       "",
@@ -107,7 +183,7 @@ function renderModelIntro(locale: string): string {
   }
 
   return [
-    "## Seedance 2.0 Overview",
+    "## 🤔 Seedance 2.0 Overview",
     "",
     "Seedance 2.0 is strongest at multimodal video generation. It handles text, image, video, and audio inputs well, and it is especially useful for reference-driven shots, advanced camera language, emotional acting, beat sync, and video remix workflows.",
     "",
@@ -136,24 +212,25 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
     promptsByCategory.set(prompt.category, categoryPrompts);
   }
 
-  lines.push(`# ${t("title", locale)}`);
+  lines.push(`# 🎬 ${t("title", locale)}`);
   lines.push("");
-  lines.push("[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)");
-  lines.push("[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompt)");
-  lines.push("[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)");
+  lines.push(renderBadges(data.stats.total));
   lines.push("");
   lines.push(`> ${t("subtitle", locale)}`);
   lines.push("");
   lines.push(`> ${t("copyright", locale)}`);
   lines.push("");
   lines.push(renderLanguageNavigation(locale));
-  lines.push(`## ${t("viewInGallery", locale)}`);
+  lines.push(renderContents(data, locale));
+  lines.push(`## 🌐 ${t("viewInGallery", locale)}`);
   lines.push("");
   lines.push(`- ${t("promptLibrary", locale)}: [${t("view", locale)}](${buildPromptLibraryUrl(locale)})`);
   lines.push(`- ${t("modelPage", locale)}: [${t("view", locale)}](${buildModelUrl(locale)})`);
   lines.push("");
+  lines.push(renderSupportedModels());
+  lines.push(renderRunAnyPrompt());
   lines.push(renderModelIntro(locale));
-  lines.push(`## ${t("stats", locale)}`);
+  lines.push(`## 📊 ${t("stats", locale)}`);
   lines.push("");
   lines.push(`| ${t("metric", locale)} | ${t("count", locale)} |`);
   lines.push("|--------|-------|");
@@ -162,7 +239,7 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push(`| ${t("previewVideos", locale)} | **${data.stats.videos}** |`);
   lines.push(`| ${t("lastUpdated", locale)} | **${now}** |`);
   lines.push("");
-  lines.push(`## ${t("browseByCategory", locale)}`);
+  lines.push(`## 🏷️ ${t("browseByCategory", locale)}`);
   lines.push("");
 
   data.categoryCounts.forEach((item, index) => {
@@ -171,10 +248,10 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   });
 
   lines.push("");
-  lines.push(`## ${t("featuredPrompts", locale)}`);
+  lines.push(`## 🔥 ${t("featuredPrompts", locale)}`);
   lines.push("");
   data.featured.forEach((prompt, index) => lines.push(renderPrompt(prompt, index, locale)));
-  lines.push(`## ${t("allPrompts", locale)}`);
+  lines.push(`## 📋 ${t("allPrompts", locale)}`);
   lines.push("");
 
   data.categoryCounts.forEach((item, index) => {
@@ -194,7 +271,8 @@ export function generateMarkdown(data: SortedPromptData, locale: string): string
   lines.push("npm run build-all");
   lines.push("```");
   lines.push("");
-  lines.push(`## ${t("license", locale)}`);
+  lines.push(renderMoreTools());
+  lines.push(`## 📄 ${t("license", locale)}`);
   lines.push("");
   lines.push("[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)");
   lines.push("");

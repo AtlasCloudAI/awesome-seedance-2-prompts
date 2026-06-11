@@ -62,7 +62,7 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
 
 const en: Translation = {
   title: "Awesome Seedance 2.0 Prompts",
-  subtitle: "A curated collection of Seedance 2.0 prompts and preview videos sourced from the AtlasCloud homepage-v2 dataset.",
+  subtitle: "A curated collection of Seedance 2.0 video prompts — each with real previews generated via Atlas Cloud. Cinematic, anime, UGC, ads, meme & more.",
   copyright: "All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.",
   current: "Current",
   view: "View",
