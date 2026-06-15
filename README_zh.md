@@ -33,8 +33,9 @@
 
 ## 🧩 Supported Models
 
-- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
-- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 🎬 **Video** — Seedance 2.1 · Seedance 2.0 · Seedance 2.0 Mini · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Seedream 5.0 Pro · Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 🧊 **3D** — Seed3D 2.0 · Hunyuan 3D Pro · Hunyuan 3D Rapid
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
 - 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
@@ -69,7 +70,7 @@ Seedance 2.0 擅长多模态视频生成，支持文本、图片、视频和音�
 | 提示词总数 | **70** |
 | 分类数 | **10** |
 | 预览视频数 | **70** |
-| 最后更新 | **2026-06-15T10:29:59.876Z** |
+| 最后更新 | **2026-06-15T10:31:47.209Z** |
 
 ## 🏷️ 按分类浏览
 
@@ -1787,4 +1788,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> 此 README 为自动生成。 2026-06-15T10:29:59.876Z
+> 此 README 为自动生成。 2026-06-15T10:31:47.209Z
