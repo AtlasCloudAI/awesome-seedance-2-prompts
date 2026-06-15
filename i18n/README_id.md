@@ -10,7 +10,7 @@
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Current-brightgreen)](README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](README_sv.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-Current-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_sv.md)
 
 ---
 
@@ -28,8 +28,8 @@
 
 ## 🌐 View in AtlasCloud
 
-- Prompt Library: [View](https://www.atlascloud.ai/fr/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
-- Model Page: [View](https://www.atlascloud.ai/fr/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
+- Prompt Library: [View](https://www.atlascloud.ai/id/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
+- Model Page: [View](https://www.atlascloud.ai/id/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 ## 🧩 Supported Models
 
@@ -70,290 +70,287 @@ Seedance 2.0 is strongest at multimodal video generation. It handles text, image
 | Total Prompts | **70** |
 | Categories | **10** |
 | Preview Videos | **70** |
-| Last Updated | **2026-06-15T10:31:47.216Z** |
+| Last Updated | **2026-06-15T11:09:54.002Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Génération Vidéo Ultra-Réaliste`](#category-1): **5**
-- [`Cohérence Personnages & Scènes`](#category-2): **6**
-- [`Cinématographie Avancée`](#category-3): **13**
-- [`Effets Visuels Créatifs`](#category-4): **11**
-- [`Développement & Extension Narrative`](#category-5): **8**
-- [`Audio & Synthèse Vocale`](#category-6): **10**
-- [`Plan-Séquence`](#category-7): **5**
-- [`Montage & Remix Vidéo`](#category-8): **5**
-- [`Synchronisation Musicale`](#category-9): **4**
-- [`Performance Émotionnelle`](#category-10): **3**
+- [`Generasi Video Ultra-Realistis`](#category-1): **5**
+- [`Konsistensi Karakter & Adegan`](#category-2): **6**
+- [`Gerak Kamera Lanjutan`](#category-3): **13**
+- [`Efek Visual Kreatif`](#category-4): **11**
+- [`Pengembangan & Ekstensi Cerita`](#category-5): **8**
+- [`Sintesis Audio & Suara`](#category-6): **10**
+- [`Sinematografi One-Take`](#category-7): **5**
+- [`Editing & Remix Video`](#category-8): **5**
+- [`Sinkronisasi Musik`](#category-9): **4**
+- [`Performa Emosional`](#category-10): **3**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Scène élégante de lessive
+### No. 1: Adegan Menjemur Pakaian yang Elegan
 
-- **Category:** `Génération Vidéo Ultra-Réaliste`
+- **Category:** `Generasi Video Ultra-Realistis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/1)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/1)
 
 #### Description
 
-Une femme étend le linge avec élégance, prend un autre vêtement du panier et le secoue avec un mouvement naturel.
+Seorang wanita menjemur pakaian dengan anggun, mengambil satu pakaian lagi dari keranjang, lalu mengibaskannya dengan gerak alami.
 
 #### Prompt
 
 ```text
-Plan fixe : une jeune fille étend le linge avec élégance ; une fois terminé, elle sort un autre vêtement du panier et le secoue vivement.
+Buat adegan video: Seorang wanita menjemur pakaian dengan anggun, mengambil satu pakaian lagi dari keranjang, lalu mengibaskannya dengan gerak alami.
 ```
 
-### No. 2: Retour à la maison après le travail
+### No. 2: Pulang ke Rumah Setelah Kerja
 
-- **Category:** `Cohérence Personnages & Scènes`
+- **Category:** `Konsistensi Karakter & Adegan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/5)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/5)
 
 #### Description
 
-Récit continu maintenant la cohérence du personnage du couloir de bureau jusqu’à la maison, avec transition émotionnelle et interaction familiale.
+Narasi berkelanjutan yang menjaga konsistensi karakter dari koridor kantor ke rumah, dengan transisi emosi dan interaksi keluarga.
 
 #### Prompt
 
 ```text
-L’homme @image1 rentre du travail, marche fatigué dans le couloir, ralentit puis s’arrête devant sa porte. Gros plan visage : il respire profondément, se calme, retrouve son sang-froid, cherche ses clés et ouvre la porte. Sa petite fille et un chien viennent l’accueillir avec joie. Ambiance intérieure chaleureuse et dialogues naturels.
+Buat adegan video: Narasi berkelanjutan yang menjaga konsistensi karakter dari koridor kantor ke rumah, dengan transisi emosi dan interaksi keluarga.
 ```
 
-### No. 3: Zoom Hitchcock dans l’ascenseur
+### No. 3: Zoom Hitchcock di Lift
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/11)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/11)
 
 #### Description
 
-Effet vertigo de type Hitchcock combiné à des mouvements de caméra complexes en espace confiné.
+Efek vertigo klasik Hitchcock dipadukan dengan gerak kamera kompleks di ruang sempit.
 
 #### Prompt
 
 ```text
-Prendre l’homme de @image1 dans l’ascenseur de @image2 en reproduisant les mouvements de caméra et expressions de @video1. Au moment de la peur, utiliser un zoom Hitchcock, puis des plans orbitaux de l’intérieur. À l’ouverture des portes, suivi en sortie vers la scène @image3 avec tracking multi-angle.
+Buat adegan video: Efek vertigo klasik Hitchcock dipadukan dengan gerak kamera kompleks di ruang sempit.
 ```
 
-### No. 4: Voyage cosmique avec lunettes VR
+### No. 4: Perjalanan Semesta Kacamata VR
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/18)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/18)
 
 #### Description
 
-Transition immersive en point de vue, du monde réel à plusieurs univers numériques via interface VR.
+Transisi POV imersif dari dunia nyata melalui antarmuka VR ke berbagai ranah digital.
 
 #### Prompt
 
 ```text
-Remplacer le personnage de @video1 par @image1, avec @image1 comme première image. Le personnage porte des lunettes sci-fi ; passage de la 3e personne à la vue subjective, traversée d’un espace IA vers l’univers bleu profond de @image2, avec des vaisseaux qui filent au loin.
+Buat adegan video: Transisi POV imersif dari dunia nyata melalui antarmuka VR ke berbagai ranah digital.
 ```
 
-### No. 5: Animation de cases de BD
+### No. 5: Animasi Panel Komik
 
-- **Category:** `Développement & Extension Narrative`
+- **Category:** `Pengembangan & Ekstensi Cerita`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/26)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/26)
 
 #### Description
 
-Transformer des cases de BD statiques en séquence animée avec effets sonores.
+Ubah panel komik statis menjadi urutan animasi dengan efek suara.
 
 #### Prompt
 
 ```text
-Prolonger la vidéo de 15 s en s’inspirant du visuel de l’âne à moto de @image1 et @image2, et ajouter une pub créative.
-Scène 1 : caméra fixe latérale, l’âne sort du hangar, les poules sont effrayées.
-Scène 2 : l’âne tourne sur le sable, gros plan pneu puis vue aérienne.
-Scène 3 : fond montagne enneigée, saut à moto et apparition du slogan « Inspire Creativity, Enrich Life ».
+Buat adegan video: Ubah panel komik statis menjadi urutan animasi dengan efek suara.
 ```
 
-### No. 6: Comédie du cheval en fisheye
+### No. 6: Komedi Kuda Fisheye
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/33)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/33)
 
 #### Description
 
-Personnage animal avec dialogue synchronisé et effets sonores via objectif fisheye.
+Karakter hewan dengan dialog dan efek suara tersinkron lewat lensa fisheye.
 
 #### Prompt
 
 ```text
-Caméra fixe, fisheye central regardant vers le bas à travers un trou circulaire. Référence fisheye de video1 ; faire regarder le cheval de @video2 vers la lentille, reprendre les mouvements de parole de @video1, et utiliser le BGM inspiré de @video3.
+Buat adegan video: Karakter hewan dengan dialog dan efek suara tersinkron lewat lensa fisheye.
 ```
 
-### No. 7: Séquence parkour de poursuite
+### No. 7: Urutan Parkour Kejar-kejaran
 
-- **Category:** `Plan-Séquence`
+- **Category:** `Sinematografi One-Take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/43)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/43)
 
 #### Description
 
-Plan-séquence dynamique suivant un coureur à travers plusieurs environnements.
+One-take dinamis mengikuti pelari melalui banyak lingkungan.
 
 #### Prompt
 
 ```text
-@image1@image2@image3@image4@image5, plan-séquence de poursuite : suivre le coureur de la rue jusqu’aux escaliers, couloirs, toit, puis finir en vue plongeante sur la ville.
+Buat adegan video: One-take dinamis mengikuti pelari melalui banyak lingkungan.
 ```
 
-### No. 8: Twist sombre façon Titanic
+### No. 8: Titanic dengan Twist Gelap
 
-- **Category:** `Montage & Remix Vidéo`
+- **Category:** `Editing & Remix Video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/48)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/48)
 
 #### Description
 
-Transformer une scène romantique en thriller de trahison.
+Balikkan adegan romantis menjadi thriller pengkhianatan.
 
 #### Prompt
 
 ```text
-Renverser l’intrigue de @video1 : le regard de l’homme passe d’affectueux à froid et impitoyable ; au moment où l’héroïne est sans défense, il la pousse brutalement du pont dans l’eau. Geste net, déterminé, prémédité.
+Buat adegan video: Balikkan adegan romantis menjadi thriller pengkhianatan.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Génération Vidéo Ultra-Réaliste (5)
+### Generasi Video Ultra-Realistis (5)
 
-### No. 1: Scène élégante de lessive
+### No. 1: Adegan Menjemur Pakaian yang Elegan
 
-- **Category:** `Génération Vidéo Ultra-Réaliste`
+- **Category:** `Generasi Video Ultra-Realistis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/1)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/1)
 
 #### Description
 
-Une femme étend le linge avec élégance, prend un autre vêtement du panier et le secoue avec un mouvement naturel.
+Seorang wanita menjemur pakaian dengan anggun, mengambil satu pakaian lagi dari keranjang, lalu mengibaskannya dengan gerak alami.
 
 #### Prompt
 
 ```text
-Plan fixe : une jeune fille étend le linge avec élégance ; une fois terminé, elle sort un autre vêtement du panier et le secoue vivement.
+Buat adegan video: Seorang wanita menjemur pakaian dengan anggun, mengambil satu pakaian lagi dari keranjang, lalu mengibaskannya dengan gerak alami.
 ```
 
-### No. 2: Personnage interactif dans un tableau
+### No. 2: Karakter Lukisan Interaktif
 
-- **Category:** `Génération Vidéo Ultra-Réaliste`
+- **Category:** `Generasi Video Ultra-Realistis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/2)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/2)
 
 #### Description
 
-Un personnage dans un tableau prend vie et boit discrètement un cola, créant une scène publicitaire humoristique.
+Karakter dalam lukisan hidup kembali dan diam-diam minum cola saat tak ada yang melihat, menciptakan adegan iklan yang lucu.
 
 #### Prompt
 
 ```text
-Le personnage du tableau affiche un air coupable, regarde à gauche et à droite, puis passe la main hors du cadre pour saisir un cola et en boire une gorgée. Des pas se font entendre, il remet vite la boisson en place. Un cow-boy vient ensuite prendre le cola et s’éloigne. La caméra avance enfin vers un fond noir où seule la canette est éclairée par le haut.
+Buat adegan video: Karakter dalam lukisan hidup kembali dan diam-diam minum cola saat tak ada yang melihat, menciptakan adegan iklan yang lucu.
 ```
 
-### No. 3: Scène de rue victorienne
+### No. 3: Adegan Jalanan Era Victoria
 
-- **Category:** `Génération Vidéo Ultra-Réaliste`
+- **Category:** `Generasi Video Ultra-Realistis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/3)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/3)
 
 #### Description
 
-Scène d’époque située dans le Londres du XIXe siècle, avec détails de décor authentiques et réactions de personnage.
+Adegan drama periode di London abad ke-19 dengan detail lingkungan autentik dan reaksi karakter yang natural.
 
 #### Prompt
 
 ```text
-La caméra recule légèrement pour révéler la rue entière et suit l’héroïne. Le vent soulève sa robe dans une rue londonienne du XIXe siècle ; une voiture à vapeur passe rapidement à côté d’elle, elle est choquée et retient sa jupe avec ses mains. Ajouter des sons de pas, de foule et de circulation.
+Buat adegan video: Adegan drama periode di London abad ke-19 dengan detail lingkungan autentik dan reaksi karakter yang natural.
 ```
 
-### No. 4: Poursuite avec obstacles
+### No. 4: Adegan Kejar-kejaran dengan Rintangan
 
-- **Category:** `Génération Vidéo Ultra-Réaliste`
+- **Category:** `Generasi Video Ultra-Realistis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/4)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/4)
 
 #### Description
 
-Séquence de poursuite intense avec collisions réalistes et panique de foule.
+Urutan kejar-kejaran intens dengan fisika tabrakan realistis serta kepanikan kerumunan.
 
 #### Prompt
 
 ```text
-La caméra suit un homme en noir qui s’enfuit, poursuivi par une foule. Passage en suivi latéral : il renverse un étal de fruits, se relève et continue sa fuite. Ajouter un fond sonore de panique.
+Buat adegan video: Urutan kejar-kejaran intens dengan fisika tabrakan realistis serta kepanikan kerumunan.
 ```
 
 ### No. 5: Will Smith Eating Spaghetti
 
-- **Category:** `Génération Vidéo Ultra-Réaliste`
+- **Category:** `Generasi Video Ultra-Realistis`
 - **Source:** `twitter`
 - **Author:** levelsio (@levelsio)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
@@ -371,291 +368,291 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 <a id="category-2"></a>
 
-### Cohérence Personnages & Scènes (6)
+### Konsistensi Karakter & Adegan (6)
 
-### No. 1: Retour à la maison après le travail
+### No. 1: Pulang ke Rumah Setelah Kerja
 
-- **Category:** `Cohérence Personnages & Scènes`
+- **Category:** `Konsistensi Karakter & Adegan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/5)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/5)
 
 #### Description
 
-Récit continu maintenant la cohérence du personnage du couloir de bureau jusqu’à la maison, avec transition émotionnelle et interaction familiale.
+Narasi berkelanjutan yang menjaga konsistensi karakter dari koridor kantor ke rumah, dengan transisi emosi dan interaksi keluarga.
 
 #### Prompt
 
 ```text
-L’homme @image1 rentre du travail, marche fatigué dans le couloir, ralentit puis s’arrête devant sa porte. Gros plan visage : il respire profondément, se calme, retrouve son sang-froid, cherche ses clés et ouvre la porte. Sa petite fille et un chien viennent l’accueillir avec joie. Ambiance intérieure chaleureuse et dialogues naturels.
+Buat adegan video: Narasi berkelanjutan yang menjaga konsistensi karakter dari koridor kantor ke rumah, dengan transisi emosi dan interaksi keluarga.
 ```
 
-### No. 2: Transformation de scène d’opéra
+### No. 2: Transformasi Panggung Opera
 
-- **Category:** `Cohérence Personnages & Scènes`
+- **Category:** `Konsistensi Karakter & Adegan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/6)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/6)
 
 #### Description
 
-Remplacement de personnage en conservant les mouvements de caméra et transitions de la vidéo de référence.
+Penggantian karakter sambil mempertahankan gerak kamera dan efek transisi dari video referensi.
 
 #### Prompt
 
 ```text
-Remplacer la fille de @video1 par une actrice d’opéra chinois (huadan), sur une scène raffinée. Reprendre les mouvements de caméra et transitions de @video1 pour synchroniser les actions du personnage et renforcer l’impact visuel.
+Buat adegan video: Penggantian karakter sambil mempertahankan gerak kamera dan efek transisi dari video referensi.
 ```
 
-### No. 3: Transition fluide en plan-séquence
+### No. 3: Transisi Mulus One-Take
 
-- **Category:** `Cohérence Personnages & Scènes`
+- **Category:** `Konsistensi Karakter & Adegan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/7)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/7)
 
 #### Description
 
-Plan-séquence complexe avec transitions multiples, conservant la cohérence visuelle.
+Shot one-take kompleks dengan banyak transisi adegan sambil menjaga koherensi visual.
 
 #### Prompt
 
 ```text
-Reprendre toutes les transitions et mouvements de @video1 en plan-séquence : ouverture sur un échiquier, déplacement vers du gravier jaune, montée vers une plage avec empreintes, puis vue aérienne de la mer ; transition fluide des vagues vers des rideaux flottants, et fin en gros plan sur le visage de la fille.
+Buat adegan video: Shot one-take kompleks dengan banyak transisi adegan sambil menjaga koherensi visual.
 ```
 
-### No. 4: Présentation produit du nœud magnétique
+### No. 4: Showcase Produk Magnetic Bow
 
-- **Category:** `Cohérence Personnages & Scènes`
+- **Category:** `Konsistensi Karakter & Adegan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/8)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/8)
 
 #### Description
 
-Publicité de produit coréen avec cohérence de marque et démonstration multi-scènes.
+Iklan produk Korea dengan konsistensi merek dan demonstrasi multi-adegan.
 
 #### Prompt
 
 ```text
-0-2 s : montage flash en quatre cases (rouge, rose, violet, bleu), produit @image1 au centre en rotation. 2-4 s : gros plan produit, caméra orbitale 360° pour montrer les détails. 4-6 s : gros plan logo et apparition progressive du nom de marque. Musique électronique rythmée sur toute la durée.
+Buat adegan video: Iklan produk Korea dengan konsistensi merek dan demonstrasi multi-adegan.
 ```
 
-### No. 5: Publicité de sac de luxe
+### No. 5: Iklan Tas Mewah
 
-- **Category:** `Cohérence Personnages & Scènes`
+- **Category:** `Konsistensi Karakter & Adegan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/9)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/9)
 
 #### Description
 
-Présentation produit gardant la cohérence des détails sur plusieurs images de référence.
+Showcase produk yang menjaga konsistensi detail di beberapa gambar referensi.
 
 #### Prompt
 
 ```text
-Réaliser une vidéo commerciale du sac @image1 en style mode haut de gamme : caméra lente autour du produit, mise en valeur du cuir, des pièces métalliques et de la structure interne, avec lumière douce pour souligner le luxe.
+Buat adegan video: Showcase produk yang menjaga konsistensi detail di beberapa gambar referensi.
 ```
 
-### No. 6: Exploration d’horreur en vue subjective
+### No. 6: Eksplorasi Horor Orang Pertama
 
-- **Category:** `Cohérence Personnages & Scènes`
+- **Category:** `Konsistensi Karakter & Adegan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/10)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/10)
 
 #### Description
 
-Perspective à la première personne maintenant la cohérence de scène dans plusieurs environnements.
+Perspektif orang pertama yang menjaga konsistensi adegan di banyak lingkungan.
 
 #### Prompt
 
 ```text
-Utiliser @image1 comme première image. Vue subjective : la caméra avance lentement dans un couloir sombre, des ombres inquiétantes bougent sur les murs et une respiration grave se fait entendre au loin. Atmosphère tendue et oppressante.
+Buat adegan video: Perspektif orang pertama yang menjaga konsistensi adegan di banyak lingkungan.
 ```
 
 <a id="category-3"></a>
 
-### Cinématographie Avancée (13)
+### Gerak Kamera Lanjutan (13)
 
-### No. 1: Zoom Hitchcock dans l’ascenseur
+### No. 1: Zoom Hitchcock di Lift
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/11)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/11)
 
 #### Description
 
-Effet vertigo de type Hitchcock combiné à des mouvements de caméra complexes en espace confiné.
+Efek vertigo klasik Hitchcock dipadukan dengan gerak kamera kompleks di ruang sempit.
 
 #### Prompt
 
 ```text
-Prendre l’homme de @image1 dans l’ascenseur de @image2 en reproduisant les mouvements de caméra et expressions de @video1. Au moment de la peur, utiliser un zoom Hitchcock, puis des plans orbitaux de l’intérieur. À l’ouverture des portes, suivi en sortie vers la scène @image3 avec tracking multi-angle.
+Buat adegan video: Efek vertigo klasik Hitchcock dipadukan dengan gerak kamera kompleks di ruang sempit.
 ```
 
-### No. 2: Poursuite complexe en couloir
+### No. 2: Kejar-kejaran Koridor Kompleks
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/12)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/12)
 
 #### Description
 
-Plan de suivi multi-angle avec mouvements rapides et changements de perspective.
+Tracking multi-angle dengan pergerakan kamera cepat dan perubahan perspektif.
 
 #### Prompt
 
 ```text
-Référence homme @image1 dans le couloir @image2, en reprenant la grammaire caméra de @video1. Suivi en course au virage, puis dans le long couloir @image3, passage d’un suivi arrière à une orbite en contre-plongée jusqu’à la face du personnage.
+Buat adegan video: Tracking multi-angle dengan pergerakan kamera cepat dan perubahan perspektif.
 ```
 
-### No. 3: Présentation tablette en rotation
+### No. 3: Showcase Tablet Berputar
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/13)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/13)
 
 #### Description
 
-Présentation produit avec caméra rotative et transformation d’environnement.
+Showcase produk dengan kamera berputar dan transformasi lingkungan.
 
 #### Prompt
 
 ```text
-La tablette de @image1 est le sujet principal. Mouvement caméra inspiré de @video1 : descente lente depuis une vue plongeante, écran qui s’allume et affiche l’interface, puis orbite pour montrer les détails du produit.
+Buat adegan video: Showcase produk dengan kamera berputar dan transformasi lingkungan.
 ```
 
-### No. 4: Push-pull rythmique de danse
+### No. 4: Push-Pull Tarian Ritmis
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/14)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/14)
 
 #### Description
 
-Mouvements push-pull de caméra synchronisés avec la chorégraphie.
+Gerak kamera dorong-tarik yang sinkron dengan koreografi tarian.
 
 #### Prompt
 
 ```text
-La star féminine de @image1 est le sujet central. Référence @video1 pour un mouvement de caméra allant du plan large au gros plan ; suivre une chorégraphie élégante avec rotation autour du personnage.
+Buat adegan video: Gerak kamera dorong-tarik yang sinkron dengan koreografi tarian.
 ```
 
-### No. 5: Scène de combat d’arts martiaux
+### No. 5: Adegan Pertarungan Bela Diri
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/15)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/15)
 
 #### Description
 
-Chorégraphie d’action avec plusieurs personnages et armes dans un environnement dynamique.
+Koreografi aksi dengan banyak karakter dan senjata dalam lingkungan dinamis.
 
 #### Prompt
 
 ```text
-Référence personnage à lance @image1 @image2 et scènes @image3 @image4. Générer une scène martiale avec enchaînements fluides de lance, suivie par une caméra multi-angle.
+Buat adegan video: Koreografi aksi dengan banyak karakter dan senjata dalam lingkungan dinamis.
 ```
 
-### No. 6: Bataille fantastique épique
+### No. 6: Pertempuran Fantasi Epik
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/16)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/16)
 
 #### Description
 
-Scène de combat cinématographique avec caméra orbitale et effets de particules.
+Adegan pertarungan sinematik dengan kamera orbital dan efek partikel.
 
 #### Prompt
 
 ```text
-Référence actions de video1 et environnement @image1 @image2 pour créer un combat fantastique : sorts magiques, effets de particules et suivi dynamique de la caméra.
+Buat adegan video: Adegan pertarungan sinematik dengan kamera orbital dan efek partikel.
 ```
 
-### No. 7: Ciné publicitaire automobile
+### No. 7: Sinematografi Iklan Mobil
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/17)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/17)
 
 #### Description
 
-Vidéo automobile professionnelle avec caméra dynamique et transitions de scènes.
+Videografi otomotif profesional dengan gerak kamera dinamis dan transisi adegan.
 
 #### Prompt
 
 ```text
-Référence rythme de caméra et transitions de @video1, avec @image1 comme scène de départ. Enchaîner fluidement plusieurs décors montrant une voiture en ville, montagne et bord de mer.
+Buat adegan video: Videografi otomotif profesional dengan gerak kamera dinamis dan transisi adegan.
 ```
 
 ### No. 8: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `twitter`
 - **Author:** Min Choi (@minchoi)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
@@ -673,10 +670,10 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 9: Aerial Shot of Burning Military Vehicle in Urban Warfare
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `twitter`
 - **Author:** Carlos Santana (@DotCSV)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
@@ -694,10 +691,10 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 10: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `twitter`
 - **Author:** John (@johnAGI168)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
@@ -715,10 +712,10 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 11: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `twitter`
 - **Author:** el.cine (@EHuanglu)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
@@ -736,10 +733,10 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 12: South Indian Cinema Alien Scene Generated from Single Prompt
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `twitter`
 - **Author:** rohan anil (@_arohan_)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
@@ -757,10 +754,10 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 13: Ground Combat Shot of Soldiers Traversing Desert Terrain
 
-- **Category:** `Cinématographie Avancée`
+- **Category:** `Gerak Kamera Lanjutan`
 - **Source:** `twitter`
 - **Author:** Chetaslua (@chetaslua)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
@@ -778,182 +775,182 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 <a id="category-4"></a>
 
-### Effets Visuels Créatifs (11)
+### Efek Visual Kreatif (11)
 
-### No. 1: Voyage cosmique avec lunettes VR
+### No. 1: Perjalanan Semesta Kacamata VR
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/18)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/18)
 
 #### Description
 
-Transition immersive en point de vue, du monde réel à plusieurs univers numériques via interface VR.
+Transisi POV imersif dari dunia nyata melalui antarmuka VR ke berbagai ranah digital.
 
 #### Prompt
 
 ```text
-Remplacer le personnage de @video1 par @image1, avec @image1 comme première image. Le personnage porte des lunettes sci-fi ; passage de la 3e personne à la vue subjective, traversée d’un espace IA vers l’univers bleu profond de @image2, avec des vaisseaux qui filent au loin.
+Buat adegan video: Transisi POV imersif dari dunia nyata melalui antarmuka VR ke berbagai ranah digital.
 ```
 
-### No. 2: Publicité mode à changement rapide
+### No. 2: Iklan Fashion Ganti Cepat
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/19)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/19)
 
 #### Description
 
-Vidéo mode rapide avec effets fisheye et transitions glitch.
+Video fashion bertempo cepat dengan efek fisheye dan transisi glitch.
 
 #### Prompt
 
 ```text
-Prendre les traits du modèle de la première image. Le modèle porte les tenues des images 2 à 6 et s’approche caméra avec des poses espiègles, froides, mignonnes, surprises et stylées. Chaque changement est rythmé par des cuts, effet fisheye et glitch fantôme.
+Buat adegan video: Video fashion bertempo cepat dengan efek fisheye dan transisi glitch.
 ```
 
-### No. 3: Métaphore du cygne pour doudoune
+### No. 3: Metafora Angsa Jaket Down
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/20)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/20)
 
 #### Description
 
-Publicité créative mêlant produit, imagerie naturelle et voix off chinoise.
+Iklan kreatif yang memadukan produk dengan citra alam serta narasi suara bahasa Tionghoa.
 
 #### Prompt
 
 ```text
-S’inspirer de la créativité publicitaire de la vidéo, utiliser les images de doudoune, de duvet d’oie et de cygne, avec le slogan fourni, pour créer une nouvelle publicité vidéo.
+Buat adegan video: Iklan kreatif yang memadukan produk dengan citra alam serta narasi suara bahasa Tionghoa.
 ```
 
-### No. 4: Tai-chi en encre
+### No. 4: Tai Chi Lukisan Tinta
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/21)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/21)
 
 #### Description
 
-Performance martiale en style traditionnel de peinture à l’encre.
+Pertunjukan seni bela diri bergaya lukisan tinta tradisional Tiongkok.
 
 #### Prompt
 
 ```text
-Style encre noir et blanc : le personnage de @image1 reprend les mouvements de @video1 et exécute une scène d’arts martiaux dans un paysage à l’encre, avec éclaboussures d’encre et fusion tradition/modernité.
+Buat adegan video: Pertunjukan seni bela diri bergaya lukisan tinta tradisional Tiongkok.
 ```
 
-### No. 5: Séquence de transformation magique
+### No. 5: Rangkaian Transformasi Magis
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/22)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/22)
 
 #### Description
 
-Transformation de personnage avec croissance organique et dissolution en particules.
+Transformasi karakter dengan pertumbuhan organik dan efek pelarutan partikel.
 
 #### Prompt
 
 ```text
-Remplacer le personnage du premier plan de @video1 par @image1. Le corps se dissout progressivement en particules, puis se recompose dans une autre scène pour un effet de téléportation magique.
+Buat adegan video: Transformasi karakter dengan pertumbuhan organik dan efek pelarutan partikel.
 ```
 
-### No. 6: Logo en transition puzzle
+### No. 6: Logo Reveal Potongan Puzzle
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/23)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/23)
 
 #### Description
 
-Révélation de logo dynamique avec effet de fragmentation puzzle.
+Reveal logo dinamis dengan efek fragmentasi puzzle.
 
 #### Prompt
 
 ```text
-Commencer depuis le plafond de @image1. En style puzzle, la caméra descend ; l’image se compose de pièces qui s’assemblent progressivement pour révéler la scène intérieure complète.
+Buat adegan video: Reveal logo dinamis dengan efek fragmentasi puzzle.
 ```
 
-### No. 7: Révélation de titre en particules dorées
+### No. 7: Reveal Judul Partikel Emas
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/24)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/24)
 
 #### Description
 
-Séquence titre cinématographique avec particules dorées fluides.
+Sekuens judul sinematik dengan partikel emas mengalir.
 
 #### Prompt
 
 ```text
-Ouverture en écran noir. Référence effets de particules et mouvement de caméra de @video1 : explosion de particules au centre puis formation progressive du logo de marque, avec sound design percutant.
+Buat adegan video: Sekuens judul sinematik dengan partikel emas mengalir.
 ```
 
-### No. 8: Nouilles instantanées abstraites
+### No. 8: Mi Instan Abstrak
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/25)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/25)
 
 #### Description
 
-Interprétation surréaliste d’une action quotidienne avec expressions exagérées.
+Interpretasi surealis dari aksi sehari-hari dengan ekspresi berlebihan.
 
 #### Prompt
 
 ```text
-Le personnage de @image1 reprend mouvements et expressions de @video1, joue dans la scène @image2 avec des gestes comiques exagérés, accompagnés d’effets sonores humoristiques.
+Buat adegan video: Interpretasi surealis dari aksi sehari-hari dengan ekspresi berlebihan.
 ```
 
 ### No. 9: Will Smith Eating Spaghetti
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `twitter`
 - **Author:** levelsio (@levelsio)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
@@ -971,10 +968,10 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 10: One Punch Man Animation Surpassing Original Quality
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `twitter`
 - **Author:** Chetaslua (@chetaslua)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
@@ -992,10 +989,10 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 11: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
 
-- **Category:** `Effets Visuels Créatifs`
+- **Category:** `Efek Visual Kreatif`
 - **Source:** `twitter`
 - **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
@@ -1013,164 +1010,161 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 <a id="category-5"></a>
 
-### Développement & Extension Narrative (8)
+### Pengembangan & Ekstensi Cerita (8)
 
-### No. 1: Animation de cases de BD
+### No. 1: Animasi Panel Komik
 
-- **Category:** `Développement & Extension Narrative`
+- **Category:** `Pengembangan & Ekstensi Cerita`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/26)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/26)
 
 #### Description
 
-Transformer des cases de BD statiques en séquence animée avec effets sonores.
+Ubah panel komik statis menjadi urutan animasi dengan efek suara.
 
 #### Prompt
 
 ```text
-Prolonger la vidéo de 15 s en s’inspirant du visuel de l’âne à moto de @image1 et @image2, et ajouter une pub créative.
-Scène 1 : caméra fixe latérale, l’âne sort du hangar, les poules sont effrayées.
-Scène 2 : l’âne tourne sur le sable, gros plan pneu puis vue aérienne.
-Scène 3 : fond montagne enneigée, saut à moto et apparition du slogan « Inspire Creativity, Enrich Life ».
+Buat adegan video: Ubah panel komik statis menjadi urutan animasi dengan efek suara.
 ```
 
-### No. 2: Ouverture documentaire des saisons d’enfance
+### No. 2: Dokumenter Musim Masa Kecil
 
-- **Category:** `Développement & Extension Narrative`
+- **Category:** `Pengembangan & Ekstensi Cerita`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/27)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/27)
 
 #### Description
 
-Créer une ouverture documentaire apaisante à partir d’un storyboard.
+Buat pembuka dokumenter yang menyembuhkan berdasarkan storyboard.
 
 #### Prompt
 
 ```text
-Prolonger la vidéo de 6 s : guitare électrique intense, texte « JUST DO IT » au centre puis fondu. La caméra monte vers le plafond, un homme musclé fait des anneaux ; il porte la tenue de fitness @image1 avec logo « Fitness » de @image2 dans le dos.
+Buat adegan video: Buat pembuka dokumenter yang menyembuhkan berdasarkan storyboard.
 ```
 
-### No. 3: Vidéo de voyage émotionnel
+### No. 3: Video Perjalanan Emosional
 
-- **Category:** `Développement & Extension Narrative`
+- **Category:** `Pengembangan & Ekstensi Cerita`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/28)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/28)
 
 #### Description
 
-Créer une vidéo d’ambiance émotionnelle inspirée de plusieurs images et d’un audio.
+Buat video bernuansa mood yang terinspirasi dari banyak gambar dan audio.
 
 #### Prompt
 
 ```text
-Référence audio de video1. À partir des images 1 à 5, générer un court métrage émotionnel de 15 s montrant une transition de la solitude vers la chaleur humaine, avec musique apaisante.
+Buat adegan video: Buat video bernuansa mood yang terinspirasi dari banyak gambar dan audio.
 ```
 
-### No. 4: Pub cascade d’âne à moto
+### No. 4: Iklan Atraksi Motor Keledai
 
-- **Category:** `Développement & Extension Narrative`
+- **Category:** `Pengembangan & Ekstensi Cerita`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/29)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/29)
 
 #### Description
 
-Étendre une vidéo avec une publicité surréaliste de produit portée par un personnage animal.
+Perpanjang video dengan iklan produk surealis yang menampilkan karakter hewan.
 
 #### Prompt
 
 ```text
-Prolonger la vidéo de 15 s avec une publicité surréaliste de l’âne à moto traversant désert, neige et ville, puis arrêt au coucher du soleil avec slogan final.
+Buat adegan video: Perpanjang video dengan iklan produk surealis yang menampilkan karakter hewan.
 ```
 
-### No. 5: Pub motivation fitness
+### No. 5: Iklan Motivasi Kebugaran
 
-- **Category:** `Développement & Extension Narrative`
+- **Category:** `Pengembangan & Ekstensi Cerita`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/30)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/30)
 
 #### Description
 
-Étendre une vidéo avec séquence fitness dynamique et message motivant.
+Perpanjang video dengan urutan kebugaran dinamis dan pesan motivasi.
 
 #### Prompt
 
 ```text
-Prolonger la vidéo de 6 s : musique de guitare électrique énergique, texte « JUST DO IT » au centre puis disparition progressive ; caméra vers le plafond, homme musclé aux anneaux avec tenue @image1 et logo « Fitness » @image2 ; texte de fin « DO SOME SPORT ».
+Buat adegan video: Perpanjang video dengan urutan kebugaran dinamis dan pesan motivasi.
 ```
 
-### No. 6: Campagne café du matin
+### No. 6: Kampanye Pagi Kopi
 
-- **Category:** `Développement & Extension Narrative`
+- **Category:** `Pengembangan & Ekstensi Cerita`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/31)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/31)
 
 #### Description
 
-Étendre une campagne café avec lumière d’ambiance et révélation de texte.
+Perpanjang iklan kopi dengan pencahayaan atmosferik dan reveal teks.
 
 #### Prompt
 
 ```text
-Prolonger @video1 de 15 s. 1-5 s : la lumière évolue du matin au midi. 5-10 s : le personnage se lève et s’étire. 10-15 s : il marche vers la fenêtre et regarde au loin, ambiance chaleureuse de quotidien.
+Buat adegan video: Perpanjang iklan kopi dengan pencahayaan atmosferik dan reveal teks.
 ```
 
-### No. 7: Histoire skateboard et tournesols
+### No. 7: Cerita Skateboard Bunga Matahari
 
-- **Category:** `Développement & Extension Narrative`
+- **Category:** `Pengembangan & Ekstensi Cerita`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/32)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/32)
 
 #### Description
 
-Étendre une vidéo avec un récit chaleureux de quotidien en après-midi.
+Perpanjang video dengan narasi slice-of-life sore yang hangat.
 
 #### Prompt
 
 ```text
-Prolonger en amont de 10 s : dans une lumière d’après-midi, la caméra part d’une tasse de café sur la table et recule lentement pour révéler un café convivial et des clients qui discutent calmement.
+Buat adegan video: Perpanjang video dengan narasi slice-of-life sore yang hangat.
 ```
 
 ### No. 8: Quick Test of Female Controlling Plane in Complex Action Scene
 
-- **Category:** `Développement & Extension Narrative`
+- **Category:** `Pengembangan & Ekstensi Cerita`
 - **Source:** `twitter`
 - **Author:** Janek Mann (@janekm)
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
@@ -1188,593 +1182,589 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 <a id="category-6"></a>
 
-### Audio & Synthèse Vocale (10)
+### Sintesis Audio & Suara (10)
 
-### No. 1: Comédie du cheval en fisheye
+### No. 1: Komedi Kuda Fisheye
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/33)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/33)
 
 #### Description
 
-Personnage animal avec dialogue synchronisé et effets sonores via objectif fisheye.
+Karakter hewan dengan dialog dan efek suara tersinkron lewat lensa fisheye.
 
 #### Prompt
 
 ```text
-Caméra fixe, fisheye central regardant vers le bas à travers un trou circulaire. Référence fisheye de video1 ; faire regarder le cheval de @video2 vers la lentille, reprendre les mouvements de parole de @video1, et utiliser le BGM inspiré de @video3.
+Buat adegan video: Karakter hewan dengan dialog dan efek suara tersinkron lewat lensa fisheye.
 ```
 
-### No. 2: Documentaire immeuble de bureaux
+### No. 2: Dokumenter Gedung Perkantoran
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/34)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/34)
 
 #### Description
 
-Documentaire immobilier cinématographique avec narration professionnelle.
+Dokumenter real estate sinematik dengan narasi profesional.
 
 #### Prompt
 
 ```text
-À partir des photos de promotion d’immeuble de bureaux, générer un documentaire immobilier réaliste de 15 s au rendu cinématographique, en 2.35:1 et 24 fps. Le timbre de la narration référence @video1 et présente l’écosystème du bâtiment.
+Buat adegan video: Dokumenter real estate sinematik dengan narasi profesional.
 ```
 
-### No. 3: Roast battle chat & chien
+### No. 3: Duel Candaan Kucing & Anjing
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/35)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/35)
 
 #### Description
 
-Talk-show comique avec animaux expressifs et dialogue percutant.
+Talk show komedi dengan karakter hewan ekspresif dan dialog jenaka.
 
 #### Prompt
 
 ```text
-Créer une scène de dialogue satirique dans « la salle de roast chat-chien », avec émotions riches et style stand-up : interactions mordantes et rythme comique entre les deux animateurs animaux.
+Buat adegan video: Talk show komedi dengan karakter hewan ekspresif dan dialog jenaka.
 ```
 
-### No. 4: Performance d’opéra chinois
+### No. 4: Pertunjukan Opera Tiongkok
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/36)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/36)
 
 #### Description
 
-Scène d’opéra du Henan avec chant authentique et tension dramatique.
+Adegan opera Henan tradisional dengan nyanyian autentik dan tensi dramatis.
 
 #### Prompt
 
 ```text
-L’accompagnement d’un classique d’opéra du Henan démarre ; l’acteur d’opéra de @image1 entre en scène, voix mélodieuse et gestuelle élégante, avec éclairage scénique traditionnel.
+Buat adegan video: Adegan opera Henan tradisional dengan nyanyian autentik dan tensi dramatis.
 ```
 
-### No. 5: MV road trip cinématographique
+### No. 5: MV Road Trip Sinematik
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/37)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/37)
 
 #### Description
 
-Clip musical avec mots-clés de cadrage précis et ambiance sonore.
+Video musik dengan keyword sinematografi spesifik dan audio atmosferik.
 
 #### Prompt
 
 ```text
-Générer une vidéo MV de 15 s. Mots-clés : composition stable, rendu cinématographique, voyage, paysage. Montrer des panoramas naturels grandioses avec musique lyrique pour transmettre liberté et exploration.
+Buat adegan video: Video musik dengan keyword sinematografi spesifik dan audio atmosferik.
 ```
 
-### No. 6: Célébration familiale multiculturelle
+### No. 6: Perayaan Keluarga Multikultural
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/38)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/38)
 
 #### Description
 
-Scène familiale chaleureuse avec dialogue anglais et musique latine.
+Adegan keluarga hangat dengan dialog bahasa Inggris dan musik Latin.
 
 #### Prompt
 
 ```text
-Au centre de l’image, une fille avec chapeau chante doucement « I'm so proud of you », expression tendre, lumière douce, ambiance intime, accompagnée à la guitare.
+Buat adegan video: Adegan keluarga hangat dengan dialog bahasa Inggris dan musik Latin.
 ```
 
-### No. 7: Briefing tactique en espagnol
+### No. 7: Briefing Spanyol Tim Taktis
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/39)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/39)
 
 #### Description
 
-Scène tactique militaire avec dialogue espagnol et sons d’équipement.
+Adegan taktis militer dengan dialog bahasa Spanyol dan suara peralatan.
 
 #### Prompt
 
 ```text
-Caméra fixe. Un homme robuste debout (le capitaine) serre le poing, regarde la caméra avec gravité et dit : « Préparez-vous à agir ! ». Thématique militaire et tension élevée.
+Buat adegan video: Adegan taktis militer dengan dialog bahasa Spanyol dan suara peralatan.
 ```
 
-### No. 8: Dialogue de réveil matinal
+### No. 8: Dialog Bangun Pagi
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/40)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/40)
 
 #### Description
 
-Scène intime de réveil avec jeu vocal naturel et nuance émotionnelle.
+Adegan pasangan intim dengan akting suara natural dan nuansa emosional.
 
 #### Prompt
 
 ```text
-0-3 s : réveil qui sonne, image floue d’ouverture. 3-6 s : la personne se lève et s’étire. 6-10 s : toilette et habillage. 10-15 s : sortie avec musique légère, illustrant le début de la journée.
+Buat adegan video: Adegan pasangan intim dengan akting suara natural dan nuansa emosional.
 ```
 
-### No. 9: Bubble tea en dialecte sichuanais
+### No. 9: Boba Dialek Sichuan
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/41)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/41)
 
 #### Description
 
-Scène comique avec dialecte sichuanais authentique et interaction de personnages.
+Adegan komedi dengan dialek Sichuan autentik dan interaksi karakter.
 
 #### Prompt
 
 ```text
-Le singe de @image1 marche vers le comptoir de bubble tea et dit en dialecte : « Patron, un bubble tea perlé ! ». Dialogue humoristique, employé surpris, effet comique.
+Buat adegan video: Adegan komedi dengan dialek Sichuan autentik dan interaksi karakter.
 ```
 
-### No. 10: Narration de Voyage en Occident
+### No. 10: Storytelling Perjalanan ke Barat
 
-- **Category:** `Audio & Synthèse Vocale`
+- **Category:** `Sintesis Audio & Suara`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/42)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/42)
 
 #### Description
 
-Contenu éducatif en style documentaire expliquant la littérature classique chinoise.
+Konten edukatif dengan narasi gaya dokumenter yang menjelaskan sastra klasik Tiongkok.
 
 #### Prompt
 
 ```text
-Avec style documentaire et voix off, présenter le contenu de @image1-5 pour raconter le charme de la littérature classique chinoise, accompagné de musique classique, mêlant pédagogie et art.
+Buat adegan video: Konten edukatif dengan narasi gaya dokumenter yang menjelaskan sastra klasik Tiongkok.
 ```
 
 <a id="category-7"></a>
 
-### Plan-Séquence (5)
+### Sinematografi One-Take (5)
 
-### No. 1: Séquence parkour de poursuite
+### No. 1: Urutan Parkour Kejar-kejaran
 
-- **Category:** `Plan-Séquence`
+- **Category:** `Sinematografi One-Take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/43)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/43)
 
 #### Description
 
-Plan-séquence dynamique suivant un coureur à travers plusieurs environnements.
+One-take dinamis mengikuti pelari melalui banyak lingkungan.
 
 #### Prompt
 
 ```text
-@image1@image2@image3@image4@image5, plan-séquence de poursuite : suivre le coureur de la rue jusqu’aux escaliers, couloirs, toit, puis finir en vue plongeante sur la ville.
+Buat adegan video: One-take dinamis mengikuti pelari melalui banyak lingkungan.
 ```
 
-### No. 2: Rêve de glace depuis hublot d’avion
+### No. 2: Mimpi Es Krim di Jendela Pesawat
 
-- **Category:** `Plan-Séquence`
+- **Category:** `Sinematografi One-Take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/44)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/44)
 
 #### Description
 
-Plan-séquence surréaliste du hublot d’avion vers une interaction magique.
+One-take surealis yang bertransisi dari jendela pesawat ke interaksi magis.
 
 #### Prompt
 
 ```text
-Avec @image1 comme première image, zoomer vers l’extérieur du hublot ; des nuages entrent lentement dans le cadre, dont un nuage coloré au centre qui se transforme progressivement en glace @image2.
+Buat adegan video: One-take surealis yang bertransisi dari jendela pesawat ke interaksi magis.
 ```
 
-### No. 3: Filature thriller d’espionnage
+### No. 3: Ekor Thriller Mata-mata
 
-- **Category:** `Plan-Séquence`
+- **Category:** `Sinematografi One-Take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/45)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/45)
 
 #### Description
 
-Plan-séquence de suspense suivant un agent secret en milieu urbain.
+One-take penuh suspens mengikuti agen rahasia di lingkungan urban.
 
 #### Prompt
 
 ```text
-Style thriller d’espionnage : @image1 en premier plan, caméra frontale suivant rapidement le personnage à travers rues, escaliers et toits, en un seul plan tendu.
+Buat adegan video: One-take penuh suspens mengikuti agen rahasia di lingkungan urban.
 ```
 
-### No. 4: Tea time en cabane chaleureuse
+### No. 4: Waktu Teh Kabin Nyaman
 
-- **Category:** `Plan-Séquence`
+- **Category:** `Sinematografi One-Take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/46)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/46)
 
 #### Description
 
-Plan-séquence en première personne entrant dans un intérieur chaleureux.
+One-take orang pertama memasuki interior hangat yang nyaman.
 
 #### Prompt
 
 ```text
-À partir de l’extérieur @image1, en vue subjective première personne, la caméra entre à l’intérieur, observe l’espace et révèle un environnement domestique chaleureux en plan-séquence.
+Buat adegan video: One-take orang pertama memasuki interior hangat yang nyaman.
 ```
 
-### No. 5: POV montagnes russes
+### No. 5: POV Roller Coaster
 
-- **Category:** `Plan-Séquence`
+- **Category:** `Sinematografi One-Take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/47)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/47)
 
 #### Description
 
-Expérience de montagnes russes en première personne avec vitesse croissante.
+Pengalaman roller coaster orang pertama yang menegangkan dengan kecepatan meningkat.
 
 #### Prompt
 
 ```text
-@image1 @image2 @image3 @image4 @image5, POV subjectif : simuler une expérience de montagnes russes avec plongées, virages et montées rapides.
+Buat adegan video: Pengalaman roller coaster orang pertama yang menegangkan dengan kecepatan meningkat.
 ```
 
 <a id="category-8"></a>
 
-### Montage & Remix Vidéo (5)
+### Editing & Remix Video (5)
 
-### No. 1: Twist sombre façon Titanic
+### No. 1: Titanic dengan Twist Gelap
 
-- **Category:** `Montage & Remix Vidéo`
+- **Category:** `Editing & Remix Video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/48)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/48)
 
 #### Description
 
-Transformer une scène romantique en thriller de trahison.
+Balikkan adegan romantis menjadi thriller pengkhianatan.
 
 #### Prompt
 
 ```text
-Renverser l’intrigue de @video1 : le regard de l’homme passe d’affectueux à froid et impitoyable ; au moment où l’héroïne est sans défense, il la pousse brutalement du pont dans l’eau. Geste net, déterminé, prémédité.
+Buat adegan video: Balikkan adegan romantis menjadi thriller pengkhianatan.
 ```
 
-### No. 2: Du business sérieux au deal de snacks
+### No. 2: Bisnis Serius Jadi Iklan Camilan
 
-- **Category:** `Montage & Remix Vidéo`
+- **Category:** `Editing & Remix Video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/49)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/49)
 
 #### Description
 
-Transformer une réunion tendue en publicité comique de snacks.
+Ubah rapat bisnis tegang menjadi iklan camilan bergaya komedi.
 
 #### Prompt
 
 ```text
-Subvertir entièrement l’histoire de @video1.
-0-3 s : homme en costume assis au bar, calme.
-3-6 s : la femme derrière lui demande, tendue : « De quelle taille ? »
-6-9 s : il sort soudain un énorme paquet de snacks de sous la table.
-13-15 s : sous-titre « Même occupé, n’oublie pas de grignoter ~ ».
+Buat adegan video: Ubah rapat bisnis tegang menjadi iklan camilan bergaya komedi.
 ```
 
-### No. 3: Changement de genre du chanteur principal
+### No. 3: Gender Swap Vokalis Band
 
-- **Category:** `Montage & Remix Vidéo`
+- **Category:** `Editing & Remix Video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/50)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/50)
 
 #### Description
 
-Remplacer la chanteuse principale par un chanteur tout en conservant tous les mouvements.
+Ganti vokalis utama perempuan menjadi laki-laki sambil mempertahankan semua gerakan.
 
 #### Prompt
 
 ```text
-Remplacer la chanteuse principale de video1 par le chanteur principal de @image1, en conservant la performance scénique, la lumière et le rythme d’origine ; changement de genre, style inchangé.
+Buat adegan video: Ganti vokalis utama perempuan menjadi laki-laki sambil mempertahankan semua gerakan.
 ```
 
-### No. 4: Photobomb du requin
+### No. 4: Hiu Photobomb
 
-- **Category:** `Montage & Remix Vidéo`
+- **Category:** `Editing & Remix Video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/51)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/51)
 
 #### Description
 
-Ajouter un élément menaçant dans une scène paisible.
+Tambahkan elemen mengancam ke adegan damai.
 
 #### Prompt
 
 ```text
-Changer la coiffure de la femme de video1 en longs cheveux rouges ; utiliser un gros plan pour mettre en avant la nouvelle coiffure sans modifier le reste.
+Buat adegan video: Tambahkan elemen mengancam ke adegan damai.
 ```
 
-### No. 5: Intégration de marque poulet frit
+### No. 5: Integrasi Merek Ayam Goreng
 
-- **Category:** `Montage & Remix Vidéo`
+- **Category:** `Editing & Remix Video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/52)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/52)
 
 #### Description
 
-Intégrer un packaging de marque à une scène de restaurant existante.
+Tambahkan kemasan bermerek ke adegan restoran yang sudah ada.
 
 #### Prompt
 
 ```text
-La caméra de video1 se déplace à droite : le patron de la boutique de poulet frit traite les commandes, puis le logo de marque @image1 apparaît naturellement sur la boîte d’emballage.
+Buat adegan video: Tambahkan kemasan bermerek ke adegan restoran yang sudah ada.
 ```
 
 <a id="category-9"></a>
 
-### Synchronisation Musicale (4)
+### Sinkronisasi Musik (4)
 
-### No. 1: Fashion beat drop
+### No. 1: Drop Beat Fashion
 
-- **Category:** `Synchronisation Musicale`
+- **Category:** `Sinkronisasi Musik`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/53)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/53)
 
 #### Description
 
-Transformation mode synchronisée sur les beats musicaux.
+Transformasi fashion yang sinkron dengan beat musik.
 
 #### Prompt
 
 ```text
-La fille de l’affiche change continuellement de tenue, en référence à @image1-6. Chaque changement est synchronisé avec le beat musical, avec coupes rapides et forte esthétique mode.
+Buat adegan video: Transformasi fashion yang sinkron dengan beat musik.
 ```
 
-### No. 2: Sync dynamique de portraits sur le beat
+### No. 2: Sinkron Beat Potret Dinamis
 
-- **Category:** `Synchronisation Musicale`
+- **Category:** `Sinkronisasi Musik`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/54)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/54)
 
 #### Description
 
-Portraits de personnages sur les keyframes musicaux avec dynamique renforcée.
+Potret karakter muncul di keyframe musik dengan dinamika yang ditingkatkan.
 
 #### Prompt
 
 ```text
-Séquence @image1 @image2 @image3 @image4 @image5 @image6 @image7 : synchroniser au rythme musical, chaque image restant 1-2 s, pour montrer l’évolution émotionnelle du portrait dans un album dynamique.
+Buat adegan video: Potret karakter muncul di keyframe musik dengan dinamika yang ditingkatkan.
 ```
 
-### No. 3: Clip de transitions paysagères
+### No. 3: Video Musik Transisi Lanskap
 
-- **Category:** `Synchronisation Musicale`
+- **Category:** `Sinkronisasi Musik`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/55)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/55)
 
 #### Description
 
-Transitions de paysages parfaitement alignées sur le rythme musical.
+Transisi pemandangan yang sinkron sempurna dengan ritme musik.
 
 #### Prompt
 
 ```text
-Scènes de paysage @image1 @image2 @image3 @image4 @image5 @image6, avec transitions au rythme de la musique, du lever au coucher du soleil, en style clip musical.
+Buat adegan video: Transisi pemandangan yang sinkron sempurna dengan ritme musik.
 ```
 
-### No. 4: Storyboard anime de bataille d’échecs
+### No. 4: Storyboard Pertarungan Catur Anime
 
-- **Category:** `Synchronisation Musicale`
+- **Category:** `Sinkronisasi Musik`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/56)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/56)
 
 #### Description
 
-Séquence anime storyboardée avec timing dramatique.
+Urutan anime berbasis storyboard dengan timing dramatis.
 
 #### Prompt
 
 ```text
-Segment de combat anime de 8 s style duel stratégique, synchronisé à une musique tendue, avec enchaînements rapides et changements de plans pour un fort impact visuel.
+Buat adegan video: Urutan anime berbasis storyboard dengan timing dramatis.
 ```
 
 <a id="category-10"></a>
 
-### Performance Émotionnelle (3)
+### Performa Emosional (3)
 
-### No. 1: Effondrement devant le miroir
+### No. 1: Keruntuhan di Depan Cermin
 
-- **Category:** `Performance Émotionnelle`
+- **Category:** `Performa Emosional`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/57)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/57)
 
 #### Description
 
-Scène de rupture psychologique avec montée émotionnelle.
+Adegan keruntuhan psikologis dengan emosi yang terus meningkat.
 
 #### Prompt
 
 ```text
-La femme de @image1 s’avance vers le miroir, se regarde, passe d’un visage calme à la tristesse, les larmes coulent ; scène psychologique d’effondrement émotionnel, avec symbolique du miroir.
+Buat adegan video: Adegan keruntuhan psikologis dengan emosi yang terus meningkat.
 ```
 
-### No. 2: Comédie de contraste culinaire
+### No. 2: Komedi Kontras Memasak
 
-- **Category:** `Performance Émotionnelle`
+- **Category:** `Performa Emosional`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/58)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/58)
 
 #### Description
 
-Contraste comique entre cuisine calme et cuisine chaotique.
+Kontras komedik antara memasak yang tenang dan kacau.
 
 #### Prompt
 
 ```text
-Publicité pour hotte aspirante : @image1 en premier plan, cuisine, la hotte s’allume et aspire puissamment la fumée ; gros plans fonctionnels du produit, puis apparition du logo de marque.
+Buat adegan video: Kontras komedik antara memasak yang tenang dan kacau.
 ```
 
-### No. 3: Rugissement dramatique en gros plan
+### No. 3: Close-up Auman Dramatis
 
-- **Category:** `Performance Émotionnelle`
+- **Category:** `Performa Emosional`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `fr`
+- **Language:** `id`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/fr/seedance-2-prompt/59)
+- **Source Link:** [View](https://www.atlascloud.ai/id/seedance-2-prompt/59)
 
 #### Description
 
-Performance dramatique comique avec expression exagérée en gros plan.
+Performa dramatis komedik dengan ekspresi berlebihan.
 
 #### Prompt
 
 ```text
-@image1 comme premier cadre, la caméra tourne en avançant ; le personnage adopte une expression de surprise exagérée, avec ambiance comique et effets sonores humoristiques.
+Buat adegan video: Performa dramatis komedik dengan ekspresi berlebihan.
 ```
 
 ## Local Usage
@@ -1798,4 +1788,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-15T10:31:47.216Z
+> This README is auto-generated. 2026-06-15T11:09:54.002Z

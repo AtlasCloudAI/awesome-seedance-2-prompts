@@ -10,7 +10,7 @@
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Current-brightgreen)](README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](README_sv.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-Current-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_sv.md)
 
 ---
 
@@ -28,8 +28,8 @@
 
 ## 🌐 View in AtlasCloud
 
-- Prompt Library: [View](https://www.atlascloud.ai/es/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
-- Model Page: [View](https://www.atlascloud.ai/es/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
+- Prompt Library: [View](https://www.atlascloud.ai/it/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
+- Model Page: [View](https://www.atlascloud.ai/it/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 ## 🧩 Supported Models
 
@@ -70,290 +70,290 @@ Seedance 2.0 is strongest at multimodal video generation. It handles text, image
 | Total Prompts | **70** |
 | Categories | **10** |
 | Preview Videos | **70** |
-| Last Updated | **2026-06-15T10:31:47.215Z** |
+| Last Updated | **2026-06-15T11:09:53.999Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Generación de Video Ultra-Realista`](#category-1): **5**
-- [`Consistencia de Personajes y Escenas`](#category-2): **6**
-- [`Cinematografía Avanzada`](#category-3): **13**
-- [`Efectos Visuales Creativos`](#category-4): **11**
-- [`Desarrollo y Extensión Narrativa`](#category-5): **8**
-- [`Audio y Síntesis de Voz`](#category-6): **10**
-- [`Toma Única Continua`](#category-7): **5**
-- [`Edición y Remix de Video`](#category-8): **5**
-- [`Sincronización Musical`](#category-9): **4**
-- [`Actuación Emocional`](#category-10): **3**
+- [`Ultra-Realistic Video Generation`](#category-1): **5**
+- [`Character & Scene Consistency`](#category-2): **6**
+- [`Advanced Camera Movements`](#category-3): **13**
+- [`Creative Visual Effects`](#category-4): **11**
+- [`Story Development & Extension`](#category-5): **8**
+- [`Audio & Voice Synthesis`](#category-6): **10**
+- [`One-Take Cinematography`](#category-7): **5**
+- [`Video Editing & Remixing`](#category-8): **5**
+- [`Music Synchronization`](#category-9): **4**
+- [`Emotional Performance`](#category-10): **3**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Escena elegante de lavandería
+### No. 1: Scena elegante di bucato
 
-- **Category:** `Generación de Video Ultra-Realista`
+- **Category:** `Ultra-Realistic Video Generation`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/1)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/1)
 
 #### Description
 
-Una mujer tiende la ropa con elegancia, saca otra prenda de la cesta y la sacude con movimiento natural.
+Una donna stende il bucato con eleganza, prende un altro capo dal cesto e lo scuote con movimento naturale.
 
 #### Prompt
 
 ```text
-Toma fija de cámara: una chica tiende la ropa con elegancia; al terminar, saca otra prenda de la cesta y la sacude con fuerza.
+Inquadratura fissa: una ragazza stende i panni con eleganza; finito il gesto, prende un altro capo dal cesto e lo scuote con energia.
 ```
 
-### No. 2: Regreso a casa tras el trabajo
+### No. 2: Rientro a casa dopo il lavoro
 
-- **Category:** `Consistencia de Personajes y Escenas`
+- **Category:** `Character & Scene Consistency`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/5)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/5)
 
 #### Description
 
-Narrativa continua que mantiene la consistencia del personaje desde el pasillo de oficina hasta el hogar, con transición emocional e interacción familiar.
+Narrazione continua che mantiene la coerenza del personaggio dal corridoio dell’ufficio fino a casa, con transizione emotiva e interazione familiare.
 
 #### Prompt
 
 ```text
-El hombre @image1 camina cansado por el pasillo después del trabajo, reduce el paso y se detiene frente a la puerta de casa. Primer plano de su rostro: respira hondo, regula sus emociones y se relaja. Busca las llaves, abre la puerta y entra; su hija pequeña y un perro corren a abrazarlo. Mantener una atmósfera cálida y diálogo natural.
+L’uomo @image1 torna dal lavoro e cammina stanco nel corridoio; rallenta e si ferma davanti alla porta di casa. Primo piano sul volto: fa un respiro profondo, regola le emozioni e si rilassa. Cerca le chiavi, apre la porta, entra in casa; la figlia piccola e il cane corrono ad abbracciarlo. Atmosfera calda con dialoghi naturali.
 ```
 
-### No. 3: Zoom Hitchcock en ascensor
+### No. 3: Zoom Hitchcock in ascensore
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/11)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/11)
 
 #### Description
 
-Efecto clásico de vértigo tipo Hitchcock combinado con movimientos de cámara complejos en espacio confinado.
+Classico effetto vertigine in stile Hitchcock combinato con movimenti di camera complessi in spazio ristretto.
 
 #### Prompt
 
 ```text
-Toma al hombre de @image1 dentro del ascensor de @image2, copiando el lenguaje de cámara y expresiones faciales de @video1. En el momento de terror aplica zoom de Hitchcock; añade planos orbitales del interior. Se abre la puerta, la cámara lo sigue al salir, y en el exterior (referencia @image3) continúa un seguimiento multiángulo estilo brazo robótico según su línea de visión.
+Prendi l’uomo di @image1 nell’ascensore di @image2, replicando camera e mimica da @video1. Nel momento di paura usa lo zoom Hitchcock; poi vari piani orbitali dell’interno. Quando si apre la porta, segui l’uscita verso la scena esterna @image3 con tracking multi-angolo sulla sua linea di sguardo.
 ```
 
-### No. 4: Viaje al universo con gafas VR
+### No. 4: Viaggio cosmico con occhiali VR
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/18)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/18)
 
 #### Description
 
-Transición inmersiva POV desde el mundo real, pasando por interfaz VR, hacia múltiples reinos digitales.
+Transizione POV immersiva dal mondo reale, attraverso interfaccia VR, verso più domini digitali.
 
 #### Prompt
 
 ```text
-Sustituye al personaje de @video1 por @image1 y usa @image1 como primer fotograma. El personaje se pone gafas sci-fi; con referencia de cámara de @video1, pasa de tercera persona a POV y viaja por una interfaz de IA hasta el universo azul profundo de @image2, donde aparecen naves que se alejan.
+Sostituisci il personaggio di @video1 con @image1 e usa @image1 come primo frame. Il personaggio indossa occhiali sci-fi; con camera ispirata a @video1 passa dalla terza persona alla POV e attraversa un mondo AI fino all’universo blu profondo di @image2, dove compaiono astronavi che volano in lontananza.
 ```
 
-### No. 5: Animación de viñetas cómic
+### No. 5: Animazione di vignette fumetto
 
-- **Category:** `Desarrollo y Extensión Narrativa`
+- **Category:** `Story Development & Extension`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/26)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/26)
 
 #### Description
 
-Convierte viñetas estáticas en secuencia animada con efectos sonoros.
+Trasforma vignette statiche in una sequenza animata con effetti sonori.
 
 #### Prompt
 
 ```text
-Extiende el video 15 s, tomando como referencia la imagen del burro en moto de @image1 y @image2 para añadir un anuncio creativo.
-Escena 1: cámara lateral fija, el burro sale disparado del corral y asusta a las gallinas.
-Escena 2: el burro derrapa en arena; primero primer plano de la rueda, luego toma aérea.
-Escena 3: con fondo de montañas nevadas, el burro salta una ladera y aparece el slogan "Inspire Creativity, Enrich Life".
+Estendi il video di 15 s usando come riferimento l’asino in moto di @image1 e @image2, aggiungendo una sequenza pubblicitaria creativa.
+Scena 1: camera fissa laterale, l’asino esce dal recinto e spaventa le galline.
+Scena 2: l’asino gira sulla sabbia, prima close-up pneumatico poi ripresa aerea.
+Scena 3: sfondo montagna innevata, salto in moto e slogan “Inspire Creativity, Enrich Life”.
 ```
 
-### No. 6: Comedia de caballo con lente ojo de pez
+### No. 6: Commedia del cavallo con fisheye
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/33)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/33)
 
 #### Description
 
-Personaje animal con diálogo y efectos sonoros sincronizados mediante lente ojo de pez.
+Personaggio animale con dialogo sincronizzato ed effetti sonori tramite lente fisheye.
 
 #### Prompt
 
 ```text
-Cámara fija: un ojo de pez central mira hacia abajo a través de un orificio circular. Referencia el lente ojo de pez de video1, haz que el caballo de @video2 mire hacia la lente y copie movimientos de habla de @video1. El BGM referencia el audio de @video3.
+Camera fissa, fisheye centrale che guarda in basso attraverso un foro circolare. Riferisciti al fisheye di video1, fai guardare il cavallo di @video2 verso la lente, riprendi i movimenti del parlato da @video1 e usa BGM ispirato a @video3.
 ```
 
-### No. 7: Secuencia parkour en persecución
+### No. 7: Sequenza parkour d’inseguimento
 
-- **Category:** `Toma Única Continua`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/43)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/43)
 
 #### Description
 
-Plano secuencia dinámico siguiendo a un corredor por múltiples entornos.
+Piano sequenza dinamico che segue un runner attraverso ambienti multipli.
 
 #### Prompt
 
 ```text
-@image1@image2@image3@image4@image5, plano secuencia de seguimiento: desde la calle sigue al corredor por escaleras, pasillos y azotea hasta terminar con vista cenital de la ciudad.
+@image1@image2@image3@image4@image5, piano sequenza di inseguimento: segui il runner dalla strada su per le scale, attraverso corridoi, fino al tetto, con chiusura in vista panoramica sulla città.
 ```
 
-### No. 8: Giro oscuro de Titanic
+### No. 8: Twist oscuro in stile Titanic
 
-- **Category:** `Edición y Remix de Video`
+- **Category:** `Video Editing & Remixing`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/48)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/48)
 
 #### Description
 
-Convierte una escena romántica en thriller de traición.
+Ribalta una scena romantica in thriller di tradimento.
 
 #### Prompt
 
 ```text
-Subvierte la trama de @video1: la mirada del hombre pasa de tierna a fría y despiadada; en un instante de descuido empuja a la protagonista fuera del puente hacia el agua. Acción seca y decidida, con sensación de determinación premeditada.
+Ribalta la trama di @video1: lo sguardo dell’uomo passa da dolce a gelido e crudele; nel momento in cui la protagonista è indifesa, la spinge giù dal ponte nell’acqua. Azione netta e determinata, dal tono premeditato.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Generación de Video Ultra-Realista (5)
+### Ultra-Realistic Video Generation (5)
 
-### No. 1: Escena elegante de lavandería
+### No. 1: Scena elegante di bucato
 
-- **Category:** `Generación de Video Ultra-Realista`
+- **Category:** `Ultra-Realistic Video Generation`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/1)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/1)
 
 #### Description
 
-Una mujer tiende la ropa con elegancia, saca otra prenda de la cesta y la sacude con movimiento natural.
+Una donna stende il bucato con eleganza, prende un altro capo dal cesto e lo scuote con movimento naturale.
 
 #### Prompt
 
 ```text
-Toma fija de cámara: una chica tiende la ropa con elegancia; al terminar, saca otra prenda de la cesta y la sacude con fuerza.
+Inquadratura fissa: una ragazza stende i panni con eleganza; finito il gesto, prende un altro capo dal cesto e lo scuote con energia.
 ```
 
-### No. 2: Personaje interactivo en pintura
+### No. 2: Personaggio interattivo nel dipinto
 
-- **Category:** `Generación de Video Ultra-Realista`
+- **Category:** `Ultra-Realistic Video Generation`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/2)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/2)
 
 #### Description
 
-Un personaje dentro de una pintura cobra vida y bebe cola a escondidas, creando una escena comercial humorística.
+Un personaggio in un dipinto prende vita e beve cola di nascosto, creando una scena pubblicitaria ironica.
 
 #### Prompt
 
 ```text
-El personaje del cuadro muestra una expresión culpable, mira a ambos lados, asoma fuera del marco y saca la mano para tomar una cola y beber un sorbo. Justo entonces se oyen pasos y devuelve rápidamente la bebida a su sitio. Un vaquero toma la cola y se marcha. Al final, la cámara avanza hasta un fondo negro con la lata iluminada desde arriba, y aparece un subtítulo artístico con voz en off.
+Il personaggio nel dipinto ha un’espressione colpevole, guarda a destra e sinistra, si sporge fuori dalla cornice, allunga la mano e prende una cola bevendone un sorso. Subito dopo si sentono passi e rimette in fretta la bevanda al suo posto. Un cowboy prende la cola e se ne va. La camera avanza fino a uno sfondo nero con la lattina illuminata dall’alto; in basso compaiono sottotitolo artistico e voice-over.
 ```
 
-### No. 3: Escena callejera victoriana
+### No. 3: Scena stradale vittoriana
 
-- **Category:** `Generación de Video Ultra-Realista`
+- **Category:** `Ultra-Realistic Video Generation`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/3)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/3)
 
 #### Description
 
-Escena de época ambientada en el Londres del siglo XIX con detalles ambientales auténticos y reacción del personaje.
+Scena d’epoca nella Londra del XIX secolo con dettagli ambientali autentici e reazioni credibili del personaggio.
 
 #### Prompt
 
 ```text
-La cámara se aleja ligeramente para revelar la calle completa y sigue a la protagonista. El viento mueve su falda mientras camina por el Londres del siglo XIX; un coche de vapor pasa rápidamente a su lado y ella, sorprendida, se cubre la falda con ambas manos. Añadir pasos, ruido de multitud y sonido de vehículos.
+La camera arretra leggermente mostrando tutta la strada e segue la protagonista. Il vento muove l’orlo della gonna mentre cammina nella Londra del XIX secolo; da destra arriva un veicolo a vapore che la sfiora rapidamente. Lei, sorpresa, abbassa la gonna con entrambe le mani. Aggiungi suoni di passi, folla e traffico.
 ```
 
-### No. 4: Persecución con obstáculos
+### No. 4: Inseguimento con ostacoli
 
-- **Category:** `Generación de Video Ultra-Realista`
+- **Category:** `Ultra-Realistic Video Generation`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/4)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/4)
 
 #### Description
 
-Secuencia intensa de persecución con colisiones realistas y pánico colectivo.
+Sequenza d’inseguimento intensa con collisioni realistiche e panico della folla.
 
 #### Prompt
 
 ```text
-La cámara sigue a un hombre vestido de negro que huye mientras una multitud lo persigue. Se cambia a seguimiento lateral; el personaje choca con un puesto de frutas, se levanta y continúa corriendo. Incluir sonido de pánico de la gente.
+La camera segue un uomo vestito di nero che fugge rapidamente, inseguito da un gruppo di persone. Passaggio a tracking laterale: il personaggio, in panico, urta un banco di frutta, cade, si rialza e continua a correre. Inserire rumore confuso della folla.
 ```
 
 ### No. 5: Will Smith Eating Spaghetti
 
-- **Category:** `Generación de Video Ultra-Realista`
+- **Category:** `Ultra-Realistic Video Generation`
 - **Source:** `twitter`
 - **Author:** levelsio (@levelsio)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
@@ -371,291 +371,291 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 <a id="category-2"></a>
 
-### Consistencia de Personajes y Escenas (6)
+### Character & Scene Consistency (6)
 
-### No. 1: Regreso a casa tras el trabajo
+### No. 1: Rientro a casa dopo il lavoro
 
-- **Category:** `Consistencia de Personajes y Escenas`
+- **Category:** `Character & Scene Consistency`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/5)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/5)
 
 #### Description
 
-Narrativa continua que mantiene la consistencia del personaje desde el pasillo de oficina hasta el hogar, con transición emocional e interacción familiar.
+Narrazione continua che mantiene la coerenza del personaggio dal corridoio dell’ufficio fino a casa, con transizione emotiva e interazione familiare.
 
 #### Prompt
 
 ```text
-El hombre @image1 camina cansado por el pasillo después del trabajo, reduce el paso y se detiene frente a la puerta de casa. Primer plano de su rostro: respira hondo, regula sus emociones y se relaja. Busca las llaves, abre la puerta y entra; su hija pequeña y un perro corren a abrazarlo. Mantener una atmósfera cálida y diálogo natural.
+L’uomo @image1 torna dal lavoro e cammina stanco nel corridoio; rallenta e si ferma davanti alla porta di casa. Primo piano sul volto: fa un respiro profondo, regola le emozioni e si rilassa. Cerca le chiavi, apre la porta, entra in casa; la figlia piccola e il cane corrono ad abbracciarlo. Atmosfera calda con dialoghi naturali.
 ```
 
-### No. 2: Transformación en escenario de ópera
+### No. 2: Trasformazione su palco d’opera
 
-- **Category:** `Consistencia de Personajes y Escenas`
+- **Category:** `Character & Scene Consistency`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/6)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/6)
 
 #### Description
 
-Reemplazo de personaje manteniendo los movimientos de cámara y transiciones del video de referencia.
+Sostituzione personaggio mantenendo movimenti di camera e transizioni del video di riferimento.
 
 #### Prompt
 
 ```text
-Sustituye a la chica de @video1 por una actriz de ópera china (huadan). Sitúa la escena en un escenario exquisito, tomando como referencia los movimientos de cámara y transiciones de @video1 para sincronizarlos con la actuación y reforzar el impacto visual.
+Sostituisci la ragazza in @video1 con una huadan dell’opera cinese. Ambienta la scena su un palco raffinato, riferendoti ai movimenti di camera e alle transizioni di @video1 per allinearle all’azione del personaggio e aumentare l’impatto visivo.
 ```
 
-### No. 3: Transición fluida en plano secuencia
+### No. 3: Transizione fluida in piano sequenza
 
-- **Category:** `Consistencia de Personajes y Escenas`
+- **Category:** `Character & Scene Consistency`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/7)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/7)
 
 #### Description
 
-Plano secuencia complejo con múltiples transiciones que conserva coherencia visual.
+Piano sequenza complesso con più transizioni di scena e coerenza visiva.
 
 #### Prompt
 
 ```text
-Referencia todas las transiciones y movimientos de cámara de @video1 en un plano secuencia: comienza en un tablero de ajedrez, desplázate a la izquierda para mostrar arena amarilla, sube hacia una playa con huellas, muestra a una chica de blanco alejándose, pasa a vista aérea del mar y enlaza de forma fluida hasta cortinas en movimiento; termina con un primer plano del rostro de la chica.
+Riferisciti a tutte le transizioni e movimenti di camera di @video1 in un unico piano sequenza: dal tavolo da gioco, spostamento a sinistra su ghiaia gialla, risalita verso spiaggia con impronte, passaggio a vista aerea sul mare; transizione fluida dalle onde a tende mosse dal vento, poi pull-back su primo piano del volto della ragazza.
 ```
 
-### No. 4: Exhibición de producto con moño magnético
+### No. 4: Showcase prodotto con fiocco magnetico
 
-- **Category:** `Consistencia de Personajes y Escenas`
+- **Category:** `Character & Scene Consistency`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/8)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/8)
 
 #### Description
 
-Publicidad de producto coreano con consistencia de marca y demostración en múltiples escenas.
+Pubblicità prodotto coreano con coerenza di brand e dimostrazione multi-scena.
 
 #### Prompt
 
 ```text
-0-2 s: montaje rápido de cuatro paneles con fondos rojo, rosa, morado y azul; el producto de @image1 gira en el centro (0,5 s por panel). 2-4 s: primer plano del producto con giro de cámara 360° para mostrar detalles. 4-6 s: primer plano del logo y aparición gradual del nombre de marca. Música electrónica rítmica durante todo el clip.
+0-2 s: flash cut in quattro riquadri (rosso, rosa, viola, blu), prodotto @image1 al centro in rotazione, 0,5 s ciascuno. 2-4 s: primo piano prodotto con orbita 360° per i dettagli. 4-6 s: primo piano logo con comparsa del brand. Musica elettronica ritmica per tutta la clip.
 ```
 
-### No. 5: Comercial de bolso de lujo
+### No. 5: Spot borsa di lusso
 
-- **Category:** `Consistencia de Personajes y Escenas`
+- **Category:** `Character & Scene Consistency`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/9)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/9)
 
 #### Description
 
-Exhibición de producto que mantiene la consistencia de detalles entre varias imágenes de referencia.
+Showcase prodotto che mantiene la coerenza dei dettagli tra più immagini di riferimento.
 
 #### Prompt
 
 ```text
-Realiza un video comercial del bolso de @image1 en estilo de alta moda: cámara orbitando lentamente para mostrar textura del cuero, herrajes metálicos y estructura interna, con iluminación suave que destaque lujo y artesanía.
+Realizza un video commerciale della borsa in @image1 con stile moda di fascia alta: camera orbitale lenta, evidenza di texture della pelle, componenti metalliche e struttura interna, con luci morbide che valorizzano lusso e artigianalità.
 ```
 
-### No. 6: Exploración de terror en primera persona
+### No. 6: Esplorazione horror in prima persona
 
-- **Category:** `Consistencia de Personajes y Escenas`
+- **Category:** `Character & Scene Consistency`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/10)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/10)
 
 #### Description
 
-Perspectiva en primera persona que mantiene consistencia de escena en varios entornos.
+Prospettiva in prima persona con coerenza di scena su più ambienti.
 
 #### Prompt
 
 ```text
-Usa @image1 como primer fotograma. En primera persona, la cámara avanza lentamente por un pasillo oscuro; sombras inquietantes se mueven en las paredes y se oye una respiración grave a lo lejos. Crear una atmósfera tensa y opresiva.
+Usa @image1 come primo fotogramma. In prima persona, la camera avanza lentamente in un corridoio buio; ombre inquietanti si muovono sulle pareti e in lontananza si sente un respiro profondo. Crea una tensione opprimente.
 ```
 
 <a id="category-3"></a>
 
-### Cinematografía Avanzada (13)
+### Advanced Camera Movements (13)
 
-### No. 1: Zoom Hitchcock en ascensor
+### No. 1: Zoom Hitchcock in ascensore
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/11)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/11)
 
 #### Description
 
-Efecto clásico de vértigo tipo Hitchcock combinado con movimientos de cámara complejos en espacio confinado.
+Classico effetto vertigine in stile Hitchcock combinato con movimenti di camera complessi in spazio ristretto.
 
 #### Prompt
 
 ```text
-Toma al hombre de @image1 dentro del ascensor de @image2, copiando el lenguaje de cámara y expresiones faciales de @video1. En el momento de terror aplica zoom de Hitchcock; añade planos orbitales del interior. Se abre la puerta, la cámara lo sigue al salir, y en el exterior (referencia @image3) continúa un seguimiento multiángulo estilo brazo robótico según su línea de visión.
+Prendi l’uomo di @image1 nell’ascensore di @image2, replicando camera e mimica da @video1. Nel momento di paura usa lo zoom Hitchcock; poi vari piani orbitali dell’interno. Quando si apre la porta, segui l’uscita verso la scena esterna @image3 con tracking multi-angolo sulla sua linea di sguardo.
 ```
 
-### No. 2: Persecución compleja en pasillo
+### No. 2: Inseguimento complesso nel corridoio
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/12)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/12)
 
 #### Description
 
-Tracking multiángulo con movimientos rápidos y cambios de perspectiva.
+Tracking multi-angolo con movimenti rapidi e cambi di prospettiva.
 
 #### Prompt
 
 ```text
-Usa al hombre de @image1 en el pasillo de @image2, replicando movimientos de cámara de @video1. Síguelo al correr por la esquina, luego en el pasillo largo de @image3 pasa de seguimiento trasero a órbita en ángulo bajo hasta su frontal.
+Uomo da @image1 nel corridoio @image2, con linguaggio camera di @video1. Seguilo mentre corre all’angolo e poi nel corridoio lungo @image3 passa da inseguimento posteriore a orbita low-angle fino al frontale.
 ```
 
-### No. 3: Exhibición de tableta con rotación
+### No. 3: Showcase tablet con rotazione
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/13)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/13)
 
 #### Description
 
-Exhibición de producto con cámara rotatoria y transformación del entorno.
+Showcase prodotto con camera rotante e trasformazione ambientale.
 
 #### Prompt
 
 ```text
-La tableta de @image1 es el sujeto principal. Toma como referencia @video1: desciende lentamente desde vista cenital, enciende la pantalla mostrando la interfaz y rodea el dispositivo para enseñar sus detalles.
+Il tablet di @image1 è il soggetto principale. Movimento camera ispirato a @video1: discesa lenta dalla vista dall’alto, schermo che si illumina mostrando l’interfaccia, poi orbita per evidenziare i dettagli hardware.
 ```
 
-### No. 4: Push-pull rítmico de danza
+### No. 4: Push-pull ritmico di danza
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/14)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/14)
 
 #### Description
 
-Movimientos push-pull sincronizados con la coreografía de baile.
+Movimenti push-pull sincronizzati con la coreografia di danza.
 
 #### Prompt
 
 ```text
-La celebridad femenina de @image1 es la protagonista. Referencia el movimiento de cámara de @video1: de plano general a primer plano, mostrando danza elegante con seguimiento rotacional para capturar la belleza dinámica.
+La celebrità femminile in @image1 è protagonista. Riferimento al movimento camera di @video1: dal campo lungo al primo piano, con passi di danza eleganti seguiti da rotazione attorno al personaggio.
 ```
 
-### No. 5: Escena de combate de artes marciales
+### No. 5: Scena di combattimento marziale
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/15)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/15)
 
 #### Description
 
-Coreografía de acción con múltiples personajes y armas en entorno dinámico.
+Coreografia action con più personaggi e armi in ambiente dinamico.
 
 #### Prompt
 
 ```text
-Toma como referencia el personaje de lanza en @image1 @image2 y las escenas de @image3 @image4. Genera una secuencia de artes marciales con movimientos continuos de lanza y seguimiento multiángulo que destaque fuerza y estética.
+Prendi come riferimento il personaggio con lancia in @image1 @image2 e le scene in @image3 @image4. Genera una scena marziale con sequenze continue di lancia e tracking multi-angolo per esprimere forza e bellezza.
 ```
 
-### No. 6: Batalla épica de fantasía
+### No. 6: Battaglia fantasy epica
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/16)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/16)
 
 #### Description
 
-Combate cinematográfico con cámara orbital y efectos de partículas.
+Scena di combattimento cinematografica con camera orbitale ed effetti particellari.
 
 #### Prompt
 
 ```text
-Referencia la acción de personaje de video1 y el entorno de @image1 @image2 para crear una batalla fantástica: el personaje lanza habilidades mágicas con efectos de partículas, mientras la cámara lo sigue dinámicamente.
+Riferisciti ai movimenti del personaggio in video1 e all’ambiente di @image1 @image2 per creare una battaglia fantasy con abilità magiche, effetti particellari e camera dinamica di inseguimento.
 ```
 
-### No. 7: Cinematografía para comercial de coche
+### No. 7: Cinematografia per spot auto
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/17)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/17)
 
 #### Description
 
-Videografía automotriz profesional con cámara dinámica y transiciones de escena.
+Videografia automotive professionale con movimenti di camera dinamici e transizioni di scena.
 
 #### Prompt
 
 ```text
-Referencia el ritmo de cámara y de transición de @video1, usando @image1 como escena inicial. Cambia con fluidez entre varios escenarios para mostrar conducción de coche en ciudad, carretera de montaña y costa.
+Riferisciti al ritmo di camera e alle transizioni di @video1, usando @image1 come scena iniziale. Passa fluidamente tra più ambienti mostrando l’auto in città, strada di montagna e costa.
 ```
 
 ### No. 8: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `twitter`
 - **Author:** Min Choi (@minchoi)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
@@ -673,10 +673,10 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 9: Aerial Shot of Burning Military Vehicle in Urban Warfare
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `twitter`
 - **Author:** Carlos Santana (@DotCSV)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
@@ -694,10 +694,10 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 10: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `twitter`
 - **Author:** John (@johnAGI168)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
@@ -715,10 +715,10 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 11: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `twitter`
 - **Author:** el.cine (@EHuanglu)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
@@ -736,10 +736,10 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 12: South Indian Cinema Alien Scene Generated from Single Prompt
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `twitter`
 - **Author:** rohan anil (@_arohan_)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
@@ -757,10 +757,10 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 13: Ground Combat Shot of Soldiers Traversing Desert Terrain
 
-- **Category:** `Cinematografía Avanzada`
+- **Category:** `Advanced Camera Movements`
 - **Source:** `twitter`
 - **Author:** Chetaslua (@chetaslua)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
@@ -778,182 +778,182 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 <a id="category-4"></a>
 
-### Efectos Visuales Creativos (11)
+### Creative Visual Effects (11)
 
-### No. 1: Viaje al universo con gafas VR
+### No. 1: Viaggio cosmico con occhiali VR
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/18)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/18)
 
 #### Description
 
-Transición inmersiva POV desde el mundo real, pasando por interfaz VR, hacia múltiples reinos digitales.
+Transizione POV immersiva dal mondo reale, attraverso interfaccia VR, verso più domini digitali.
 
 #### Prompt
 
 ```text
-Sustituye al personaje de @video1 por @image1 y usa @image1 como primer fotograma. El personaje se pone gafas sci-fi; con referencia de cámara de @video1, pasa de tercera persona a POV y viaja por una interfaz de IA hasta el universo azul profundo de @image2, donde aparecen naves que se alejan.
+Sostituisci il personaggio di @video1 con @image1 e usa @image1 come primo frame. Il personaggio indossa occhiali sci-fi; con camera ispirata a @video1 passa dalla terza persona alla POV e attraversa un mondo AI fino all’universo blu profondo di @image2, dove compaiono astronavi che volano in lontananza.
 ```
 
-### No. 2: Comercial de moda con cambios rápidos
+### No. 2: Spot fashion a cambio rapido
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/19)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/19)
 
 #### Description
 
-Video de moda de ritmo rápido con efecto ojo de pez y transiciones glitch.
+Video fashion ad alto ritmo con effetto fisheye e transizioni glitch.
 
 #### Prompt
 
 ```text
-Usa los rasgos faciales de la modelo de la primera imagen. Con los atuendos de las imágenes 2-6, acércala a cámara en poses traviesa, fría, tierna, sorprendida y estilosa. Cada cambio de look va con corte, efecto ojo de pez y destello tipo glitch/doble imagen.
+Riferisciti ai tratti del volto del modello nella prima immagine. Il modello indossa gli outfit delle immagini 2-6, si avvicina alla camera e posa in modo giocoso, freddo, carino, sorpreso e cool. Ogni cambio outfit è accompagnato da cut, fisheye ed effetto glitch/doppia immagine.
 ```
 
-### No. 3: Metáfora del cisne para chaqueta de plumas
+### No. 3: Metafora del cigno per piumino
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/20)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/20)
 
 #### Description
 
-Comercial creativo que mezcla producto, imaginería natural y locución en chino.
+Spot creativo che fonde prodotto, immaginario naturale e voice-over in cinese.
 
 #### Prompt
 
 ```text
-Toma la creatividad del anuncio de referencia y usa las imágenes del plumífero, de plumón de ganso y de cisne, junto con el copy publicitario indicado, para generar un nuevo anuncio de chaqueta de plumón.
+Riferisciti alla creatività dello spot video, usa le immagini del piumino insieme a immagini di piuma d’oca e cigno, integrando il copy fornito, per generare un nuovo video pubblicitario del piumino.
 ```
 
-### No. 4: Tai chi en tinta china
+### No. 4: Tai chi in stile inchiostro
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/21)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/21)
 
 #### Description
 
-Artes marciales en estilo tradicional de tinta china.
+Performance marziale in stile tradizionale di pittura a inchiostro.
 
 #### Prompt
 
 ```text
-Estilo tinta china en blanco y negro: el personaje de @image1 imita los movimientos de @video1 y ejecuta artes marciales en un paisaje de tinta, con salpicaduras de tinta y estética fusión tradicional-moderna.
+Stile inchiostro bianco e nero: il personaggio di @image1 segue i movimenti di @video1 ed esegue arti marziali in un paesaggio a inchiostro con schizzi dinamici, fondendo tradizione e modernità.
 ```
 
-### No. 5: Secuencia de transformación mágica
+### No. 5: Sequenza di trasformazione magica
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/22)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/22)
 
 #### Description
 
-Transformación de personaje con crecimiento orgánico y disolución de partículas.
+Trasformazione del personaggio con crescita organica e dissolvenza in particelle.
 
 #### Prompt
 
 ```text
-Reemplaza el personaje del primer fotograma de @video1 por @image1. El cuerpo se transforma gradualmente en partículas y se dispersa; luego se recompone en otra escena, creando un efecto mágico de teletransporte.
+Sostituisci il personaggio del primo frame di @video1 con @image1. Il corpo si trasforma gradualmente in particelle e si dissolve, poi si ricompone in un’altra scena creando un effetto di teletrasporto magico.
 ```
 
-### No. 6: Logo con transición de rompecabezas
+### No. 6: Logo con transizione puzzle
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/23)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/23)
 
 #### Description
 
-Revelado dinámico de logo con efecto de fragmentación tipo rompecabezas.
+Reveal dinamico del logo con frammentazione effetto puzzle.
 
 #### Prompt
 
 ```text
-Comienza en el techo de @image1. Con estilo de rompecabezas, mueve la cámara hacia abajo y forma la imagen con múltiples piezas que se ensamblan poco a poco hasta mostrar un interior completo en una transición creativa.
+Parti dal soffitto di @image1. Con stile puzzle, la camera scende e l’immagine è composta da tessere che si assemblano progressivamente fino a rivelare l’interno completo.
 ```
 
-### No. 7: Revelado de título con partículas doradas
+### No. 7: Reveal del titolo con particelle dorate
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/24)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/24)
 
 #### Description
 
-Secuencia de título cinematográfica con partículas doradas fluidas.
+Sequenza titolo cinematografica con particelle dorate fluide.
 
 #### Prompt
 
 ```text
-Apertura en negro. Referencia efectos de partículas y movimiento de cámara de @video1: las partículas explotan desde el centro y forman gradualmente el logo de marca, con diseño de intro premium y sonido impactante.
+Apertura in nero. Riferisciti agli effetti particellari e al movimento camera di @video1: particelle che esplodono dal centro e formano gradualmente il logo del brand, con sound design d’impatto.
 ```
 
-### No. 8: Fideos instantáneos en estilo abstracto
+### No. 8: Noodles istantanei in stile astratto
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/25)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/25)
 
 #### Description
 
-Interpretación surrealista de una acción cotidiana con expresiones exageradas.
+Interpretazione surreale di un’azione quotidiana con espressioni esagerate.
 
 #### Prompt
 
 ```text
-El personaje de @image1 toma como referencia los movimientos y expresiones de @video1, actuando en la escena de @image2 con gestos cómicos exagerados y efectos de sonido humorísticos.
+Il personaggio di @image1 riprende movimenti ed espressioni da @video1 e si esibisce nella scena @image2 con gesti comici esagerati, accompagnati da effetti sonori umoristici.
 ```
 
 ### No. 9: Will Smith Eating Spaghetti
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `twitter`
 - **Author:** levelsio (@levelsio)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
@@ -971,10 +971,10 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 10: One Punch Man Animation Surpassing Original Quality
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `twitter`
 - **Author:** Chetaslua (@chetaslua)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
@@ -992,10 +992,10 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 11: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
 
-- **Category:** `Efectos Visuales Creativos`
+- **Category:** `Creative Visual Effects`
 - **Source:** `twitter`
 - **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
@@ -1013,164 +1013,164 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 <a id="category-5"></a>
 
-### Desarrollo y Extensión Narrativa (8)
+### Story Development & Extension (8)
 
-### No. 1: Animación de viñetas cómic
+### No. 1: Animazione di vignette fumetto
 
-- **Category:** `Desarrollo y Extensión Narrativa`
+- **Category:** `Story Development & Extension`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/26)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/26)
 
 #### Description
 
-Convierte viñetas estáticas en secuencia animada con efectos sonoros.
+Trasforma vignette statiche in una sequenza animata con effetti sonori.
 
 #### Prompt
 
 ```text
-Extiende el video 15 s, tomando como referencia la imagen del burro en moto de @image1 y @image2 para añadir un anuncio creativo.
-Escena 1: cámara lateral fija, el burro sale disparado del corral y asusta a las gallinas.
-Escena 2: el burro derrapa en arena; primero primer plano de la rueda, luego toma aérea.
-Escena 3: con fondo de montañas nevadas, el burro salta una ladera y aparece el slogan "Inspire Creativity, Enrich Life".
+Estendi il video di 15 s usando come riferimento l’asino in moto di @image1 e @image2, aggiungendo una sequenza pubblicitaria creativa.
+Scena 1: camera fissa laterale, l’asino esce dal recinto e spaventa le galline.
+Scena 2: l’asino gira sulla sabbia, prima close-up pneumatico poi ripresa aerea.
+Scena 3: sfondo montagna innevata, salto in moto e slogan “Inspire Creativity, Enrich Life”.
 ```
 
-### No. 2: Documental de estaciones de la infancia
+### No. 2: Apertura documentario sulle stagioni dell’infanzia
 
-- **Category:** `Desarrollo y Extensión Narrativa`
+- **Category:** `Story Development & Extension`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/27)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/27)
 
 #### Description
 
-Crea una apertura documental sanadora basada en storyboard.
+Crea un’apertura documentaristica evocativa basata su storyboard.
 
 #### Prompt
 
 ```text
-Extiende el video 6 s: aparece música de guitarra eléctrica intensa; el texto publicitario "JUST DO IT" surge en el centro y se desvanece. La cámara sube al techo y un hombre musculoso hace anillas, vistiendo la prenda deportiva ajustada de @image1 con logo "Fitness" de @image2 en la espalda.
+Estendi il video di 6 s: entra una chitarra elettrica energica, al centro appare “JUST DO IT” e poi svanisce. La camera sale al soffitto, un uomo muscoloso fa anelli; indossa il completo fitness di @image1 con logo “Fitness” di @image2 sulla schiena.
 ```
 
-### No. 3: Video de viaje emocional
+### No. 3: Video di viaggio emotivo
 
-- **Category:** `Desarrollo y Extensión Narrativa`
+- **Category:** `Story Development & Extension`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/28)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/28)
 
 #### Description
 
-Video de atmósfera emocional inspirado en múltiples imágenes y audio.
+Crea un video emotivo d’atmosfera ispirato a più immagini e audio.
 
 #### Prompt
 
 ```text
-Referencia el audio de video1 y, basándote en imágenes 1,2,3,4,5, genera un corto emocional de 15 s que muestre transición de soledad a calidez, acompañado de música sanadora.
+Riferisciti all’audio di video1 e, basandoti su immagini 1-5, genera un corto emotivo di 15 s che mostri il passaggio dalla solitudine al calore, con musica rilassante.
 ```
 
-### No. 4: Anuncio acrobático de burro en moto
+### No. 4: Spot stunt: asino in moto
 
-- **Category:** `Desarrollo y Extensión Narrativa`
+- **Category:** `Story Development & Extension`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/29)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/29)
 
 #### Description
 
-Extiende el video con anuncio surrealista de producto protagonizado por un animal.
+Estendi il video con uno spot surreale di prodotto con personaggio animale.
 
 #### Prompt
 
 ```text
-Extiende el video 15 s añadiendo un anuncio surrealista del burro en moto atravesando desierto, nieve y ciudad; al final se detiene al atardecer con el copy "Rompe la imaginación, posibilidades infinitas".
+Estendi il video di 15 s con una pubblicità surreale: asino in moto attraverso deserto, neve e città, fermata finale al tramonto con slogan conclusivo.
 ```
 
-### No. 5: Anuncio motivacional fitness
+### No. 5: Spot motivazionale fitness
 
-- **Category:** `Desarrollo y Extensión Narrativa`
+- **Category:** `Story Development & Extension`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/30)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/30)
 
 #### Description
 
-Extiende el video con secuencia fitness dinámica y mensaje motivacional.
+Estendi il video con sequenza fitness dinamica e messaggio motivazionale.
 
 #### Prompt
 
 ```text
-Extend the video by 6 seconds: aparece música intensa de guitarra eléctrica, el texto "JUST DO IT" surge en el centro y se desvanece gradualmente; la cámara sube al techo, un hombre musculoso hace anillas con ropa fitness de @image1 y logo "Fitness" de @image2 en la espalda; termina con texto "DO SOME SPORT".
+Estendi il video di 6 s: musica di chitarra elettrica intensa, testo “JUST DO IT” al centro con dissolvenza; camera verso il soffitto, uomo muscoloso agli anelli con outfit @image1 e logo “Fitness” @image2; chiusura con testo “DO SOME SPORT”.
 ```
 
-### No. 6: Campaña matutina de café
+### No. 6: Campagna caffè del mattino
 
-- **Category:** `Desarrollo y Extensión Narrativa`
+- **Category:** `Story Development & Extension`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/31)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/31)
 
 #### Description
 
-Extiende un comercial de café con iluminación ambiental y aparición de texto.
+Estendi uno spot caffè con illuminazione atmosferica e reveal testuale.
 
 #### Prompt
 
 ```text
-Extiende @video1 15 segundos. 1-5 s: cambios de luz y sombra del amanecer al mediodía. 5-10 s: el personaje se levanta y se estira. 10-15 s: camina hacia la ventana y mira a lo lejos, creando una atmósfera cálida de vida cotidiana.
+Estendi @video1 di 15 s. 1-5 s: luce e ombre cambiano dall’alba a mezzogiorno. 5-10 s: il personaggio si alza e si stiracchia. 10-15 s: cammina verso la finestra e guarda lontano, creando atmosfera domestica calda.
 ```
 
-### No. 7: Historia de monopatín y girasoles
+### No. 7: Storia skateboard e girasoli
 
-- **Category:** `Desarrollo y Extensión Narrativa`
+- **Category:** `Story Development & Extension`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/32)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/32)
 
 #### Description
 
-Extiende el video con narrativa cálida de vida cotidiana en una tarde.
+Estendi il video con una narrazione calda di vita quotidiana nel pomeriggio.
 
 #### Prompt
 
 ```text
-Extiende hacia delante 10 s: en una tarde cálida, la cámara comienza en una taza de café sobre la mesa y se aleja lentamente para mostrar un café acogedor con clientes conversando en un ritmo de vida pausado.
+Estensione in avanti di 10 s: in una luce pomeridiana calda, la camera parte da una tazza di caffè sul tavolo e arretra lentamente per mostrare un caffè accogliente con clienti in conversazione rilassata.
 ```
 
 ### No. 8: Quick Test of Female Controlling Plane in Complex Action Scene
 
-- **Category:** `Desarrollo y Extensión Narrativa`
+- **Category:** `Story Development & Extension`
 - **Source:** `twitter`
 - **Author:** Janek Mann (@janekm)
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
@@ -1188,593 +1188,593 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 <a id="category-6"></a>
 
-### Audio y Síntesis de Voz (10)
+### Audio & Voice Synthesis (10)
 
-### No. 1: Comedia de caballo con lente ojo de pez
+### No. 1: Commedia del cavallo con fisheye
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/33)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/33)
 
 #### Description
 
-Personaje animal con diálogo y efectos sonoros sincronizados mediante lente ojo de pez.
+Personaggio animale con dialogo sincronizzato ed effetti sonori tramite lente fisheye.
 
 #### Prompt
 
 ```text
-Cámara fija: un ojo de pez central mira hacia abajo a través de un orificio circular. Referencia el lente ojo de pez de video1, haz que el caballo de @video2 mire hacia la lente y copie movimientos de habla de @video1. El BGM referencia el audio de @video3.
+Camera fissa, fisheye centrale che guarda in basso attraverso un foro circolare. Riferisciti al fisheye di video1, fai guardare il cavallo di @video2 verso la lente, riprendi i movimenti del parlato da @video1 e usa BGM ispirato a @video3.
 ```
 
-### No. 2: Documental de edificio de oficinas
+### No. 2: Documentario edificio uffici
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/34)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/34)
 
 #### Description
 
-Documental inmobiliario cinematográfico con narración profesional.
+Documentario immobiliare cinematografico con narrazione professionale.
 
 #### Prompt
 
 ```text
-Basado en fotos promocionales de oficinas, genera un documental inmobiliario realista de 15 s con estética cinematográfica, formato 2.35:1 y 24 fps. La voz en off referencia @video1 y presenta "la ecología del edificio de oficinas" mostrando operaciones de distintas empresas.
+Dalle foto promozionali dell’edificio uffici, genera un documentario immobiliare realistico di 15 s in stile cinematografico, 2.35:1, 24fps. Il timbro narrativo si ispira a @video1 e racconta “l’ecosistema dell’edificio uffici”.
 ```
 
-### No. 3: Batalla de roast entre gato y perro
+### No. 3: Roast battle gatto & cane
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/35)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/35)
 
 #### Description
 
-Talk show cómico con animales expresivos y diálogo ingenioso.
+Talk show comico con animali espressivi e dialoghi arguti.
 
 #### Prompt
 
 ```text
-Crea un diálogo de roast en "Sala de quejas gato-perro" con mucha emoción y estilo de stand-up: gato presentador y perro presentador se burlan mutuamente con ritmo cómico.
+Crea un dialogo roast nella “stanza sfottò gatto-cane”, ricco di emozione e adatto a performance da talk show, con scambi brillanti e ritmo comico.
 ```
 
-### No. 4: Actuación de ópera china
+### No. 4: Performance di opera cinese
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/36)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/36)
 
 #### Description
 
-Escena tradicional de ópera de Henan con canto auténtico y tensión dramática.
+Scena tradizionale di opera Henan con canto autentico e tensione drammatica.
 
 #### Prompt
 
 ```text
-Suena el acompañamiento clásico de ópera de Henan; un actor de ópera de @image1 entra en escena con canto melódico y movimientos elegantes, en una actuación tradicional apoyada por iluminación de escenario.
+Parte l’accompagnamento di un classico dell’opera Henan; il performer da @image1 entra in scena con canto melodioso e postura elegante, in una performance tradizionale valorizzata da luci teatrali.
 ```
 
-### No. 5: MV de road trip cinematográfico
+### No. 5: MV road trip cinematografico
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/37)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/37)
 
 #### Description
 
-Video musical con keywords cinematográficas específicas y audio atmosférico.
+Video musicale con keyword di ripresa specifiche e audio atmosferico.
 
 #### Prompt
 
 ```text
-Genera un MV de 15 segundos. Palabras clave: composición estable, sensación cinematográfica, viaje, paisaje. Mostrar grandes paisajes naturales con música lírica para transmitir libertad y exploración.
+Genera un MV di 15 s. Parole chiave: composizione stabile, look cinematografico, viaggio, paesaggio. Mostra scenari naturali grandiosi con musica lirica per comunicare libertà ed esplorazione.
 ```
 
-### No. 6: Celebración familiar multicultural
+### No. 6: Celebrazione familiare multiculturale
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/38)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/38)
 
 #### Description
 
-Escena familiar emotiva con diálogo en inglés y música latina.
+Scena familiare calorosa con dialoghi in inglese e musica latina.
 
 #### Prompt
 
 ```text
-En el centro de la imagen, una chica con sombrero canta suavemente "I'm so proud of you", con expresión tierna, luz suave y ambiente íntimo, acompañada de guitarra.
+Al centro dell’inquadratura, una ragazza con cappello canta dolcemente “I'm so proud of you”, con espressione tenera, luce morbida e atmosfera intima, accompagnata da chitarra.
 ```
 
-### No. 7: Briefing táctico en español
+### No. 7: Briefing tattico in spagnolo
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/39)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/39)
 
 #### Description
 
-Escena táctica militar con diálogo en español y sonido de equipamiento.
+Scena tattico-militare con dialoghi in spagnolo e suoni d’equipaggiamento.
 
 #### Prompt
 
 ```text
-Cámara fija. Un hombre corpulento de pie (capitán) aprieta el puño con expresión seria y dice a cámara: "¡Preparados para actuar!" Tema militar con atmósfera tensa.
+Camera fissa. Un uomo robusto in piedi (caposquadra) stringe il pugno e, con sguardo serio, dice in camera: “Prepararsi all’azione!”. Tema militare e atmosfera tesa.
 ```
 
-### No. 8: Diálogo matutino de despertar
+### No. 8: Dialogo del risveglio mattutino
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/40)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/40)
 
 #### Description
 
-Escena íntima de pareja con actuación vocal natural y matiz emocional.
+Scena intima di risveglio con recitazione vocale naturale e sfumatura emotiva.
 
 #### Prompt
 
 ```text
-0-3 s: suena la alarma y se muestra una escena borrosa. 3-6 s: el personaje se despierta y se estira. 6-10 s: aseo y vestirse. 10-15 s: salida con música de fondo ligera, mostrando el inicio de un día cotidiano.
+0-3 s: suona la sveglia, apertura sfocata. 3-6 s: il personaggio si alza e si stiracchia. 6-10 s: igiene e vestizione. 10-15 s: uscita di casa con musica leggera, a raccontare l’inizio della giornata.
 ```
 
-### No. 9: Té con perlas en dialecto sichuanés
+### No. 9: Bubble tea in dialetto del Sichuan
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/41)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/41)
 
 #### Description
 
-Comedia con dialecto de Sichuan auténtico e interacción de personajes.
+Scena comica con dialetto del Sichuan autentico e interazione tra personaggi.
 
 #### Prompt
 
 ```text
-El mono de @image1 camina hacia el mostrador de té con leche y dice en dialecto: "Jefe, una leche con perlas". Diálogo humorístico, expresión sorprendida del dependiente y efecto cómico.
+La scimmia di @image1 va al bancone bubble tea e, in dialetto, ordina “Boss, un tè al latte con perle!”. Dialogo umoristico, reazione sorpresa del personale ed effetto comico.
 ```
 
-### No. 10: Narración de Viaje al Oeste
+### No. 10: Storytelling di Viaggio in Occidente
 
-- **Category:** `Audio y Síntesis de Voz`
+- **Category:** `Audio & Voice Synthesis`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/42)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/42)
 
 #### Description
 
-Contenido educativo en estilo documental sobre literatura clásica china.
+Contenuto educativo in stile documentario sulla letteratura classica cinese.
 
 #### Prompt
 
 ```text
-Con estilo documental y narración, presenta el contenido de @image1-5 para contar el encanto de la literatura clásica china, acompañado de música clásica y combinando valor educativo y artístico.
+Con stile documentario e voce narrante, presenta il contenuto di @image1-5 raccontando il fascino della letteratura classica cinese, con musica classica e taglio educativo-artistico.
 ```
 
 <a id="category-7"></a>
 
-### Toma Única Continua (5)
+### One-Take Cinematography (5)
 
-### No. 1: Secuencia parkour en persecución
+### No. 1: Sequenza parkour d’inseguimento
 
-- **Category:** `Toma Única Continua`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/43)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/43)
 
 #### Description
 
-Plano secuencia dinámico siguiendo a un corredor por múltiples entornos.
+Piano sequenza dinamico che segue un runner attraverso ambienti multipli.
 
 #### Prompt
 
 ```text
-@image1@image2@image3@image4@image5, plano secuencia de seguimiento: desde la calle sigue al corredor por escaleras, pasillos y azotea hasta terminar con vista cenital de la ciudad.
+@image1@image2@image3@image4@image5, piano sequenza di inseguimento: segui il runner dalla strada su per le scale, attraverso corridoi, fino al tetto, con chiusura in vista panoramica sulla città.
 ```
 
-### No. 2: Sueño de helado desde ventana de avión
+### No. 2: Sogno gelato dal finestrino dell’aereo
 
-- **Category:** `Toma Única Continua`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/44)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/44)
 
 #### Description
 
-One-take surrealista desde la ventana de avión hacia interacción mágica.
+One-take surreale dal finestrino dell’aereo a un’interazione magica.
 
 #### Prompt
 
 ```text
-Usando @image1 como primer fotograma, la imagen se amplía hacia la ventana del avión; nubes entran lentamente y una nube con confites de colores se mantiene centrada, transformándose gradualmente en el helado de @image2.
+Usa @image1 come primo fotogramma, zoom verso l’esterno del finestrino dell’aereo. Nuvole entrano lentamente nell’inquadratura; una nuvola colorata resta centrata e si trasforma gradualmente nel gelato di @image2.
 ```
 
-### No. 3: Seguimiento thriller de espías
+### No. 3: Pedinamento thriller di spionaggio
 
-- **Category:** `Toma Única Continua`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/45)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/45)
 
 #### Description
 
-One-take de suspense siguiendo a un agente secreto en entorno urbano.
+One-take di suspense che segue un agente segreto in ambiente urbano.
 
 #### Prompt
 
 ```text
-Estilo thriller de espías: @image1 como primer fotograma; cámara frontal sigue al personaje atravesando rápidamente calles, escaleras y azoteas en un plano secuencia de persecución intensa.
+Stile thriller di spionaggio: @image1 come primo frame, camera frontale che segue il personaggio tra strada, scale e tetti in un piano sequenza di inseguimento ad alta tensione.
 ```
 
-### No. 4: Hora del té en cabaña acogedora
+### No. 4: Tea time in baita accogliente
 
-- **Category:** `Toma Única Continua`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/46)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/46)
 
 #### Description
 
-One-take en primera persona entrando a un interior cálido.
+One-take in prima persona entrando in un interno accogliente.
 
 #### Prompt
 
 ```text
-Basado en el exterior de @image1, en POV de primera persona la cámara entra al interior y recorre el entorno, mostrando un hogar cálido y su distribución espacial en un solo plano.
+Basato sull’esterno di @image1, in POV soggettiva la camera entra all’interno e osserva l’ambiente, mostrando una casa accogliente in un unico take continuo.
 ```
 
-### No. 5: POV de montaña rusa
+### No. 5: POV sulle montagne russe
 
-- **Category:** `Toma Única Continua`
+- **Category:** `One-Take Cinematography`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/47)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/47)
 
 #### Description
 
-Experiencia emocionante de montaña rusa en primera persona con velocidad creciente.
+Esperienza adrenalinica sulle montagne russe in prima persona con velocità crescente.
 
 #### Prompt
 
 ```text
-@image1 @image2 @image3 @image4 @image5, POV subjetivo: la cámara simula una montaña rusa con bajadas, giros y subidas rápidas para una experiencia intensa.
+@image1 @image2 @image3 @image4 @image5, prospettiva soggettiva: la camera simula un’esperienza da montagne russe con picchiate, curve e risalite veloci.
 ```
 
 <a id="category-8"></a>
 
-### Edición y Remix de Video (5)
+### Video Editing & Remixing (5)
 
-### No. 1: Giro oscuro de Titanic
+### No. 1: Twist oscuro in stile Titanic
 
-- **Category:** `Edición y Remix de Video`
+- **Category:** `Video Editing & Remixing`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/48)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/48)
 
 #### Description
 
-Convierte una escena romántica en thriller de traición.
+Ribalta una scena romantica in thriller di tradimento.
 
 #### Prompt
 
 ```text
-Subvierte la trama de @video1: la mirada del hombre pasa de tierna a fría y despiadada; en un instante de descuido empuja a la protagonista fuera del puente hacia el agua. Acción seca y decidida, con sensación de determinación premeditada.
+Ribalta la trama di @video1: lo sguardo dell’uomo passa da dolce a gelido e crudele; nel momento in cui la protagonista è indifesa, la spinge giù dal ponte nell’acqua. Azione netta e determinata, dal tono premeditato.
 ```
 
-### No. 2: De negocio serio a trato de snacks
+### No. 2: Da business serio a deal di snack
 
-- **Category:** `Edición y Remix de Video`
+- **Category:** `Video Editing & Remixing`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/49)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/49)
 
 #### Description
 
-Transforma una reunión de negocios tensa en comedia publicitaria de snacks.
+Trasforma una riunione tesa in una commedia pubblicitaria di snack.
 
 #### Prompt
 
 ```text
-Subvierte por completo la historia de @video1.
-0-3 s: hombre de traje en el bar, calmado.
-3-6 s: mujer detrás pregunta tensa "¿Qué tan grande?".
-6-9 s: de repente él saca bajo la mesa un enorme paquete de snacks.
-13-15 s: aparece subtítulo "Por muy ocupado que estés, recuerda comer algo~".
+Sovverti completamente la storia di @video1.
+0-3 s: uomo in abito seduto al bar, espressione calma.
+3-6 s: la donna dietro chiede tesa “Quanto è grande?”.
+6-9 s: all’improvviso lui tira fuori da sotto il tavolo un enorme pacco snack.
+13-15 s: appare il sottotitolo “Anche se sei impegnato, ricordati uno snack~”.
 ```
 
-### No. 3: Cambio de género del vocalista
+### No. 3: Cambio di genere del cantante principale
 
-- **Category:** `Edición y Remix de Video`
+- **Category:** `Video Editing & Remixing`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/50)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/50)
 
 #### Description
 
-Sustituye a la vocalista principal por un cantante masculino manteniendo todos los movimientos.
+Sostituisce la cantante principale con un cantante maschile mantenendo tutti i movimenti.
 
 #### Prompt
 
 ```text
-Sustituye a la vocalista femenina de video1 por el vocalista masculino de @image1, manteniendo la actuación escénica, la iluminación y el ritmo musical originales; cambia el género pero conserva el estilo.
+Sostituisci la cantante femminile di video1 con il cantante maschile di @image1 mantenendo performance, luci e ritmo musicale originali: cambia il genere ma conserva lo stile.
 ```
 
-### No. 4: Fotobomba de tiburón
+### No. 4: Photobomb dello squalo
 
-- **Category:** `Edición y Remix de Video`
+- **Category:** `Video Editing & Remixing`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/51)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/51)
 
 #### Description
 
-Añade un elemento amenazante a una escena tranquila.
+Aggiunge un elemento minaccioso a una scena pacifica.
 
 #### Prompt
 
 ```text
-Cambia el peinado de la mujer de video1 a cabello largo rojo y usa un primer plano para destacar el nuevo look, manteniendo los demás elementos sin cambios.
+Modifica l’acconciatura della donna in video1 in capelli lunghi rossi, con un close-up che evidenzia il nuovo look; il resto resta invariato.
 ```
 
-### No. 5: Integración de marca en local de pollo
+### No. 5: Integrazione brand nel negozio di pollo fritto
 
-- **Category:** `Edición y Remix de Video`
+- **Category:** `Video Editing & Remixing`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/52)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/52)
 
 #### Description
 
-Integra empaques de marca en una escena de restaurante existente.
+Integra packaging di brand in una scena di ristorante già esistente.
 
 #### Prompt
 
 ```text
-La cámara de video1 se desplaza a la derecha: el dueño de la tienda de pollo frito atiende pedidos, y de pronto el logo de marca de @image1 aparece en la caja de empaque como integración natural de producto.
+La camera in video1 panora a destra: il proprietario del negozio di pollo fritto gestisce ordini rapidamente, e il logo brand di @image1 appare in modo naturale sulla confezione.
 ```
 
 <a id="category-9"></a>
 
-### Sincronización Musical (4)
+### Music Synchronization (4)
 
 ### No. 1: Fashion beat drop
 
-- **Category:** `Sincronización Musical`
+- **Category:** `Music Synchronization`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/53)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/53)
 
 #### Description
 
-Transformación de moda sincronizada al beat musical.
+Trasformazione fashion sincronizzata al beat musicale.
 
 #### Prompt
 
 ```text
-La chica del póster cambia de ropa constantemente; la vestimenta referencia @image1-6. Cada cambio sigue el ritmo musical con cortes rápidos, creando una fuerte sensación de moda.
+La ragazza del poster cambia outfit di continuo, con riferimenti agli abiti @image1-6. Ogni cambio è sincronizzato al beat musicale con tagli rapidi e forte mood fashion.
 ```
 
-### No. 2: Sincronía dinámica de retratos al beat
+### No. 2: Sincronizzazione dinamica dei ritratti sul beat
 
-- **Category:** `Sincronización Musical`
+- **Category:** `Music Synchronization`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/54)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/54)
 
 #### Description
 
-Retratos de personajes sobre keyframes musicales con mayor dinamismo.
+Ritratti dinamici sincronizzati ai keyframe musicali.
 
 #### Prompt
 
 ```text
-Secuencia de @image1 @image2 @image3 @image4 @image5 @image6 @image7: siguiendo el ritmo de la música, cada cuadro permanece 1-2 s para mostrar variaciones emocionales de retrato en un efecto de álbum dinámico.
+Sequenza @image1 @image2 @image3 @image4 @image5 @image6 @image7 sincronizzata al ritmo musicale, 1-2 s per frame, per mostrare variazioni emotive del ritratto con effetto album dinamico.
 ```
 
-### No. 3: MV de transición de paisajes
+### No. 3: Video musicale con transizioni paesaggistiche
 
-- **Category:** `Sincronización Musical`
+- **Category:** `Music Synchronization`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/55)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/55)
 
 #### Description
 
-Transiciones paisajísticas ajustadas con precisión al ritmo musical.
+Transizioni paesaggistiche allineate con precisione al ritmo musicale.
 
 #### Prompt
 
 ```text
-Escenas de paisaje @image1 @image2 @image3 @image4 @image5 @image6: con transiciones musicales del amanecer al atardecer, mostrar la belleza natural en estilo MV.
+Scene paesaggistiche @image1 @image2 @image3 @image4 @image5 @image6 con transizioni musicali dal sorgere al tramonto, in stile MV.
 ```
 
-### No. 4: Storyboard anime de batalla de ajedrez
+### No. 4: Storyboard anime di battaglia a scacchi
 
-- **Category:** `Sincronización Musical`
+- **Category:** `Music Synchronization`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/56)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/56)
 
 #### Description
 
-Secuencia anime storyboard con timing dramático.
+Sequenza anime storyboardata con timing drammatico.
 
 #### Prompt
 
 ```text
-Fragmento de combate anime de 8 s con estilo de duelo estratégico; sincroniza la acción rápida y los cambios de plano con música tensa para lograr impacto visual de animación.
+Segmento anime di combattimento strategico da 8 s, con musica tesa, azioni rapide e cambi inquadratura per impatto visivo.
 ```
 
 <a id="category-10"></a>
 
-### Actuación Emocional (3)
+### Emotional Performance (3)
 
-### No. 1: Colapso frente al espejo
+### No. 1: Crollo davanti allo specchio
 
-- **Category:** `Actuación Emocional`
+- **Category:** `Emotional Performance`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/57)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/57)
 
 #### Description
 
-Escena de quiebre psicológico con emoción ascendente.
+Scena di crollo psicologico con crescendo emotivo.
 
 #### Prompt
 
 ```text
-La mujer de @image1 camina hacia el espejo y se observa; su expresión pasa de calma a tristeza, caen lágrimas y entra en colapso emocional. Drama psicológico con simbolismo del espejo.
+La donna di @image1 va davanti allo specchio e si osserva: l’espressione passa dalla calma alla tristezza, scendono lacrime e arriva un crollo emotivo. Dramma psicologico con simbolismo dello specchio.
 ```
 
-### No. 2: Comedia de contraste culinario
+### No. 2: Commedia di contrasto in cucina
 
-- **Category:** `Actuación Emocional`
+- **Category:** `Emotional Performance`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/58)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/58)
 
 #### Description
 
-Contraste cómico entre cocina calmada y caótica.
+Contrasto comico tra cucina calma e caotica.
 
 #### Prompt
 
 ```text
-Anuncio de campana extractora: @image1 como primer fotograma en cocina; la campana se enciende y absorbe el humo con fuerza. Primeros planos funcionales del producto y cierre con logo de marca.
+Spot cappa aspirante: @image1 come primo frame in cucina, cappa che si attiva e aspira il fumo con forza. Primi piani funzionali del prodotto e chiusura con logo brand.
 ```
 
-### No. 3: Rugido dramático en primer plano
+### No. 3: Ruggito drammatico in primo piano
 
-- **Category:** `Actuación Emocional`
+- **Category:** `Emotional Performance`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `es`
+- **Language:** `it`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/es/seedance-2-prompt/59)
+- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/59)
 
 #### Description
 
-Actuación dramática cómica con expresión exagerada en primer plano.
+Performance drammatica-comica con espressione esagerata in primo piano.
 
 #### Prompt
 
 ```text
-@image1 como primer fotograma: la cámara rota y avanza mientras el personaje hace una expresión exagerada de sorpresa; efecto cómico acompañado de sonido humorístico.
+@image1 come primo frame: la camera ruota e avanza, il personaggio mostra un’espressione di sorpresa esagerata in tono comico, con effetti sonori divertenti.
 ```
 
 ## Local Usage
@@ -1798,4 +1798,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-15T10:31:47.215Z
+> This README is auto-generated. 2026-06-15T11:09:53.999Z

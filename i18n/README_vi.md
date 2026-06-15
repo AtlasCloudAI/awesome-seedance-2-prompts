@@ -10,7 +10,7 @@
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-Current-brightgreen)](README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](README_sv.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Current-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_sv.md)
 
 ---
 
@@ -28,8 +28,8 @@
 
 ## 🌐 View in AtlasCloud
 
-- Prompt Library: [View](https://www.atlascloud.ai/nl/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
-- Model Page: [View](https://www.atlascloud.ai/nl/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
+- Prompt Library: [View](https://www.atlascloud.ai/vi/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
+- Model Page: [View](https://www.atlascloud.ai/vi/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 ## 🧩 Supported Models
 
@@ -70,287 +70,287 @@ Seedance 2.0 is strongest at multimodal video generation. It handles text, image
 | Total Prompts | **70** |
 | Categories | **10** |
 | Preview Videos | **70** |
-| Last Updated | **2026-06-15T10:31:47.219Z** |
+| Last Updated | **2026-06-15T11:09:53.996Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Ultra-realistische videogeneratie`](#category-1): **5**
-- [`Consistentie van personage en scène`](#category-2): **6**
-- [`Geavanceerde camerabewegingen`](#category-3): **13**
-- [`Creatieve visuele effecten`](#category-4): **11**
-- [`Verhaalontwikkeling en uitbreiding`](#category-5): **8**
-- [`Audio en stemsynthese`](#category-6): **10**
-- [`One-take cinematografie`](#category-7): **5**
-- [`Videobewerking en remix`](#category-8): **5**
-- [`Muzieksynchronisatie`](#category-9): **4**
-- [`Emotionele performance`](#category-10): **3**
+- [`Tạo video siêu chân thực`](#category-1): **5**
+- [`Nhất quán nhân vật & bối cảnh`](#category-2): **6**
+- [`Chuyển động camera nâng cao`](#category-3): **13**
+- [`Hiệu ứng hình ảnh sáng tạo`](#category-4): **11**
+- [`Phát triển & mở rộng câu chuyện`](#category-5): **8**
+- [`Âm thanh & tổng hợp giọng nói`](#category-6): **10**
+- [`Điện ảnh one-take`](#category-7): **5**
+- [`Chỉnh sửa & remix video`](#category-8): **5**
+- [`Đồng bộ âm nhạc`](#category-9): **4**
+- [`Biểu đạt cảm xúc`](#category-10): **3**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Elegante wasscène
+### No. 1: Cảnh phơi đồ thanh lịch
 
-- **Category:** `Ultra-realistische videogeneratie`
+- **Category:** `Tạo video siêu chân thực`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/1)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/1)
 
 #### Description
 
-Een vrouw hangt elegant de was op, pakt nog een kledingstuk uit de mand en schudt het met natuurlijke beweging uit.
+Một người phụ nữ phơi quần áo duyên dáng, lấy thêm một món từ giỏ và giũ với chuyển động tự nhiên.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Een vrouw hangt elegant de was op, pakt nog een kledingstuk uit de mand en schudt het met natuurlijke beweging uit.
+Tạo cảnh video: Một người phụ nữ phơi quần áo duyên dáng, lấy thêm một món từ giỏ và giũ với chuyển động tự nhiên.
 ```
 
-### No. 2: Thuiskomst na het werk
+### No. 2: Trở về nhà sau giờ làm
 
-- **Category:** `Consistentie van personage en scène`
+- **Category:** `Nhất quán nhân vật & bối cảnh`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/5)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/5)
 
 #### Description
 
-Een doorlopende verhaallijn die karakterconsistentie bewaart van kantoorgang tot thuis, inclusief emotionele overgang en gezinsinteractie.
+Mạch kể liên tục giữ nhất quán nhân vật từ hành lang văn phòng về nhà, có chuyển cảm xúc và tương tác gia đình.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Een doorlopende verhaallijn die karakterconsistentie bewaart van kantoorgang tot thuis, inclusief emotionele overgang en gezinsinteractie.
+Tạo cảnh video: Mạch kể liên tục giữ nhất quán nhân vật từ hành lang văn phòng về nhà, có chuyển cảm xúc và tương tác gia đình.
 ```
 
-### No. 3: Hitchcock-zoom in lift
+### No. 3: Hitchcock Zoom trong thang máy
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/11)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/11)
 
 #### Description
 
-Klassiek Hitchcock-vertigo-effect gecombineerd met complexe camerabeweging in een krappe ruimte.
+Hiệu ứng chóng mặt kiểu Hitchcock kết hợp chuyển động camera phức tạp trong không gian hẹp.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Klassiek Hitchcock-vertigo-effect gecombineerd met complexe camerabeweging in een krappe ruimte.
+Tạo cảnh video: Hiệu ứng chóng mặt kiểu Hitchcock kết hợp chuyển động camera phức tạp trong không gian hẹp.
 ```
 
-### No. 4: VR-bril universumreis
+### No. 4: Hành trình vũ trụ với kính VR
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/18)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/18)
 
 #### Description
 
-Immersieve POV-overgang van de echte wereld via VR-interface naar meerdere digitale werelden.
+Chuyển POV nhập vai từ thế giới thực qua giao diện VR tới nhiều không gian số.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Immersieve POV-overgang van de echte wereld via VR-interface naar meerdere digitale werelden.
+Tạo cảnh video: Chuyển POV nhập vai từ thế giới thực qua giao diện VR tới nhiều không gian số.
 ```
 
-### No. 5: Geanimeerde stripkaders
+### No. 5: Hoạt hóa khung truyện tranh
 
-- **Category:** `Verhaalontwikkeling en uitbreiding`
+- **Category:** `Phát triển & mở rộng câu chuyện`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/26)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/26)
 
 #### Description
 
-Zet statische stripkaders om naar een geanimeerde sequentie met geluidseffecten.
+Biến các khung truyện tranh tĩnh thành chuỗi hoạt hình có hiệu ứng âm thanh.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Zet statische stripkaders om naar een geanimeerde sequentie met geluidseffecten.
+Tạo cảnh video: Biến các khung truyện tranh tĩnh thành chuỗi hoạt hình có hiệu ứng âm thanh.
 ```
 
-### No. 6: Fisheye paardenkomedie
+### No. 6: Hài ngựa góc mắt cá
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/33)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/33)
 
 #### Description
 
-Dierlijk personage met gesynchroniseerde dialoog en geluidseffecten via fisheye-lens.
+Nhân vật động vật với hội thoại và hiệu ứng âm thanh đồng bộ qua ống kính mắt cá.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Dierlijk personage met gesynchroniseerde dialoog en geluidseffecten via fisheye-lens.
+Tạo cảnh video: Nhân vật động vật với hội thoại và hiệu ứng âm thanh đồng bộ qua ống kính mắt cá.
 ```
 
-### No. 7: Parkour achtervolgingssequentie
+### No. 7: Chuỗi truy đuổi parkour
 
-- **Category:** `One-take cinematografie`
+- **Category:** `Điện ảnh one-take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/43)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/43)
 
 #### Description
 
-Dynamische one-take die een runner door meerdere omgevingen volgt.
+One-take năng động bám theo người chạy qua nhiều môi trường khác nhau.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Dynamische one-take die een runner door meerdere omgevingen volgt.
+Tạo cảnh video: One-take năng động bám theo người chạy qua nhiều môi trường khác nhau.
 ```
 
-### No. 8: Titanic donkere twist
+### No. 8: Titanic lật kèo u tối
 
-- **Category:** `Videobewerking en remix`
+- **Category:** `Chỉnh sửa & remix video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/48)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/48)
 
 #### Description
 
-Keer een romantische scène om naar een thriller vol verraad.
+Đảo ngược cảnh lãng mạn thành thriller phản bội.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Keer een romantische scène om naar een thriller vol verraad.
+Tạo cảnh video: Đảo ngược cảnh lãng mạn thành thriller phản bội.
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Ultra-realistische videogeneratie (5)
+### Tạo video siêu chân thực (5)
 
-### No. 1: Elegante wasscène
+### No. 1: Cảnh phơi đồ thanh lịch
 
-- **Category:** `Ultra-realistische videogeneratie`
+- **Category:** `Tạo video siêu chân thực`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/1)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/1)
 
 #### Description
 
-Een vrouw hangt elegant de was op, pakt nog een kledingstuk uit de mand en schudt het met natuurlijke beweging uit.
+Một người phụ nữ phơi quần áo duyên dáng, lấy thêm một món từ giỏ và giũ với chuyển động tự nhiên.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Een vrouw hangt elegant de was op, pakt nog een kledingstuk uit de mand en schudt het met natuurlijke beweging uit.
+Tạo cảnh video: Một người phụ nữ phơi quần áo duyên dáng, lấy thêm một món từ giỏ và giũ với chuyển động tự nhiên.
 ```
 
-### No. 2: Interactief schilderijpersonage
+### No. 2: Nhân vật tranh tương tác
 
-- **Category:** `Ultra-realistische videogeneratie`
+- **Category:** `Tạo video siêu chân thực`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/2)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/2)
 
 #### Description
 
-Een personage uit een schilderij komt tot leven en drinkt stiekem cola wanneer niemand kijkt, wat een humoristische reclamescène oplevert.
+Nhân vật trong bức tranh sống dậy và lén uống cola khi không ai để ý, tạo nên cảnh quảng cáo hài hước.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Een personage uit een schilderij komt tot leven en drinkt stiekem cola wanneer niemand kijkt, wat een humoristische reclamescène oplevert.
+Tạo cảnh video: Nhân vật trong bức tranh sống dậy và lén uống cola khi không ai để ý, tạo nên cảnh quảng cáo hài hước.
 ```
 
-### No. 3: Victoriaanse straatscène
+### No. 3: Cảnh phố thời Victoria
 
-- **Category:** `Ultra-realistische videogeneratie`
+- **Category:** `Tạo video siêu chân thực`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/3)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/3)
 
 #### Description
 
-Een kostuumdrama in 19e-eeuws Londen met authentieke omgevingsdetails en geloofwaardige karakterreacties.
+Cảnh phim cổ trang ở London thế kỷ 19 với chi tiết môi trường chân thực và phản ứng nhân vật tự nhiên.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Een kostuumdrama in 19e-eeuws Londen met authentieke omgevingsdetails en geloofwaardige karakterreacties.
+Tạo cảnh video: Cảnh phim cổ trang ở London thế kỷ 19 với chi tiết môi trường chân thực và phản ứng nhân vật tự nhiên.
 ```
 
-### No. 4: Achtervolgingsscène met obstakels
+### No. 4: Cảnh truy đuổi có chướng ngại
 
-- **Category:** `Ultra-realistische videogeneratie`
+- **Category:** `Tạo video siêu chân thực`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/4)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/4)
 
 #### Description
 
-Een intense achtervolging met realistische botsingsfysica en paniek in de menigte.
+Phân đoạn truy đuổi căng thẳng với va chạm vật lý chân thực và đám đông hoảng loạn.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Een intense achtervolging met realistische botsingsfysica en paniek in de menigte.
+Tạo cảnh video: Phân đoạn truy đuổi căng thẳng với va chạm vật lý chân thực và đám đông hoảng loạn.
 ```
 
 ### No. 5: Will Smith Eating Spaghetti
 
-- **Category:** `Ultra-realistische videogeneratie`
+- **Category:** `Tạo video siêu chân thực`
 - **Source:** `twitter`
 - **Author:** levelsio (@levelsio)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
@@ -368,291 +368,291 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 <a id="category-2"></a>
 
-### Consistentie van personage en scène (6)
+### Nhất quán nhân vật & bối cảnh (6)
 
-### No. 1: Thuiskomst na het werk
+### No. 1: Trở về nhà sau giờ làm
 
-- **Category:** `Consistentie van personage en scène`
+- **Category:** `Nhất quán nhân vật & bối cảnh`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/5)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/5)
 
 #### Description
 
-Een doorlopende verhaallijn die karakterconsistentie bewaart van kantoorgang tot thuis, inclusief emotionele overgang en gezinsinteractie.
+Mạch kể liên tục giữ nhất quán nhân vật từ hành lang văn phòng về nhà, có chuyển cảm xúc và tương tác gia đình.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Een doorlopende verhaallijn die karakterconsistentie bewaart van kantoorgang tot thuis, inclusief emotionele overgang en gezinsinteractie.
+Tạo cảnh video: Mạch kể liên tục giữ nhất quán nhân vật từ hành lang văn phòng về nhà, có chuyển cảm xúc và tương tác gia đình.
 ```
 
-### No. 2: Operapodium-transformatie
+### No. 2: Biến đổi sân khấu opera
 
-- **Category:** `Consistentie van personage en scène`
+- **Category:** `Nhất quán nhân vật & bối cảnh`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/6)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/6)
 
 #### Description
 
-Karaktervervanging terwijl camerabewegingen en overgangseffecten uit de referentievideo behouden blijven.
+Thay thế nhân vật trong khi vẫn giữ chuyển động camera và hiệu ứng chuyển cảnh từ video tham chiếu.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Karaktervervanging terwijl camerabewegingen en overgangseffecten uit de referentievideo behouden blijven.
+Tạo cảnh video: Thay thế nhân vật trong khi vẫn giữ chuyển động camera và hiệu ứng chuyển cảnh từ video tham chiếu.
 ```
 
-### No. 3: Naadloze one-take overgang
+### No. 3: Chuyển cảnh liền mạch one-take
 
-- **Category:** `Consistentie van personage en scène`
+- **Category:** `Nhất quán nhân vật & bối cảnh`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/7)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/7)
 
 #### Description
 
-Complexe one-take met meerdere scènewisselingen, met continue visuele coherentie.
+Cú máy one-take phức tạp với nhiều lần đổi cảnh nhưng vẫn giữ tính liền mạch thị giác.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Complexe one-take met meerdere scènewisselingen, met continue visuele coherentie.
+Tạo cảnh video: Cú máy one-take phức tạp với nhiều lần đổi cảnh nhưng vẫn giữ tính liền mạch thị giác.
 ```
 
-### No. 4: Magnetic Bow productshowcase
+### No. 4: Trình diễn sản phẩm Magnetic Bow
 
-- **Category:** `Consistentie van personage en scène`
+- **Category:** `Nhất quán nhân vật & bối cảnh`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/8)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/8)
 
 #### Description
 
-Koreaanse productadvertentie met merkconsistentie en demonstratie in meerdere scènes.
+Quảng cáo sản phẩm Hàn Quốc với tính nhất quán thương hiệu và minh họa đa cảnh.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Koreaanse productadvertentie met merkconsistentie en demonstratie in meerdere scènes.
+Tạo cảnh video: Quảng cáo sản phẩm Hàn Quốc với tính nhất quán thương hiệu và minh họa đa cảnh.
 ```
 
-### No. 5: Luxueuze handtascommercial
+### No. 5: Quảng cáo túi xách cao cấp
 
-- **Category:** `Consistentie van personage en scène`
+- **Category:** `Nhất quán nhân vật & bối cảnh`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/9)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/9)
 
 #### Description
 
-Productpresentatie met consistente detailweergave over meerdere referentiebeelden.
+Trình diễn sản phẩm giữ được độ nhất quán chi tiết giữa nhiều ảnh tham chiếu.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Productpresentatie met consistente detailweergave over meerdere referentiebeelden.
+Tạo cảnh video: Trình diễn sản phẩm giữ được độ nhất quán chi tiết giữa nhiều ảnh tham chiếu.
 ```
 
-### No. 6: Horrorverkenning in first-person
+### No. 6: Khám phá kinh dị góc nhìn thứ nhất
 
-- **Category:** `Consistentie van personage en scène`
+- **Category:** `Nhất quán nhân vật & bối cảnh`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/10)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/10)
 
 #### Description
 
-First-person perspectief met consistente scène-opbouw over meerdere omgevingen.
+Góc nhìn thứ nhất duy trì nhất quán cảnh trong nhiều môi trường khác nhau.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: First-person perspectief met consistente scène-opbouw over meerdere omgevingen.
+Tạo cảnh video: Góc nhìn thứ nhất duy trì nhất quán cảnh trong nhiều môi trường khác nhau.
 ```
 
 <a id="category-3"></a>
 
-### Geavanceerde camerabewegingen (13)
+### Chuyển động camera nâng cao (13)
 
-### No. 1: Hitchcock-zoom in lift
+### No. 1: Hitchcock Zoom trong thang máy
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/11)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/11)
 
 #### Description
 
-Klassiek Hitchcock-vertigo-effect gecombineerd met complexe camerabeweging in een krappe ruimte.
+Hiệu ứng chóng mặt kiểu Hitchcock kết hợp chuyển động camera phức tạp trong không gian hẹp.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Klassiek Hitchcock-vertigo-effect gecombineerd met complexe camerabeweging in een krappe ruimte.
+Tạo cảnh video: Hiệu ứng chóng mặt kiểu Hitchcock kết hợp chuyển động camera phức tạp trong không gian hẹp.
 ```
 
-### No. 2: Complexe gangachtervolging
+### No. 2: Truy đuổi hành lang phức tạp
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/12)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/12)
 
 #### Description
 
-Multi-angle tracking-shot met snelle camerawissels en perspectiefsprongen.
+Cảnh tracking đa góc với chuyển động camera nhanh và thay đổi phối cảnh liên tục.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Multi-angle tracking-shot met snelle camerawissels en perspectiefsprongen.
+Tạo cảnh video: Cảnh tracking đa góc với chuyển động camera nhanh và thay đổi phối cảnh liên tục.
 ```
 
-### No. 3: Roterende tabletshowcase
+### No. 3: Trình diễn tablet xoay vòng
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/13)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/13)
 
 #### Description
 
-Productpresentatie met roterende camera en omgevingsverandering.
+Trình diễn sản phẩm với camera xoay và biến đổi bối cảnh.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Productpresentatie met roterende camera en omgevingsverandering.
+Tạo cảnh video: Trình diễn sản phẩm với camera xoay và biến đổi bối cảnh.
 ```
 
-### No. 4: Ritmische push-pull dansshot
+### No. 4: Push-pull theo nhịp vũ đạo
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/14)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/14)
 
 #### Description
 
-Gesynchroniseerde push-pull camerabewegingen op het ritme van de choreografie.
+Chuyển động camera đẩy-kéo đồng bộ với nhịp vũ đạo.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Gesynchroniseerde push-pull camerabewegingen op het ritme van de choreografie.
+Tạo cảnh video: Chuyển động camera đẩy-kéo đồng bộ với nhịp vũ đạo.
 ```
 
-### No. 5: Vechtkunst-gevechtsscène
+### No. 5: Cảnh đấu võ thuật
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/15)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/15)
 
 #### Description
 
-Actiechoreografie met meerdere personages en wapens in een dynamische omgeving.
+Biên đạo hành động với nhiều nhân vật và vũ khí trong môi trường động.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Actiechoreografie met meerdere personages en wapens in een dynamische omgeving.
+Tạo cảnh video: Biên đạo hành động với nhiều nhân vật và vũ khí trong môi trường động.
 ```
 
-### No. 6: Epische fantasystrijd
+### No. 6: Trận chiến kỳ ảo sử thi
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/16)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/16)
 
 #### Description
 
-Cinematische gevechtsscène met orbitale camera en partikeleffecten.
+Cảnh chiến đấu điện ảnh với camera quỹ đạo và hiệu ứng hạt.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Cinematische gevechtsscène met orbitale camera en partikeleffecten.
+Tạo cảnh video: Cảnh chiến đấu điện ảnh với camera quỹ đạo và hiệu ứng hạt.
 ```
 
-### No. 7: Automotive cinematografiecommercial
+### No. 7: Quay quảng cáo ô tô điện ảnh
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/17)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/17)
 
 #### Description
 
-Professionele autoreclame met dynamische camerabeweging en scèneovergangen.
+Quay quảng cáo ô tô chuyên nghiệp với camera động và chuyển cảnh mượt.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Professionele autoreclame met dynamische camerabeweging en scèneovergangen.
+Tạo cảnh video: Quay quảng cáo ô tô chuyên nghiệp với camera động và chuyển cảnh mượt.
 ```
 
 ### No. 8: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `twitter`
 - **Author:** Min Choi (@minchoi)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
@@ -670,10 +670,10 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 9: Aerial Shot of Burning Military Vehicle in Urban Warfare
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `twitter`
 - **Author:** Carlos Santana (@DotCSV)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
@@ -691,10 +691,10 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 10: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `twitter`
 - **Author:** John (@johnAGI168)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
@@ -712,10 +712,10 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 11: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `twitter`
 - **Author:** el.cine (@EHuanglu)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
@@ -733,10 +733,10 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 12: South Indian Cinema Alien Scene Generated from Single Prompt
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `twitter`
 - **Author:** rohan anil (@_arohan_)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
@@ -754,10 +754,10 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 13: Ground Combat Shot of Soldiers Traversing Desert Terrain
 
-- **Category:** `Geavanceerde camerabewegingen`
+- **Category:** `Chuyển động camera nâng cao`
 - **Source:** `twitter`
 - **Author:** Chetaslua (@chetaslua)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
@@ -775,182 +775,182 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 <a id="category-4"></a>
 
-### Creatieve visuele effecten (11)
+### Hiệu ứng hình ảnh sáng tạo (11)
 
-### No. 1: VR-bril universumreis
+### No. 1: Hành trình vũ trụ với kính VR
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/18)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/18)
 
 #### Description
 
-Immersieve POV-overgang van de echte wereld via VR-interface naar meerdere digitale werelden.
+Chuyển POV nhập vai từ thế giới thực qua giao diện VR tới nhiều không gian số.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Immersieve POV-overgang van de echte wereld via VR-interface naar meerdere digitale werelden.
+Tạo cảnh video: Chuyển POV nhập vai từ thế giới thực qua giao diện VR tới nhiều không gian số.
 ```
 
-### No. 2: Modecommercial met snelle outfitwissel
+### No. 2: Quảng cáo thời trang thay đồ nhanh
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/19)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/19)
 
 #### Description
 
-Snelle modevideo met fisheye-effecten en glitchtransities.
+Video thời trang tiết tấu nhanh với hiệu ứng mắt cá và chuyển cảnh glitch.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Snelle modevideo met fisheye-effecten en glitchtransities.
+Tạo cảnh video: Video thời trang tiết tấu nhanh với hiệu ứng mắt cá và chuyển cảnh glitch.
 ```
 
-### No. 3: Donsjas-zwaanmetafoor
+### No. 3: Ẩn dụ thiên nga cho áo lông vũ
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/20)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/20)
 
 #### Description
 
-Creatieve commercial die product en natuurlijke beeldtaal combineert met Chinese voice-over.
+Quảng cáo sáng tạo kết hợp sản phẩm với hình ảnh thiên nhiên và lời thuyết minh tiếng Trung.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Creatieve commercial die product en natuurlijke beeldtaal combineert met Chinese voice-over.
+Tạo cảnh video: Quảng cáo sáng tạo kết hợp sản phẩm với hình ảnh thiên nhiên và lời thuyết minh tiếng Trung.
 ```
 
-### No. 4: Inktwassing Tai Chi
+### No. 4: Thái Cực thủy mặc
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/21)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/21)
 
 #### Description
 
-Traditionele Chinese inktstijl gecombineerd met een martial arts performance.
+Màn trình diễn võ thuật theo phong cách tranh thủy mặc Trung Hoa truyền thống.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Traditionele Chinese inktstijl gecombineerd met een martial arts performance.
+Tạo cảnh video: Màn trình diễn võ thuật theo phong cách tranh thủy mặc Trung Hoa truyền thống.
 ```
 
-### No. 5: Magische transformatiesequentie
+### No. 5: Chuỗi biến hình ma thuật
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/22)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/22)
 
 #### Description
 
-Karaktertransformatie met organische groei en oplossende partikeleffecten.
+Biến hình nhân vật với tăng trưởng hữu cơ và hiệu ứng tan rã hạt.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Karaktertransformatie met organische groei en oplossende partikeleffecten.
+Tạo cảnh video: Biến hình nhân vật với tăng trưởng hữu cơ và hiệu ứng tan rã hạt.
 ```
 
-### No. 6: Puzzelstuk transition logo
+### No. 6: Logo chuyển cảnh mảnh ghép
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/23)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/23)
 
 #### Description
 
-Dynamische logo-onthulling met puzzelfragmentatie-effect.
+Lộ diện logo động với hiệu ứng phân mảnh dạng puzzle.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Dynamische logo-onthulling met puzzelfragmentatie-effect.
+Tạo cảnh video: Lộ diện logo động với hiệu ứng phân mảnh dạng puzzle.
 ```
 
-### No. 7: Gouden partikel titlereveal
+### No. 7: Lộ diện tiêu đề hạt vàng
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/24)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/24)
 
 #### Description
 
-Cinematische titelsequentie met vloeiende gouden deeltjes.
+Hiệu ứng tiêu đề điện ảnh với các hạt vàng chuyển động.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Cinematische titelsequentie met vloeiende gouden deeltjes.
+Tạo cảnh video: Hiệu ứng tiêu đề điện ảnh với các hạt vàng chuyển động.
 ```
 
-### No. 8: Abstracte instant noodles
+### No. 8: Mì ăn liền trừu tượng
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/25)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/25)
 
 #### Description
 
-Surrealistische interpretatie van een alledaagse handeling met overdreven expressie.
+Diễn giải siêu thực một hành động đời thường với biểu cảm cường điệu.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Surrealistische interpretatie van een alledaagse handeling met overdreven expressie.
+Tạo cảnh video: Diễn giải siêu thực một hành động đời thường với biểu cảm cường điệu.
 ```
 
 ### No. 9: Will Smith Eating Spaghetti
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `twitter`
 - **Author:** levelsio (@levelsio)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
@@ -968,10 +968,10 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 10: One Punch Man Animation Surpassing Original Quality
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `twitter`
 - **Author:** Chetaslua (@chetaslua)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
@@ -989,10 +989,10 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 11: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
 
-- **Category:** `Creatieve visuele effecten`
+- **Category:** `Hiệu ứng hình ảnh sáng tạo`
 - **Source:** `twitter`
 - **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
@@ -1010,161 +1010,161 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 <a id="category-5"></a>
 
-### Verhaalontwikkeling en uitbreiding (8)
+### Phát triển & mở rộng câu chuyện (8)
 
-### No. 1: Geanimeerde stripkaders
+### No. 1: Hoạt hóa khung truyện tranh
 
-- **Category:** `Verhaalontwikkeling en uitbreiding`
+- **Category:** `Phát triển & mở rộng câu chuyện`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/26)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/26)
 
 #### Description
 
-Zet statische stripkaders om naar een geanimeerde sequentie met geluidseffecten.
+Biến các khung truyện tranh tĩnh thành chuỗi hoạt hình có hiệu ứng âm thanh.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Zet statische stripkaders om naar een geanimeerde sequentie met geluidseffecten.
+Tạo cảnh video: Biến các khung truyện tranh tĩnh thành chuỗi hoạt hình có hiệu ứng âm thanh.
 ```
 
-### No. 2: Documentaire over jeug seizoenen
+### No. 2: Phim tài liệu bốn mùa tuổi thơ
 
-- **Category:** `Verhaalontwikkeling en uitbreiding`
+- **Category:** `Phát triển & mở rộng câu chuyện`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/27)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/27)
 
 #### Description
 
-Maak een helende documentaire-intro op basis van storyboard.
+Tạo mở đầu phim tài liệu chữa lành dựa trên storyboard.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Maak een helende documentaire-intro op basis van storyboard.
+Tạo cảnh video: Tạo mở đầu phim tài liệu chữa lành dựa trên storyboard.
 ```
 
-### No. 3: Emotionele reisvideo
+### No. 3: Video hành trình cảm xúc
 
-- **Category:** `Verhaalontwikkeling en uitbreiding`
+- **Category:** `Phát triển & mở rộng câu chuyện`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/28)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/28)
 
 #### Description
 
-Maak een sfeergedreven video geïnspireerd op meerdere beelden en audio.
+Tạo video giàu cảm xúc lấy cảm hứng từ nhiều hình ảnh và âm thanh.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Maak een sfeergedreven video geïnspireerd op meerdere beelden en audio.
+Tạo cảnh video: Tạo video giàu cảm xúc lấy cảm hứng từ nhiều hình ảnh và âm thanh.
 ```
 
-### No. 4: Ezelscooter stuntadvertentie
+### No. 4: Quảng cáo stunt lừa đi mô tô
 
-- **Category:** `Verhaalontwikkeling en uitbreiding`
+- **Category:** `Phát triển & mở rộng câu chuyện`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/29)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/29)
 
 #### Description
 
-Verleng de video met een surrealistische productadvertentie met dierlijk personage.
+Mở rộng video bằng quảng cáo siêu thực có nhân vật động vật.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Verleng de video met een surrealistische productadvertentie met dierlijk personage.
+Tạo cảnh video: Mở rộng video bằng quảng cáo siêu thực có nhân vật động vật.
 ```
 
-### No. 5: Fitnessmotivatie-advertentie
+### No. 5: Quảng cáo động lực thể hình
 
-- **Category:** `Verhaalontwikkeling en uitbreiding`
+- **Category:** `Phát triển & mở rộng câu chuyện`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/30)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/30)
 
 #### Description
 
-Verleng de video met een dynamische fitnesssequentie en motiverende boodschap.
+Mở rộng video với chuỗi luyện tập năng động và thông điệp truyền động lực.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Verleng de video met een dynamische fitnesssequentie en motiverende boodschap.
+Tạo cảnh video: Mở rộng video với chuỗi luyện tập năng động và thông điệp truyền động lực.
 ```
 
-### No. 6: Koffie ochtendcampagne
+### No. 6: Chiến dịch cà phê buổi sáng
 
-- **Category:** `Verhaalontwikkeling en uitbreiding`
+- **Category:** `Phát triển & mở rộng câu chuyện`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/31)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/31)
 
 #### Description
 
-Verleng de koffiecommercial met sfeerverlichting en tekstonthulling.
+Mở rộng quảng cáo cà phê với ánh sáng giàu không khí và text reveal.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Verleng de koffiecommercial met sfeerverlichting en tekstonthulling.
+Tạo cảnh video: Mở rộng quảng cáo cà phê với ánh sáng giàu không khí và text reveal.
 ```
 
-### No. 7: Zonnebloem skateboardverhaal
+### No. 7: Câu chuyện ván trượt hoa hướng dương
 
-- **Category:** `Verhaalontwikkeling en uitbreiding`
+- **Category:** `Phát triển & mở rộng câu chuyện`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/32)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/32)
 
 #### Description
 
-Verleng de video met een warm slice-of-life verhaal in de namiddag.
+Mở rộng video theo mạch đời thường ấm áp buổi chiều.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Verleng de video met een warm slice-of-life verhaal in de namiddag.
+Tạo cảnh video: Mở rộng video theo mạch đời thường ấm áp buổi chiều.
 ```
 
 ### No. 8: Quick Test of Female Controlling Plane in Complex Action Scene
 
-- **Category:** `Verhaalontwikkeling en uitbreiding`
+- **Category:** `Phát triển & mở rộng câu chuyện`
 - **Source:** `twitter`
 - **Author:** Janek Mann (@janekm)
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
@@ -1182,589 +1182,589 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 <a id="category-6"></a>
 
-### Audio en stemsynthese (10)
+### Âm thanh & tổng hợp giọng nói (10)
 
-### No. 1: Fisheye paardenkomedie
+### No. 1: Hài ngựa góc mắt cá
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/33)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/33)
 
 #### Description
 
-Dierlijk personage met gesynchroniseerde dialoog en geluidseffecten via fisheye-lens.
+Nhân vật động vật với hội thoại và hiệu ứng âm thanh đồng bộ qua ống kính mắt cá.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Dierlijk personage met gesynchroniseerde dialoog en geluidseffecten via fisheye-lens.
+Tạo cảnh video: Nhân vật động vật với hội thoại và hiệu ứng âm thanh đồng bộ qua ống kính mắt cá.
 ```
 
-### No. 2: Kantoorgebouwdocumentaire
+### No. 2: Phim tài liệu tòa nhà văn phòng
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/34)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/34)
 
 #### Description
 
-Cinematische vastgoeddocumentaire met professionele vertelling.
+Phim tài liệu bất động sản phong cách điện ảnh với lời thuyết minh chuyên nghiệp.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Cinematische vastgoeddocumentaire met professionele vertelling.
+Tạo cảnh video: Phim tài liệu bất động sản phong cách điện ảnh với lời thuyết minh chuyên nghiệp.
 ```
 
-### No. 3: Kat & hond roastbattle
+### No. 3: Trận roast mèo & chó
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/35)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/35)
 
 #### Description
 
-Komedie-talkshow met expressieve dierenpersonages en gevatte dialogen.
+Talk show hài với nhân vật động vật biểu cảm và lời thoại dí dỏm.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Komedie-talkshow met expressieve dierenpersonages en gevatte dialogen.
+Tạo cảnh video: Talk show hài với nhân vật động vật biểu cảm và lời thoại dí dỏm.
 ```
 
-### No. 4: Chinese opera-uitvoering
+### No. 4: Trình diễn hí khúc Trung Hoa
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/36)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/36)
 
 #### Description
 
-Traditionele Henan-opera met authentieke zang en dramatische spanning.
+Cảnh trình diễn hí khúc Hà Nam truyền thống với giọng hát chuẩn và cao trào kịch tính.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Traditionele Henan-opera met authentieke zang en dramatische spanning.
+Tạo cảnh video: Cảnh trình diễn hí khúc Hà Nam truyền thống với giọng hát chuẩn và cao trào kịch tính.
 ```
 
-### No. 5: Cinematische roadtrip MV
+### No. 5: MV road trip điện ảnh
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/37)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/37)
 
 #### Description
 
-Muziekvideo met specifieke cinematografische keywords en atmosferische audio.
+Video âm nhạc với từ khóa quay phim cụ thể và âm thanh giàu bầu không khí.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Muziekvideo met specifieke cinematografische keywords en atmosferische audio.
+Tạo cảnh video: Video âm nhạc với từ khóa quay phim cụ thể và âm thanh giàu bầu không khí.
 ```
 
-### No. 6: Multiculturele familieviering
+### No. 6: Lễ mừng gia đình đa văn hóa
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/38)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/38)
 
 #### Description
 
-Hartverwarmende familiescène met Engelse dialoog en Latijnse muziek.
+Cảnh gia đình ấm áp với hội thoại tiếng Anh và nhạc Latin.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Hartverwarmende familiescène met Engelse dialoog en Latijnse muziek.
+Tạo cảnh video: Cảnh gia đình ấm áp với hội thoại tiếng Anh và nhạc Latin.
 ```
 
-### No. 7: Tactisch team Spaanse briefing
+### No. 7: Briefing tiếng Tây Ban Nha của đội chiến thuật
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/39)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/39)
 
 #### Description
 
-Militaire tactische scène met Spaanse dialoog en equipmentgeluiden.
+Cảnh quân sự chiến thuật với hội thoại tiếng Tây Ban Nha và âm thanh trang bị.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Militaire tactische scène met Spaanse dialoog en equipmentgeluiden.
+Tạo cảnh video: Cảnh quân sự chiến thuật với hội thoại tiếng Tây Ban Nha và âm thanh trang bị.
 ```
 
-### No. 8: Ochtend wakker-worden dialoog
+### No. 8: Đối thoại đánh thức buổi sáng
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/40)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/40)
 
 #### Description
 
-Intieme koppelscène met natuurlijke voice-acting en emotionele nuance.
+Cảnh cặp đôi thân mật với diễn giọng tự nhiên và sắc thái cảm xúc tinh tế.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Intieme koppelscène met natuurlijke voice-acting en emotionele nuance.
+Tạo cảnh video: Cảnh cặp đôi thân mật với diễn giọng tự nhiên và sắc thái cảm xúc tinh tế.
 ```
 
-### No. 9: Sichuan-dialect bubble tea
+### No. 9: Trà sữa giọng Tứ Xuyên
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/41)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/41)
 
 #### Description
 
-Komediescène met authentiek Sichuan-dialect en karakterinteractie.
+Cảnh hài với phương ngữ Tứ Xuyên chân thực và tương tác nhân vật.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Komediescène met authentiek Sichuan-dialect en karakterinteractie.
+Tạo cảnh video: Cảnh hài với phương ngữ Tứ Xuyên chân thực và tương tác nhân vật.
 ```
 
-### No. 10: Journey to the West vertelling
+### No. 10: Kể chuyện Tây Du Ký
 
-- **Category:** `Audio en stemsynthese`
+- **Category:** `Âm thanh & tổng hợp giọng nói`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/42)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/42)
 
 #### Description
 
-Educatieve content met documentaire-stijl voice-over over klassieke Chinese literatuur.
+Nội dung giáo dục với lời dẫn phong cách tài liệu giải thích văn học cổ điển Trung Hoa.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Educatieve content met documentaire-stijl voice-over over klassieke Chinese literatuur.
+Tạo cảnh video: Nội dung giáo dục với lời dẫn phong cách tài liệu giải thích văn học cổ điển Trung Hoa.
 ```
 
 <a id="category-7"></a>
 
-### One-take cinematografie (5)
+### Điện ảnh one-take (5)
 
-### No. 1: Parkour achtervolgingssequentie
+### No. 1: Chuỗi truy đuổi parkour
 
-- **Category:** `One-take cinematografie`
+- **Category:** `Điện ảnh one-take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/43)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/43)
 
 #### Description
 
-Dynamische one-take die een runner door meerdere omgevingen volgt.
+One-take năng động bám theo người chạy qua nhiều môi trường khác nhau.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Dynamische one-take die een runner door meerdere omgevingen volgt.
+Tạo cảnh video: One-take năng động bám theo người chạy qua nhiều môi trường khác nhau.
 ```
 
-### No. 2: Ijsdroom bij vliegtuigraam
+### No. 2: Giấc mơ kem qua cửa sổ máy bay
 
-- **Category:** `One-take cinematografie`
+- **Category:** `Điện ảnh one-take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/44)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/44)
 
 #### Description
 
-Surrealistische one-take van vliegtuigraam naar magische interactie.
+One-take siêu thực chuyển từ cửa sổ máy bay sang tương tác kỳ ảo.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Surrealistische one-take van vliegtuigraam naar magische interactie.
+Tạo cảnh video: One-take siêu thực chuyển từ cửa sổ máy bay sang tương tác kỳ ảo.
 ```
 
-### No. 3: Spionagethriller staart
+### No. 3: Bám đuôi điệp viên giật gân
 
-- **Category:** `One-take cinematografie`
+- **Category:** `Điện ảnh one-take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/45)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/45)
 
 #### Description
 
-Spannende one-take die een geheim agent door stedelijke omgeving volgt.
+One-take căng thẳng bám theo mật vụ trong môi trường đô thị.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Spannende one-take die een geheim agent door stedelijke omgeving volgt.
+Tạo cảnh video: One-take căng thẳng bám theo mật vụ trong môi trường đô thị.
 ```
 
-### No. 4: Gezellige cabin theetijd
+### No. 4: Giờ trà trong cabin ấm cúng
 
-- **Category:** `One-take cinematografie`
+- **Category:** `Điện ảnh one-take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/46)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/46)
 
 #### Description
 
-First-person one-take die een warme interieursetting binnenkomt.
+One-take góc nhìn thứ nhất bước vào không gian nội thất ấm áp.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: First-person one-take die een warme interieursetting binnenkomt.
+Tạo cảnh video: One-take góc nhìn thứ nhất bước vào không gian nội thất ấm áp.
 ```
 
-### No. 5: Achtbaan POV
+### No. 5: POV tàu lượn siêu tốc
 
-- **Category:** `One-take cinematografie`
+- **Category:** `Điện ảnh one-take`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/47)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/47)
 
 #### Description
 
-Spannende first-person achtbaanervaring met oplopende snelheid.
+Trải nghiệm tàu lượn góc nhìn thứ nhất đầy kịch tính với tốc độ tăng dần.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Spannende first-person achtbaanervaring met oplopende snelheid.
+Tạo cảnh video: Trải nghiệm tàu lượn góc nhìn thứ nhất đầy kịch tính với tốc độ tăng dần.
 ```
 
 <a id="category-8"></a>
 
-### Videobewerking en remix (5)
+### Chỉnh sửa & remix video (5)
 
-### No. 1: Titanic donkere twist
+### No. 1: Titanic lật kèo u tối
 
-- **Category:** `Videobewerking en remix`
+- **Category:** `Chỉnh sửa & remix video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/48)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/48)
 
 #### Description
 
-Keer een romantische scène om naar een thriller vol verraad.
+Đảo ngược cảnh lãng mạn thành thriller phản bội.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Keer een romantische scène om naar een thriller vol verraad.
+Tạo cảnh video: Đảo ngược cảnh lãng mạn thành thriller phản bội.
 ```
 
-### No. 2: Zakelijke ernst naar snackdeal
+### No. 2: Họp kinh doanh nghiêm túc thành giao dịch snack
 
-- **Category:** `Videobewerking en remix`
+- **Category:** `Chỉnh sửa & remix video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/49)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/49)
 
 #### Description
 
-Transformeer een gespannen businessmeeting in een komische snackadvertentie.
+Biến cuộc họp căng thẳng thành quảng cáo đồ ăn vặt hài hước.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Transformeer een gespannen businessmeeting in een komische snackadvertentie.
+Tạo cảnh video: Biến cuộc họp căng thẳng thành quảng cáo đồ ăn vặt hài hước.
 ```
 
-### No. 3: Bandzanger gender swap
+### No. 3: Đổi giới tính ca sĩ chính ban nhạc
 
-- **Category:** `Videobewerking en remix`
+- **Category:** `Chỉnh sửa & remix video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/50)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/50)
 
 #### Description
 
-Vervang de vrouwelijke leadzanger door een man terwijl alle bewegingen behouden blijven.
+Thay ca sĩ nữ bằng nam nhưng vẫn giữ toàn bộ chuyển động.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Vervang de vrouwelijke leadzanger door een man terwijl alle bewegingen behouden blijven.
+Tạo cảnh video: Thay ca sĩ nữ bằng nam nhưng vẫn giữ toàn bộ chuyển động.
 ```
 
-### No. 4: Haai photobomb
+### No. 4: Cá mập photobomb
 
-- **Category:** `Videobewerking en remix`
+- **Category:** `Chỉnh sửa & remix video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/51)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/51)
 
 #### Description
 
-Voeg een dreigend element toe aan een rustige scène.
+Thêm yếu tố đe dọa vào một cảnh yên bình.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Voeg een dreigend element toe aan een rustige scène.
+Tạo cảnh video: Thêm yếu tố đe dọa vào một cảnh yên bình.
 ```
 
-### No. 5: Fried chicken merkintegratie
+### No. 5: Tích hợp thương hiệu gà rán
 
-- **Category:** `Videobewerking en remix`
+- **Category:** `Chỉnh sửa & remix video`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/52)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/52)
 
 #### Description
 
-Voeg merkverpakking toe aan een bestaande restaurantscène.
+Thêm bao bì thương hiệu vào cảnh nhà hàng hiện có.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Voeg merkverpakking toe aan een bestaande restaurantscène.
+Tạo cảnh video: Thêm bao bì thương hiệu vào cảnh nhà hàng hiện có.
 ```
 
 <a id="category-9"></a>
 
-### Muzieksynchronisatie (4)
+### Đồng bộ âm nhạc (4)
 
 ### No. 1: Fashion beat drop
 
-- **Category:** `Muzieksynchronisatie`
+- **Category:** `Đồng bộ âm nhạc`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/53)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/53)
 
 #### Description
 
-Modetransformatie gesynchroniseerd op muziekbeats.
+Biến đổi thời trang đồng bộ theo beat nhạc.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Modetransformatie gesynchroniseerd op muziekbeats.
+Tạo cảnh video: Biến đổi thời trang đồng bộ theo beat nhạc.
 ```
 
-### No. 2: Dynamisch portret beatsync
+### No. 2: Đồng bộ beat chân dung động
 
-- **Category:** `Muzieksynchronisatie`
+- **Category:** `Đồng bộ âm nhạc`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/54)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/54)
 
 #### Description
 
-Karakterportretten verschijnen op muzikale keyframes met extra dynamiek.
+Chân dung nhân vật xuất hiện đúng keyframe âm nhạc với nhịp động mạnh hơn.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Karakterportretten verschijnen op muzikale keyframes met extra dynamiek.
+Tạo cảnh video: Chân dung nhân vật xuất hiện đúng keyframe âm nhạc với nhịp động mạnh hơn.
 ```
 
-### No. 3: Landschap transition muziekvideo
+### No. 3: MV chuyển cảnh phong cảnh
 
-- **Category:** `Muzieksynchronisatie`
+- **Category:** `Đồng bộ âm nhạc`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/55)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/55)
 
 #### Description
 
-Scèneovergangen in landschappen perfect getimed op het muziekritme.
+Các chuyển cảnh phong cảnh được canh khớp hoàn hảo theo nhịp nhạc.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Scèneovergangen in landschappen perfect getimed op het muziekritme.
+Tạo cảnh video: Các chuyển cảnh phong cảnh được canh khớp hoàn hảo theo nhịp nhạc.
 ```
 
-### No. 4: Anime schaakgevecht storyboard
+### No. 4: Storyboard đấu cờ anime
 
-- **Category:** `Muzieksynchronisatie`
+- **Category:** `Đồng bộ âm nhạc`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/56)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/56)
 
 #### Description
 
-Storyboard-gedreven anime-sequentie met dramatische timing.
+Chuỗi anime theo storyboard với nhịp kịch tính rõ nét.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Storyboard-gedreven anime-sequentie met dramatische timing.
+Tạo cảnh video: Chuỗi anime theo storyboard với nhịp kịch tính rõ nét.
 ```
 
 <a id="category-10"></a>
 
-### Emotionele performance (3)
+### Biểu đạt cảm xúc (3)
 
-### No. 1: Spiegel-instorting
+### No. 1: Sụp đổ trước gương
 
-- **Category:** `Emotionele performance`
+- **Category:** `Biểu đạt cảm xúc`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/57)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/57)
 
 #### Description
 
-Psychologische instortingsscène met oplopende emotie.
+Cảnh khủng hoảng tâm lý với cảm xúc leo thang.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Psychologische instortingsscène met oplopende emotie.
+Tạo cảnh video: Cảnh khủng hoảng tâm lý với cảm xúc leo thang.
 ```
 
-### No. 2: Kookcontrast komedie
+### No. 2: Hài tương phản nấu ăn
 
-- **Category:** `Emotionele performance`
+- **Category:** `Biểu đạt cảm xúc`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/58)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/58)
 
 #### Description
 
-Komedisch contrast tussen rustig en chaotisch koken.
+Sự tương phản hài hước giữa nấu ăn bình tĩnh và hỗn loạn.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Komedisch contrast tussen rustig en chaotisch koken.
+Tạo cảnh video: Sự tương phản hài hước giữa nấu ăn bình tĩnh và hỗn loạn.
 ```
 
-### No. 3: Dramatische brul close-up
+### No. 3: Cận cảnh gầm thét kịch tính
 
-- **Category:** `Emotionele performance`
+- **Category:** `Biểu đạt cảm xúc`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `nl`
+- **Language:** `vi`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/nl/seedance-2-prompt/59)
+- **Source Link:** [View](https://www.atlascloud.ai/vi/seedance-2-prompt/59)
 
 #### Description
 
-Komedisch dramatische performance met overdreven expressie.
+Màn trình diễn kịch tính mang sắc thái hài với biểu cảm cường điệu.
 
 #### Prompt
 
 ```text
-Genereer een videoscène: Komedisch dramatische performance met overdreven expressie.
+Tạo cảnh video: Màn trình diễn kịch tính mang sắc thái hài với biểu cảm cường điệu.
 ```
 
 ## Local Usage
@@ -1788,4 +1788,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-15T10:31:47.219Z
+> This README is auto-generated. 2026-06-15T11:09:53.996Z

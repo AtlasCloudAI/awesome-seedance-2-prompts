@@ -10,7 +10,7 @@
 
 > All prompts are shared for learning, organization, and discovery. Open an issue if anything should be removed.
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-Current-brightgreen)](README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](README_sv.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ko.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Current-brightgreen)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_th.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_vi.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_hi.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_es.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_fr.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_it.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_pt.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_tr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_id.md) [![Nederlands](https://img.shields.io/badge/Nederlands-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_nl.md) [![Polski](https://img.shields.io/badge/Polski-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_pl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_ru.md) [![Svenska](https://img.shields.io/badge/Svenska-View-lightgrey)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/blob/main/i18n/README_sv.md)
 
 ---
 
@@ -28,8 +28,8 @@
 
 ## 🌐 View in AtlasCloud
 
-- Prompt Library: [View](https://www.atlascloud.ai/it/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
-- Model Page: [View](https://www.atlascloud.ai/it/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
+- Prompt Library: [View](https://www.atlascloud.ai/th/seedance-2-prompt?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
+- Model Page: [View](https://www.atlascloud.ai/th/models/bytedance/seedance-2.0/text-to-video?utm_source=github&utm_campaign=awesome-seedance-2-prompts)
 
 ## 🧩 Supported Models
 
@@ -70,290 +70,287 @@ Seedance 2.0 is strongest at multimodal video generation. It handles text, image
 | Total Prompts | **70** |
 | Categories | **10** |
 | Preview Videos | **70** |
-| Last Updated | **2026-06-15T10:31:47.216Z** |
+| Last Updated | **2026-06-15T11:09:53.995Z** |
 
 ## 🏷️ Browse by Category
 
-- [`Ultra-Realistic Video Generation`](#category-1): **5**
-- [`Character & Scene Consistency`](#category-2): **6**
-- [`Advanced Camera Movements`](#category-3): **13**
-- [`Creative Visual Effects`](#category-4): **11**
-- [`Story Development & Extension`](#category-5): **8**
-- [`Audio & Voice Synthesis`](#category-6): **10**
-- [`One-Take Cinematography`](#category-7): **5**
-- [`Video Editing & Remixing`](#category-8): **5**
-- [`Music Synchronization`](#category-9): **4**
-- [`Emotional Performance`](#category-10): **3**
+- [`การสร้างวิดีโอสมจริงขั้นสูง`](#category-1): **5**
+- [`ความสม่ำเสมอของตัวละครและฉาก`](#category-2): **6**
+- [`การเคลื่อนไหวกล้องขั้นสูง`](#category-3): **13**
+- [`เอฟเฟกต์ภาพสร้างสรรค์`](#category-4): **11**
+- [`การพัฒนาและต่อยอดเรื่องราว`](#category-5): **8**
+- [`เสียงและการสังเคราะห์เสียงพูด`](#category-6): **10**
+- [`ภาพยนตร์เทคเดียว`](#category-7): **5**
+- [`การตัดต่อและรีมิกซ์วิดีโอ`](#category-8): **5**
+- [`การซิงก์ดนตรี`](#category-9): **4**
+- [`การแสดงอารมณ์`](#category-10): **3**
 
 ## 🔥 Featured Prompts
 
-### No. 1: Scena elegante di bucato
+### No. 1: สง่างาม ซักผ้า ฉาก
 
-- **Category:** `Ultra-Realistic Video Generation`
+- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/1)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/1)
 
 #### Description
 
-Una donna stende il bucato con eleganza, prende un altro capo dal cesto e lo scuote con movimento naturale.
+ฉากวิดีโอในธีม: สง่างาม ซักผ้า ฉาก
 
 #### Prompt
 
 ```text
-Inquadratura fissa: una ragazza stende i panni con eleganza; finito il gesto, prende un altro capo dal cesto e lo scuote con energia.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สง่างาม ซักผ้า ฉาก
 ```
 
-### No. 2: Rientro a casa dopo il lavoro
+### No. 2: หลังเลิกงาน กลับบ้าน
 
-- **Category:** `Character & Scene Consistency`
+- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/5)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/5)
 
 #### Description
 
-Narrazione continua che mantiene la coerenza del personaggio dal corridoio dell’ufficio fino a casa, con transizione emotiva e interazione familiare.
+ฉากวิดีโอในธีม: หลังเลิกงาน กลับบ้าน
 
 #### Prompt
 
 ```text
-L’uomo @image1 torna dal lavoro e cammina stanco nel corridoio; rallenta e si ferma davanti alla porta di casa. Primo piano sul volto: fa un respiro profondo, regola le emozioni e si rilassa. Cerca le chiavi, apre la porta, entra in casa; la figlia piccola e il cane corrono ad abbracciarlo. Atmosfera calda con dialoghi naturali.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หลังเลิกงาน กลับบ้าน
 ```
 
-### No. 3: Zoom Hitchcock in ascensore
+### No. 3: ฮิตช์ค็อก ซูม in ลิฟต์
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/11)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/11)
 
 #### Description
 
-Classico effetto vertigine in stile Hitchcock combinato con movimenti di camera complessi in spazio ristretto.
+ฉากวิดีโอในธีม: ฮิตช์ค็อก ซูม in ลิฟต์
 
 #### Prompt
 
 ```text
-Prendi l’uomo di @image1 nell’ascensore di @image2, replicando camera e mimica da @video1. Nel momento di paura usa lo zoom Hitchcock; poi vari piani orbitali dell’interno. Quando si apre la porta, segui l’uscita verso la scena esterna @image3 con tracking multi-angolo sulla sua linea di sguardo.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฮิตช์ค็อก ซูม in ลิฟต์
 ```
 
-### No. 4: Viaggio cosmico con occhiali VR
+### No. 4: VR แว่น จักรวาล การเดินทาง
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/18)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/18)
 
 #### Description
 
-Transizione POV immersiva dal mondo reale, attraverso interfaccia VR, verso più domini digitali.
+ฉากวิดีโอในธีม: VR แว่น จักรวาล การเดินทาง
 
 #### Prompt
 
 ```text
-Sostituisci il personaggio di @video1 con @image1 e usa @image1 come primo frame. Il personaggio indossa occhiali sci-fi; con camera ispirata a @video1 passa dalla terza persona alla POV e attraversa un mondo AI fino all’universo blu profondo di @image2, dove compaiono astronavi che volano in lontananza.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: VR แว่น จักรวาล การเดินทาง
 ```
 
-### No. 5: Animazione di vignette fumetto
+### No. 5: คอมิก ช่องภาพ แอนิเมชัน
 
-- **Category:** `Story Development & Extension`
+- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/26)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/26)
 
 #### Description
 
-Trasforma vignette statiche in una sequenza animata con effetti sonori.
+ฉากวิดีโอในธีม: คอมิก ช่องภาพ แอนิเมชัน
 
 #### Prompt
 
 ```text
-Estendi il video di 15 s usando come riferimento l’asino in moto di @image1 e @image2, aggiungendo una sequenza pubblicitaria creativa.
-Scena 1: camera fissa laterale, l’asino esce dal recinto e spaventa le galline.
-Scena 2: l’asino gira sulla sabbia, prima close-up pneumatico poi ripresa aerea.
-Scena 3: sfondo montagna innevata, salto in moto e slogan “Inspire Creativity, Enrich Life”.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: คอมิก ช่องภาพ แอนิเมชัน
 ```
 
-### No. 6: Commedia del cavallo con fisheye
+### No. 6: ฟิชอาย ม้า คอมเมดี้
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/33)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/33)
 
 #### Description
 
-Personaggio animale con dialogo sincronizzato ed effetti sonori tramite lente fisheye.
+ฉากวิดีโอในธีม: ฟิชอาย ม้า คอมเมดี้
 
 #### Prompt
 
 ```text
-Camera fissa, fisheye centrale che guarda in basso attraverso un foro circolare. Riferisciti al fisheye di video1, fai guardare il cavallo di @video2 verso la lente, riprendi i movimenti del parlato da @video1 e usa BGM ispirato a @video3.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฟิชอาย ม้า คอมเมดี้
 ```
 
-### No. 7: Sequenza parkour d’inseguimento
+### No. 7: ปาร์กัวร์ ไล่ล่า ลำดับภาพ
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `ภาพยนตร์เทคเดียว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/43)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/43)
 
 #### Description
 
-Piano sequenza dinamico che segue un runner attraverso ambienti multipli.
+ฉากวิดีโอในธีม: ปาร์กัวร์ ไล่ล่า ลำดับภาพ
 
 #### Prompt
 
 ```text
-@image1@image2@image3@image4@image5, piano sequenza di inseguimento: segui il runner dalla strada su per le scale, attraverso corridoi, fino al tetto, con chiusura in vista panoramica sulla città.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ปาร์กัวร์ ไล่ล่า ลำดับภาพ
 ```
 
-### No. 8: Twist oscuro in stile Titanic
+### No. 8: ไททานิก มืดหม่น หักมุม
 
-- **Category:** `Video Editing & Remixing`
+- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/48)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/48)
 
 #### Description
 
-Ribalta una scena romantica in thriller di tradimento.
+ฉากวิดีโอในธีม: ไททานิก มืดหม่น หักมุม
 
 #### Prompt
 
 ```text
-Ribalta la trama di @video1: lo sguardo dell’uomo passa da dolce a gelido e crudele; nel momento in cui la protagonista è indifesa, la spinge giù dal ponte nell’acqua. Azione netta e determinata, dal tono premeditato.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไททานิก มืดหม่น หักมุม
 ```
 
 ## 📋 All Prompts
 
 <a id="category-1"></a>
 
-### Ultra-Realistic Video Generation (5)
+### การสร้างวิดีโอสมจริงขั้นสูง (5)
 
-### No. 1: Scena elegante di bucato
+### No. 1: สง่างาม ซักผ้า ฉาก
 
-- **Category:** `Ultra-Realistic Video Generation`
+- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b6b7f78a-f9a7-4c09-a3ac-6f0f694b1263.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/1)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/1)
 
 #### Description
 
-Una donna stende il bucato con eleganza, prende un altro capo dal cesto e lo scuote con movimento naturale.
+ฉากวิดีโอในธีม: สง่างาม ซักผ้า ฉาก
 
 #### Prompt
 
 ```text
-Inquadratura fissa: una ragazza stende i panni con eleganza; finito il gesto, prende un altro capo dal cesto e lo scuote con energia.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สง่างาม ซักผ้า ฉาก
 ```
 
-### No. 2: Personaggio interattivo nel dipinto
+### No. 2: อินเทอร์แอกทีฟ ภาพวาด ตัวละคร
 
-- **Category:** `Ultra-Realistic Video Generation`
+- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d6e3a17d-f4a7-49e3-850c-2cfc68b4a6a4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/2)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/2)
 
 #### Description
 
-Un personaggio in un dipinto prende vita e beve cola di nascosto, creando una scena pubblicitaria ironica.
+ฉากวิดีโอในธีม: อินเทอร์แอกทีฟ ภาพวาด ตัวละคร
 
 #### Prompt
 
 ```text
-Il personaggio nel dipinto ha un’espressione colpevole, guarda a destra e sinistra, si sporge fuori dalla cornice, allunga la mano e prende una cola bevendone un sorso. Subito dopo si sentono passi e rimette in fretta la bevanda al suo posto. Un cowboy prende la cola e se ne va. La camera avanza fino a uno sfondo nero con la lattina illuminata dall’alto; in basso compaiono sottotitolo artistico e voice-over.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: อินเทอร์แอกทีฟ ภาพวาด ตัวละคร
 ```
 
-### No. 3: Scena stradale vittoriana
+### No. 3: ยุควิกตอเรียน ถนน ฉาก
 
-- **Category:** `Ultra-Realistic Video Generation`
+- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/b0409f93-9857-4465-9a2d-50a30937a9db.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/3)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/3)
 
 #### Description
 
-Scena d’epoca nella Londra del XIX secolo con dettagli ambientali autentici e reazioni credibili del personaggio.
+ฉากวิดีโอในธีม: ยุควิกตอเรียน ถนน ฉาก
 
 #### Prompt
 
 ```text
-La camera arretra leggermente mostrando tutta la strada e segue la protagonista. Il vento muove l’orlo della gonna mentre cammina nella Londra del XIX secolo; da destra arriva un veicolo a vapore che la sfiora rapidamente. Lei, sorpresa, abbassa la gonna con entrambe le mani. Aggiungi suoni di passi, folla e traffico.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ยุควิกตอเรียน ถนน ฉาก
 ```
 
-### No. 4: Inseguimento con ostacoli
+### No. 4: ไล่ล่า ฉาก with สิ่งกีดขวาง
 
-- **Category:** `Ultra-Realistic Video Generation`
+- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/97438ef1-9ee8-4b6f-b064-05e1a0216c33.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/4)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/4)
 
 #### Description
 
-Sequenza d’inseguimento intensa con collisioni realistiche e panico della folla.
+ฉากวิดีโอในธีม: ไล่ล่า ฉาก with สิ่งกีดขวาง
 
 #### Prompt
 
 ```text
-La camera segue un uomo vestito di nero che fugge rapidamente, inseguito da un gruppo di persone. Passaggio a tracking laterale: il personaggio, in panico, urta un banco di frutta, cade, si rialza e continua a correre. Inserire rumore confuso della folla.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไล่ล่า ฉาก with สิ่งกีดขวาง
 ```
 
 ### No. 5: Will Smith Eating Spaghetti
 
-- **Category:** `Ultra-Realistic Video Generation`
+- **Category:** `การสร้างวิดีโอสมจริงขั้นสูง`
 - **Source:** `twitter`
 - **Author:** levelsio (@levelsio)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e55ed973-0bcf-4d50-8b5d-3a831e7e9d68.mp4" controls muted playsinline width="720"></video>
@@ -371,291 +368,291 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 <a id="category-2"></a>
 
-### Character & Scene Consistency (6)
+### ความสม่ำเสมอของตัวละครและฉาก (6)
 
-### No. 1: Rientro a casa dopo il lavoro
+### No. 1: หลังเลิกงาน กลับบ้าน
 
-- **Category:** `Character & Scene Consistency`
+- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d66a205c-4470-4d71-9122-2d0bf0694c9c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/5)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/5)
 
 #### Description
 
-Narrazione continua che mantiene la coerenza del personaggio dal corridoio dell’ufficio fino a casa, con transizione emotiva e interazione familiare.
+ฉากวิดีโอในธีม: หลังเลิกงาน กลับบ้าน
 
 #### Prompt
 
 ```text
-L’uomo @image1 torna dal lavoro e cammina stanco nel corridoio; rallenta e si ferma davanti alla porta di casa. Primo piano sul volto: fa un respiro profondo, regola le emozioni e si rilassa. Cerca le chiavi, apre la porta, entra in casa; la figlia piccola e il cane corrono ad abbracciarlo. Atmosfera calda con dialoghi naturali.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หลังเลิกงาน กลับบ้าน
 ```
 
-### No. 2: Trasformazione su palco d’opera
+### No. 2: โอเปรา เวที การแปลงร่าง
 
-- **Category:** `Character & Scene Consistency`
+- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/fffd7fd2-9752-4226-bd04-84101f206938.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/6)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/6)
 
 #### Description
 
-Sostituzione personaggio mantenendo movimenti di camera e transizioni del video di riferimento.
+ฉากวิดีโอในธีม: โอเปรา เวที การแปลงร่าง
 
 #### Prompt
 
 ```text
-Sostituisci la ragazza in @video1 con una huadan dell’opera cinese. Ambienta la scena su un palco raffinato, riferendoti ai movimenti di camera e alle transizioni di @video1 per allinearle all’azione del personaggio e aumentare l’impatto visivo.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: โอเปรา เวที การแปลงร่าง
 ```
 
-### No. 3: Transizione fluida in piano sequenza
+### No. 3: เทคเดียว ไร้รอยต่อ ทรานซิชัน
 
-- **Category:** `Character & Scene Consistency`
+- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/27a03978-e3c0-4750-9b0d-c1a802db8af6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/7)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/7)
 
 #### Description
 
-Piano sequenza complesso con più transizioni di scena e coerenza visiva.
+ฉากวิดีโอในธีม: เทคเดียว ไร้รอยต่อ ทรานซิชัน
 
 #### Prompt
 
 ```text
-Riferisciti a tutte le transizioni e movimenti di camera di @video1 in un unico piano sequenza: dal tavolo da gioco, spostamento a sinistra su ghiaia gialla, risalita verso spiaggia con impronte, passaggio a vista aerea sul mare; transizione fluida dalle onde a tende mosse dal vento, poi pull-back su primo piano del volto della ragazza.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เทคเดียว ไร้รอยต่อ ทรานซิชัน
 ```
 
-### No. 4: Showcase prodotto con fiocco magnetico
+### No. 4: แม่เหล็ก Bow สินค้า โชว์เคส
 
-- **Category:** `Character & Scene Consistency`
+- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/74458d90-1c7a-487c-acc2-454558810520.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/8)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/8)
 
 #### Description
 
-Pubblicità prodotto coreano con coerenza di brand e dimostrazione multi-scena.
+ฉากวิดีโอในธีม: แม่เหล็ก Bow สินค้า โชว์เคส
 
 #### Prompt
 
 ```text
-0-2 s: flash cut in quattro riquadri (rosso, rosa, viola, blu), prodotto @image1 al centro in rotazione, 0,5 s ciascuno. 2-4 s: primo piano prodotto con orbita 360° per i dettagli. 4-6 s: primo piano logo con comparsa del brand. Musica elettronica ritmica per tutta la clip.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แม่เหล็ก Bow สินค้า โชว์เคส
 ```
 
-### No. 5: Spot borsa di lusso
+### No. 5: หรูหรา กระเป๋าถือ โฆษณา
 
-- **Category:** `Character & Scene Consistency`
+- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d62bd403-fcd1-4abd-8f23-c57063660ed0.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/9)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/9)
 
 #### Description
 
-Showcase prodotto che mantiene la coerenza dei dettagli tra più immagini di riferimento.
+ฉากวิดีโอในธีม: หรูหรา กระเป๋าถือ โฆษณา
 
 #### Prompt
 
 ```text
-Realizza un video commerciale della borsa in @image1 con stile moda di fascia alta: camera orbitale lenta, evidenza di texture della pelle, componenti metalliche e struttura interna, con luci morbide che valorizzano lusso e artigianalità.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หรูหรา กระเป๋าถือ โฆษณา
 ```
 
-### No. 6: Esplorazione horror in prima persona
+### No. 6: สยองขวัญ มุมมองบุคคลที่หนึ่ง สำรวจ
 
-- **Category:** `Character & Scene Consistency`
+- **Category:** `ความสม่ำเสมอของตัวละครและฉาก`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c4802cca-4ef9-4ba9-b8cc-ed5bdecb88e6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/10)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/10)
 
 #### Description
 
-Prospettiva in prima persona con coerenza di scena su più ambienti.
+ฉากวิดีโอในธีม: สยองขวัญ มุมมองบุคคลที่หนึ่ง สำรวจ
 
 #### Prompt
 
 ```text
-Usa @image1 come primo fotogramma. In prima persona, la camera avanza lentamente in un corridoio buio; ombre inquietanti si muovono sulle pareti e in lontananza si sente un respiro profondo. Crea una tensione opprimente.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สยองขวัญ มุมมองบุคคลที่หนึ่ง สำรวจ
 ```
 
 <a id="category-3"></a>
 
-### Advanced Camera Movements (13)
+### การเคลื่อนไหวกล้องขั้นสูง (13)
 
-### No. 1: Zoom Hitchcock in ascensore
+### No. 1: ฮิตช์ค็อก ซูม in ลิฟต์
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4be02035-a101-4c2c-bb20-c2fe59771de9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/11)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/11)
 
 #### Description
 
-Classico effetto vertigine in stile Hitchcock combinato con movimenti di camera complessi in spazio ristretto.
+ฉากวิดีโอในธีม: ฮิตช์ค็อก ซูม in ลิฟต์
 
 #### Prompt
 
 ```text
-Prendi l’uomo di @image1 nell’ascensore di @image2, replicando camera e mimica da @video1. Nel momento di paura usa lo zoom Hitchcock; poi vari piani orbitali dell’interno. Quando si apre la porta, segui l’uscita verso la scena esterna @image3 con tracking multi-angolo sulla sua linea di sguardo.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฮิตช์ค็อก ซูม in ลิฟต์
 ```
 
-### No. 2: Inseguimento complesso nel corridoio
+### No. 2: ซับซ้อน ทางเดิน ไล่ล่า
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c1288035-fc08-4465-bee0-a1857f94c7c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/12)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/12)
 
 #### Description
 
-Tracking multi-angolo con movimenti rapidi e cambi di prospettiva.
+ฉากวิดีโอในธีม: ซับซ้อน ทางเดิน ไล่ล่า
 
 #### Prompt
 
 ```text
-Uomo da @image1 nel corridoio @image2, con linguaggio camera di @video1. Seguilo mentre corre all’angolo e poi nel corridoio lungo @image3 passa da inseguimento posteriore a orbita low-angle fino al frontale.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ซับซ้อน ทางเดิน ไล่ล่า
 ```
 
-### No. 3: Showcase tablet con rotazione
+### No. 3: หมุน แท็บเล็ต โชว์เคส
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/2f9e5701-3cbe-4855-84a8-3ba0cd72b329.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/13)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/13)
 
 #### Description
 
-Showcase prodotto con camera rotante e trasformazione ambientale.
+ฉากวิดีโอในธีม: หมุน แท็บเล็ต โชว์เคส
 
 #### Prompt
 
 ```text
-Il tablet di @image1 è il soggetto principale. Movimento camera ispirato a @video1: discesa lenta dalla vista dall’alto, schermo che si illumina mostrando l’interfaccia, poi orbita per evidenziare i dettagli hardware.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หมุน แท็บเล็ต โชว์เคส
 ```
 
-### No. 4: Push-pull ritmico di danza
+### No. 4: เป็นจังหวะ เต้น ดัน-ดึง
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/33ffc8e5-255c-46b2-8877-ad8a9100f6d4.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/14)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/14)
 
 #### Description
 
-Movimenti push-pull sincronizzati con la coreografia di danza.
+ฉากวิดีโอในธีม: เป็นจังหวะ เต้น ดัน-ดึง
 
 #### Prompt
 
 ```text
-La celebrità femminile in @image1 è protagonista. Riferimento al movimento camera di @video1: dal campo lungo al primo piano, con passi di danza eleganti seguiti da rotazione attorno al personaggio.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เป็นจังหวะ เต้น ดัน-ดึง
 ```
 
-### No. 5: Scena di combattimento marziale
+### No. 5: ศิลปะการต่อสู้ การต่อสู้ ฉาก
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/e62ddd7b-da6a-4b26-be8a-aba6e74dd854.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/15)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/15)
 
 #### Description
 
-Coreografia action con più personaggi e armi in ambiente dinamico.
+ฉากวิดีโอในธีม: ศิลปะการต่อสู้ การต่อสู้ ฉาก
 
 #### Prompt
 
 ```text
-Prendi come riferimento il personaggio con lancia in @image1 @image2 e le scene in @image3 @image4. Genera una scena marziale con sequenze continue di lancia e tracking multi-angolo per esprimere forza e bellezza.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ศิลปะการต่อสู้ การต่อสู้ ฉาก
 ```
 
-### No. 6: Battaglia fantasy epica
+### No. 6: มหากาพย์ แฟนตาซี ศึก
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/a15ec27b-9b38-407d-aa7a-460c9ed17e7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/16)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/16)
 
 #### Description
 
-Scena di combattimento cinematografica con camera orbitale ed effetti particellari.
+ฉากวิดีโอในธีม: มหากาพย์ แฟนตาซี ศึก
 
 #### Prompt
 
 ```text
-Riferisciti ai movimenti del personaggio in video1 e all’ambiente di @image1 @image2 per creare una battaglia fantasy con abilità magiche, effetti particellari e camera dinamica di inseguimento.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: มหากาพย์ แฟนตาซี ศึก
 ```
 
-### No. 7: Cinematografia per spot auto
+### No. 7: รถยนต์ โฆษณา ภาพยนตร์
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1fe2d82-6f01-4e04-a732-a949028a09d3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/17)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/17)
 
 #### Description
 
-Videografia automotive professionale con movimenti di camera dinamici e transizioni di scena.
+ฉากวิดีโอในธีม: รถยนต์ โฆษณา ภาพยนตร์
 
 #### Prompt
 
 ```text
-Riferisciti al ritmo di camera e alle transizioni di @video1, usando @image1 come scena iniziale. Passa fluidamente tra più ambienti mostrando l’auto in città, strada di montagna e costa.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: รถยนต์ โฆษณา ภาพยนตร์
 ```
 
 ### No. 8: 1-Minute Cinematic War Video in 5 Minutes, multi-shot structure
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `twitter`
 - **Author:** Min Choi (@minchoi)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/52680ae8-705d-4b26-9d49-1b573ab4f56f.mp4" controls muted playsinline width="720"></video>
@@ -673,10 +670,10 @@ Consistent style guideline for all shots: realistic cinematic war footage in a m
 
 ### No. 9: Aerial Shot of Burning Military Vehicle in Urban Warfare
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `twitter`
 - **Author:** Carlos Santana (@DotCSV)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/81bd1286-8024-4a62-a77a-0873d8137ae6.mp4" controls muted playsinline width="720"></video>
@@ -694,10 +691,10 @@ A cinematic drone sequence over a war-torn city intersection. At the center, a d
 
 ### No. 10: IMAX-Style Desert Sandstorm Scene with Denis Villeneuve Aesthetic
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `twitter`
 - **Author:** John (@johnAGI168)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/c3e4c06f-da7d-4127-ad68-7ed1656e2472.mp4" controls muted playsinline width="720"></video>
@@ -715,10 +712,10 @@ Style: IMAX 70mm, Denis Villeneuve-inspired epic realism, high contrast, low sat
 
 ### No. 11: Multi-Shot Fight Scene Generated with Only 3 Reference Images and Simple Prompt
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `twitter`
 - **Author:** el.cine (@EHuanglu)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/e287a176-2ba0-4f64-ad86-ed779cd3d8d3.mp4" controls muted playsinline width="720"></video>
@@ -736,10 +733,10 @@ A grounded martial arts duel between two women in a modern urban night setting. 
 
 ### No. 12: South Indian Cinema Alien Scene Generated from Single Prompt
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `twitter`
 - **Author:** rohan anil (@_arohan_)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/068af607-5e54-4331-9c25-3afc190d1a53.mp4" controls muted playsinline width="720"></video>
@@ -757,10 +754,10 @@ Create a South Indian commercial-cinema style alien invasion action scene. Visua
 
 ### No. 13: Ground Combat Shot of Soldiers Traversing Desert Terrain
 
-- **Category:** `Advanced Camera Movements`
+- **Category:** `การเคลื่อนไหวกล้องขั้นสูง`
 - **Source:** `twitter`
 - **Author:** Chetaslua (@chetaslua)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/0d332613-93bc-4d5e-b4f8-6cacc05871ef.mp4" controls muted playsinline width="720"></video>
@@ -778,182 +775,182 @@ Ground-level war footage with documentary realism: a soldier squad advances thro
 
 <a id="category-4"></a>
 
-### Creative Visual Effects (11)
+### เอฟเฟกต์ภาพสร้างสรรค์ (11)
 
-### No. 1: Viaggio cosmico con occhiali VR
+### No. 1: VR แว่น จักรวาล การเดินทาง
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/dddb1fb2-d73a-4b6a-a2bf-bf416be652c6.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/18)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/18)
 
 #### Description
 
-Transizione POV immersiva dal mondo reale, attraverso interfaccia VR, verso più domini digitali.
+ฉากวิดีโอในธีม: VR แว่น จักรวาล การเดินทาง
 
 #### Prompt
 
 ```text
-Sostituisci il personaggio di @video1 con @image1 e usa @image1 come primo frame. Il personaggio indossa occhiali sci-fi; con camera ispirata a @video1 passa dalla terza persona alla POV e attraversa un mondo AI fino all’universo blu profondo di @image2, dove compaiono astronavi che volano in lontananza.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: VR แว่น จักรวาล การเดินทาง
 ```
 
-### No. 2: Spot fashion a cambio rapido
+### No. 2: แฟชั่น เปลี่ยนชุดเร็ว โฆษณา
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/781e9493-6578-4aba-9d21-44aff3a7d555.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/19)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/19)
 
 #### Description
 
-Video fashion ad alto ritmo con effetto fisheye e transizioni glitch.
+ฉากวิดีโอในธีม: แฟชั่น เปลี่ยนชุดเร็ว โฆษณา
 
 #### Prompt
 
 ```text
-Riferisciti ai tratti del volto del modello nella prima immagine. Il modello indossa gli outfit delle immagini 2-6, si avvicina alla camera e posa in modo giocoso, freddo, carino, sorpreso e cool. Ogni cambio outfit è accompagnato da cut, fisheye ed effetto glitch/doppia immagine.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แฟชั่น เปลี่ยนชุดเร็ว โฆษณา
 ```
 
-### No. 3: Metafora del cigno per piumino
+### No. 3: เสื้อขนเป็ด หงส์ อุปมา
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d35cad32-b340-4394-b98d-8934aa6a1fc8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/20)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/20)
 
 #### Description
 
-Spot creativo che fonde prodotto, immaginario naturale e voice-over in cinese.
+ฉากวิดีโอในธีม: เสื้อขนเป็ด หงส์ อุปมา
 
 #### Prompt
 
 ```text
-Riferisciti alla creatività dello spot video, usa le immagini del piumino insieme a immagini di piuma d’oca e cigno, integrando il copy fornito, per generare un nuovo video pubblicitario del piumino.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เสื้อขนเป็ด หงส์ อุปมา
 ```
 
-### No. 4: Tai chi in stile inchiostro
+### No. 4: หมึกจีน ไทเก๊ก
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/210c571d-e67f-4bbc-819b-f91bd8925c7b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/21)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/21)
 
 #### Description
 
-Performance marziale in stile tradizionale di pittura a inchiostro.
+ฉากวิดีโอในธีม: หมึกจีน ไทเก๊ก
 
 #### Prompt
 
 ```text
-Stile inchiostro bianco e nero: il personaggio di @image1 segue i movimenti di @video1 ed esegue arti marziali in un paesaggio a inchiostro con schizzi dinamici, fondendo tradizione e modernità.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: หมึกจีน ไทเก๊ก
 ```
 
-### No. 5: Sequenza di trasformazione magica
+### No. 5: เวทมนตร์ การแปลงร่าง ลำดับภาพ
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/af14ed46-358b-4202-a6d5-07cfcbcdff10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/22)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/22)
 
 #### Description
 
-Trasformazione del personaggio con crescita organica e dissolvenza in particelle.
+ฉากวิดีโอในธีม: เวทมนตร์ การแปลงร่าง ลำดับภาพ
 
 #### Prompt
 
 ```text
-Sostituisci il personaggio del primo frame di @video1 con @image1. Il corpo si trasforma gradualmente in particelle e si dissolve, poi si ricompone in un’altra scena creando un effetto di teletrasporto magico.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เวทมนตร์ การแปลงร่าง ลำดับภาพ
 ```
 
-### No. 6: Logo con transizione puzzle
+### No. 6: ชิ้นพัซเซิล ทรานซิชัน โลโก้
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d8aab6d9-e006-4012-aa41-55ad02a41572.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/23)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/23)
 
 #### Description
 
-Reveal dinamico del logo con frammentazione effetto puzzle.
+ฉากวิดีโอในธีม: ชิ้นพัซเซิล ทรานซิชัน โลโก้
 
 #### Prompt
 
 ```text
-Parti dal soffitto di @image1. Con stile puzzle, la camera scende e l’immagine è composta da tessere che si assemblano progressivamente fino a rivelare l’interno completo.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ชิ้นพัซเซิล ทรานซิชัน โลโก้
 ```
 
-### No. 7: Reveal del titolo con particelle dorate
+### No. 7: สีทอง อนุภาค ไตเติล เผยโฉม
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/3854856c-478d-40f1-8534-cb240e6a1706.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/24)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/24)
 
 #### Description
 
-Sequenza titolo cinematografica con particelle dorate fluide.
+ฉากวิดีโอในธีม: สีทอง อนุภาค ไตเติล เผยโฉม
 
 #### Prompt
 
 ```text
-Apertura in nero. Riferisciti agli effetti particellari e al movimento camera di @video1: particelle che esplodono dal centro e formano gradualmente il logo del brand, con sound design d’impatto.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สีทอง อนุภาค ไตเติล เผยโฉม
 ```
 
-### No. 8: Noodles istantanei in stile astratto
+### No. 8: นามธรรม บะหมี่กึ่งสำเร็จรูป
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/2665a1ba-4ae8-474e-ba72-a2bf94326054.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/25)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/25)
 
 #### Description
 
-Interpretazione surreale di un’azione quotidiana con espressioni esagerate.
+ฉากวิดีโอในธีม: นามธรรม บะหมี่กึ่งสำเร็จรูป
 
 #### Prompt
 
 ```text
-Il personaggio di @image1 riprende movimenti ed espressioni da @video1 e si esibisce nella scena @image2 con gesti comici esagerati, accompagnati da effetti sonori umoristici.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: นามธรรม บะหมี่กึ่งสำเร็จรูป
 ```
 
 ### No. 9: Will Smith Eating Spaghetti
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `twitter`
 - **Author:** levelsio (@levelsio)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/eee95836-ac7d-4510-97f5-f6b1f2743aae.mp4" controls muted playsinline width="720"></video>
@@ -971,10 +968,10 @@ Photorealistic medium close shot of Will Smith eating spaghetti at a white kitch
 
 ### No. 10: One Punch Man Animation Surpassing Original Quality
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `twitter`
 - **Author:** Chetaslua (@chetaslua)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/fada7cb9-0f74-43fc-ba6a-b98be8be7c16.mp4" controls muted playsinline width="720"></video>
@@ -992,10 +989,10 @@ Produce a premium anime battle sequence inspired by One Punch Man energy and sta
 
 ### No. 11: Otter Entering Giant Mecha Animation Scene with Detailed Mechanical Shots
 
-- **Category:** `Creative Visual Effects`
+- **Category:** `เอฟเฟกต์ภาพสร้างสรรค์`
 - **Source:** `twitter`
 - **Author:** Andrey Kurenkov (@andrey_kurenkov)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/8bc7ca8d-7344-4be7-ae6d-cd2701702b77.mp4" controls muted playsinline width="720"></video>
@@ -1013,164 +1010,161 @@ Mecha anime sequence: an anthropomorphic otter pilot prepares to board a giant c
 
 <a id="category-5"></a>
 
-### Story Development & Extension (8)
+### การพัฒนาและต่อยอดเรื่องราว (8)
 
-### No. 1: Animazione di vignette fumetto
+### No. 1: คอมิก ช่องภาพ แอนิเมชัน
 
-- **Category:** `Story Development & Extension`
+- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c939610e-a182-40ad-89a5-254c1515ac24.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/26)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/26)
 
 #### Description
 
-Trasforma vignette statiche in una sequenza animata con effetti sonori.
+ฉากวิดีโอในธีม: คอมิก ช่องภาพ แอนิเมชัน
 
 #### Prompt
 
 ```text
-Estendi il video di 15 s usando come riferimento l’asino in moto di @image1 e @image2, aggiungendo una sequenza pubblicitaria creativa.
-Scena 1: camera fissa laterale, l’asino esce dal recinto e spaventa le galline.
-Scena 2: l’asino gira sulla sabbia, prima close-up pneumatico poi ripresa aerea.
-Scena 3: sfondo montagna innevata, salto in moto e slogan “Inspire Creativity, Enrich Life”.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: คอมิก ช่องภาพ แอนิเมชัน
 ```
 
-### No. 2: Apertura documentario sulle stagioni dell’infanzia
+### No. 2: วัยเด็ก ฤดูกาล สารคดี
 
-- **Category:** `Story Development & Extension`
+- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/41aab229-bca0-4387-a4b1-08e88dde89a2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/27)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/27)
 
 #### Description
 
-Crea un’apertura documentaristica evocativa basata su storyboard.
+ฉากวิดีโอในธีม: วัยเด็ก ฤดูกาล สารคดี
 
 #### Prompt
 
 ```text
-Estendi il video di 6 s: entra una chitarra elettrica energica, al centro appare “JUST DO IT” e poi svanisce. La camera sale al soffitto, un uomo muscoloso fa anelli; indossa il completo fitness di @image1 con logo “Fitness” di @image2 sulla schiena.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: วัยเด็ก ฤดูกาล สารคดี
 ```
 
-### No. 3: Video di viaggio emotivo
+### No. 3: อารมณ์ การเดินทาง วิดีโอ
 
-- **Category:** `Story Development & Extension`
+- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/0ae0f676-8f49-4b97-88d2-4afaaa5e5424.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/28)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/28)
 
 #### Description
 
-Crea un video emotivo d’atmosfera ispirato a più immagini e audio.
+ฉากวิดีโอในธีม: อารมณ์ การเดินทาง วิดีโอ
 
 #### Prompt
 
 ```text
-Riferisciti all’audio di video1 e, basandoti su immagini 1-5, genera un corto emotivo di 15 s che mostri il passaggio dalla solitudine al calore, con musica rilassante.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: อารมณ์ การเดินทาง วิดีโอ
 ```
 
-### No. 4: Spot stunt: asino in moto
+### No. 4: ลา มอเตอร์ไซค์ สตันต์ โฆษณา
 
-- **Category:** `Story Development & Extension`
+- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/67c79521-0cb4-498f-bd74-e0ed9aab81e8.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/29)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/29)
 
 #### Description
 
-Estendi il video con uno spot surreale di prodotto con personaggio animale.
+ฉากวิดีโอในธีม: ลา มอเตอร์ไซค์ สตันต์ โฆษณา
 
 #### Prompt
 
 ```text
-Estendi il video di 15 s con una pubblicità surreale: asino in moto attraverso deserto, neve e città, fermata finale al tramonto con slogan conclusivo.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ลา มอเตอร์ไซค์ สตันต์ โฆษณา
 ```
 
-### No. 5: Spot motivazionale fitness
+### No. 5: ฟิตเนส แรงบันดาลใจ โฆษณา
 
-- **Category:** `Story Development & Extension`
+- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/65689cf8-c5c9-4624-9136-adac7bc3cc10.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/30)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/30)
 
 #### Description
 
-Estendi il video con sequenza fitness dinamica e messaggio motivazionale.
+ฉากวิดีโอในธีม: ฟิตเนส แรงบันดาลใจ โฆษณา
 
 #### Prompt
 
 ```text
-Estendi il video di 6 s: musica di chitarra elettrica intensa, testo “JUST DO IT” al centro con dissolvenza; camera verso il soffitto, uomo muscoloso agli anelli con outfit @image1 e logo “Fitness” @image2; chiusura con testo “DO SOME SPORT”.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฟิตเนส แรงบันดาลใจ โฆษณา
 ```
 
-### No. 6: Campagna caffè del mattino
+### No. 6: กาแฟ เช้า แคมเปญ
 
-- **Category:** `Story Development & Extension`
+- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/94fc9706-187d-4667-a8e4-62692cb256dd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/31)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/31)
 
 #### Description
 
-Estendi uno spot caffè con illuminazione atmosferica e reveal testuale.
+ฉากวิดีโอในธีม: กาแฟ เช้า แคมเปญ
 
 #### Prompt
 
 ```text
-Estendi @video1 di 15 s. 1-5 s: luce e ombre cambiano dall’alba a mezzogiorno. 5-10 s: il personaggio si alza e si stiracchia. 10-15 s: cammina verso la finestra e guarda lontano, creando atmosfera domestica calda.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: กาแฟ เช้า แคมเปญ
 ```
 
-### No. 7: Storia skateboard e girasoli
+### No. 7: ทานตะวัน สเกตบอร์ด เรื่องราว
 
-- **Category:** `Story Development & Extension`
+- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/30e27ffa-53bc-4655-b405-d017c699ed87.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/32)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/32)
 
 #### Description
 
-Estendi il video con una narrazione calda di vita quotidiana nel pomeriggio.
+ฉากวิดีโอในธีม: ทานตะวัน สเกตบอร์ด เรื่องราว
 
 #### Prompt
 
 ```text
-Estensione in avanti di 10 s: in una luce pomeridiana calda, la camera parte da una tazza di caffè sul tavolo e arretra lentamente per mostrare un caffè accogliente con clienti in conversazione rilassata.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ทานตะวัน สเกตบอร์ด เรื่องราว
 ```
 
 ### No. 8: Quick Test of Female Controlling Plane in Complex Action Scene
 
-- **Category:** `Story Development & Extension`
+- **Category:** `การพัฒนาและต่อยอดเรื่องราว`
 - **Source:** `twitter`
 - **Author:** Janek Mann (@janekm)
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4)
 
 <video src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/uploads/seedance-2.0/twitter/dc27ff9d-d357-423c-88b8-65e4646c5659.mp4" controls muted playsinline width="720"></video>
@@ -1188,593 +1182,589 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 <a id="category-6"></a>
 
-### Audio & Voice Synthesis (10)
+### เสียงและการสังเคราะห์เสียงพูด (10)
 
-### No. 1: Commedia del cavallo con fisheye
+### No. 1: ฟิชอาย ม้า คอมเมดี้
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/26d450cd-23c4-499e-9fd6-1752dabbc8bd.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/33)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/33)
 
 #### Description
 
-Personaggio animale con dialogo sincronizzato ed effetti sonori tramite lente fisheye.
+ฉากวิดีโอในธีม: ฟิชอาย ม้า คอมเมดี้
 
 #### Prompt
 
 ```text
-Camera fissa, fisheye centrale che guarda in basso attraverso un foro circolare. Riferisciti al fisheye di video1, fai guardare il cavallo di @video2 verso la lente, riprendi i movimenti del parlato da @video1 e usa BGM ispirato a @video3.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฟิชอาย ม้า คอมเมดี้
 ```
 
-### No. 2: Documentario edificio uffici
+### No. 2: ออฟฟิศ อาคาร สารคดี
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/843a60ae-3df3-4c37-9fd4-2437f3ac2253.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/34)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/34)
 
 #### Description
 
-Documentario immobiliare cinematografico con narrazione professionale.
+ฉากวิดีโอในธีม: ออฟฟิศ อาคาร สารคดี
 
 #### Prompt
 
 ```text
-Dalle foto promozionali dell’edificio uffici, genera un documentario immobiliare realistico di 15 s in stile cinematografico, 2.35:1, 24fps. Il timbro narrativo si ispira a @video1 e racconta “l’ecosistema dell’edificio uffici”.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ออฟฟิศ อาคาร สารคดี
 ```
 
-### No. 3: Roast battle gatto & cane
+### No. 3: แมวและสุนัข ศึกโต้คม
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/1793c9e5-608e-435e-a72b-0e657bbb2d5c.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/35)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/35)
 
 #### Description
 
-Talk show comico con animali espressivi e dialoghi arguti.
+ฉากวิดีโอในธีม: แมวและสุนัข ศึกโต้คม
 
 #### Prompt
 
 ```text
-Crea un dialogo roast nella “stanza sfottò gatto-cane”, ricco di emozione e adatto a performance da talk show, con scambi brillanti e ritmo comico.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แมวและสุนัข ศึกโต้คม
 ```
 
-### No. 4: Performance di opera cinese
+### No. 4: จีน โอเปรา การแสดง
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/6f6ea681-2e7b-4e35-9126-a72d2046bc1f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/36)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/36)
 
 #### Description
 
-Scena tradizionale di opera Henan con canto autentico e tensione drammatica.
+ฉากวิดีโอในธีม: จีน โอเปรา การแสดง
 
 #### Prompt
 
 ```text
-Parte l’accompagnamento di un classico dell’opera Henan; il performer da @image1 entra in scena con canto melodioso e postura elegante, in una performance tradizionale valorizzata da luci teatrali.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: จีน โอเปรา การแสดง
 ```
 
-### No. 5: MV road trip cinematografico
+### No. 5: Cinematic โร้ดทริป MV
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/f9f34a78-6001-4013-8e9a-a413ca727f00.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/37)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/37)
 
 #### Description
 
-Video musicale con keyword di ripresa specifiche e audio atmosferico.
+ฉากวิดีโอในธีม: Cinematic โร้ดทริป MV
 
 #### Prompt
 
 ```text
-Genera un MV di 15 s. Parole chiave: composizione stabile, look cinematografico, viaggio, paesaggio. Mostra scenari naturali grandiosi con musica lirica per comunicare libertà ed esplorazione.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: Cinematic โร้ดทริป MV
 ```
 
-### No. 6: Celebrazione familiare multiculturale
+### No. 6: พหุวัฒนธรรม ครอบครัว เฉลิมฉลอง
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/ac11aa46-e846-4167-af87-53f0be98df9e.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/38)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/38)
 
 #### Description
 
-Scena familiare calorosa con dialoghi in inglese e musica latina.
+ฉากวิดีโอในธีม: พหุวัฒนธรรม ครอบครัว เฉลิมฉลอง
 
 #### Prompt
 
 ```text
-Al centro dell’inquadratura, una ragazza con cappello canta dolcemente “I'm so proud of you”, con espressione tenera, luce morbida e atmosfera intima, accompagnata da chitarra.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: พหุวัฒนธรรม ครอบครัว เฉลิมฉลอง
 ```
 
-### No. 7: Briefing tattico in spagnolo
+### No. 7: ยุทธวิธี ทีม สเปน บรีฟภารกิจ
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/cda3c348-80c8-445b-8d85-d1eefe36e0b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/39)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/39)
 
 #### Description
 
-Scena tattico-militare con dialoghi in spagnolo e suoni d’equipaggiamento.
+ฉากวิดีโอในธีม: ยุทธวิธี ทีม สเปน บรีฟภารกิจ
 
 #### Prompt
 
 ```text
-Camera fissa. Un uomo robusto in piedi (caposquadra) stringe il pugno e, con sguardo serio, dice in camera: “Prepararsi all’azione!”. Tema militare e atmosfera tesa.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ยุทธวิธี ทีม สเปน บรีฟภารกิจ
 ```
 
-### No. 8: Dialogo del risveglio mattutino
+### No. 8: เช้า ปลุกตอนเช้า บทสนทนา
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/7744c998-76b7-436f-9066-6d4ef5f0ce7f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/40)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/40)
 
 #### Description
 
-Scena intima di risveglio con recitazione vocale naturale e sfumatura emotiva.
+ฉากวิดีโอในธีม: เช้า ปลุกตอนเช้า บทสนทนา
 
 #### Prompt
 
 ```text
-0-3 s: suona la sveglia, apertura sfocata. 3-6 s: il personaggio si alza e si stiracchia. 6-10 s: igiene e vestizione. 10-15 s: uscita di casa con musica leggera, a raccontare l’inizio della giornata.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เช้า ปลุกตอนเช้า บทสนทนา
 ```
 
-### No. 9: Bubble tea in dialetto del Sichuan
+### No. 9: เสฉวน Dialect ชานมไข่มุก
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/4f4d9b27-1962-494e-b1fa-5191ede1b500.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/41)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/41)
 
 #### Description
 
-Scena comica con dialetto del Sichuan autentico e interazione tra personaggi.
+ฉากวิดีโอในธีม: เสฉวน Dialect ชานมไข่มุก
 
 #### Prompt
 
 ```text
-La scimmia di @image1 va al bancone bubble tea e, in dialetto, ordina “Boss, un tè al latte con perle!”. Dialogo umoristico, reazione sorpresa del personale ed effetto comico.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เสฉวน Dialect ชานมไข่มุก
 ```
 
-### No. 10: Storytelling di Viaggio in Occidente
+### No. 10: ไซอิ๋ว เล่าเรื่อง
 
-- **Category:** `Audio & Voice Synthesis`
+- **Category:** `เสียงและการสังเคราะห์เสียงพูด`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/14269628-c801-4b26-b400-38b2c7d2d97a.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/42)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/42)
 
 #### Description
 
-Contenuto educativo in stile documentario sulla letteratura classica cinese.
+ฉากวิดีโอในธีม: ไซอิ๋ว เล่าเรื่อง
 
 #### Prompt
 
 ```text
-Con stile documentario e voce narrante, presenta il contenuto di @image1-5 raccontando il fascino della letteratura classica cinese, con musica classica e taglio educativo-artistico.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไซอิ๋ว เล่าเรื่อง
 ```
 
 <a id="category-7"></a>
 
-### One-Take Cinematography (5)
+### ภาพยนตร์เทคเดียว (5)
 
-### No. 1: Sequenza parkour d’inseguimento
+### No. 1: ปาร์กัวร์ ไล่ล่า ลำดับภาพ
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `ภาพยนตร์เทคเดียว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/c8b0a7bb-eae5-417f-bf63-e3a114a1364f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/43)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/43)
 
 #### Description
 
-Piano sequenza dinamico che segue un runner attraverso ambienti multipli.
+ฉากวิดีโอในธีม: ปาร์กัวร์ ไล่ล่า ลำดับภาพ
 
 #### Prompt
 
 ```text
-@image1@image2@image3@image4@image5, piano sequenza di inseguimento: segui il runner dalla strada su per le scale, attraverso corridoi, fino al tetto, con chiusura in vista panoramica sulla città.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ปาร์กัวร์ ไล่ล่า ลำดับภาพ
 ```
 
-### No. 2: Sogno gelato dal finestrino dell’aereo
+### No. 2: เครื่องบิน หน้าต่าง ไอศกรีม ความฝัน
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `ภาพยนตร์เทคเดียว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/3421ca69-533f-4ef7-aef2-2aabad3d53fe.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/44)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/44)
 
 #### Description
 
-One-take surreale dal finestrino dell’aereo a un’interazione magica.
+ฉากวิดีโอในธีม: เครื่องบิน หน้าต่าง ไอศกรีม ความฝัน
 
 #### Prompt
 
 ```text
-Usa @image1 come primo fotogramma, zoom verso l’esterno del finestrino dell’aereo. Nuvole entrano lentamente nell’inquadratura; una nuvola colorata resta centrata e si trasforma gradualmente nel gelato di @image2.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: เครื่องบิน หน้าต่าง ไอศกรีม ความฝัน
 ```
 
-### No. 3: Pedinamento thriller di spionaggio
+### No. 3: สายลับ ทริลเลอร์ ติดตาม
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `ภาพยนตร์เทคเดียว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/873ead10-156a-4f5f-aafc-1a0a743c3ef7.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/45)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/45)
 
 #### Description
 
-One-take di suspense che segue un agente segreto in ambiente urbano.
+ฉากวิดีโอในธีม: สายลับ ทริลเลอร์ ติดตาม
 
 #### Prompt
 
 ```text
-Stile thriller di spionaggio: @image1 come primo frame, camera frontale che segue il personaggio tra strada, scale e tetti in un piano sequenza di inseguimento ad alta tensione.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: สายลับ ทริลเลอร์ ติดตาม
 ```
 
-### No. 4: Tea time in baita accogliente
+### No. 4: อบอุ่น เคบิน เวลาน้ำชา
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `ภาพยนตร์เทคเดียว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d1d1c955-c271-44ba-bd3e-1537e33a2e29.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/46)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/46)
 
 #### Description
 
-One-take in prima persona entrando in un interno accogliente.
+ฉากวิดีโอในธีม: อบอุ่น เคบิน เวลาน้ำชา
 
 #### Prompt
 
 ```text
-Basato sull’esterno di @image1, in POV soggettiva la camera entra all’interno e osserva l’ambiente, mostrando una casa accogliente in un unico take continuo.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: อบอุ่น เคบิน เวลาน้ำชา
 ```
 
-### No. 5: POV sulle montagne russe
+### No. 5: รถไฟเหาะ POV
 
-- **Category:** `One-Take Cinematography`
+- **Category:** `ภาพยนตร์เทคเดียว`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/fabf98a8-432c-479a-bcd3-3736677190b2.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/47)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/47)
 
 #### Description
 
-Esperienza adrenalinica sulle montagne russe in prima persona con velocità crescente.
+ฉากวิดีโอในธีม: รถไฟเหาะ POV
 
 #### Prompt
 
 ```text
-@image1 @image2 @image3 @image4 @image5, prospettiva soggettiva: la camera simula un’esperienza da montagne russe con picchiate, curve e risalite veloci.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: รถไฟเหาะ POV
 ```
 
 <a id="category-8"></a>
 
-### Video Editing & Remixing (5)
+### การตัดต่อและรีมิกซ์วิดีโอ (5)
 
-### No. 1: Twist oscuro in stile Titanic
+### No. 1: ไททานิก มืดหม่น หักมุม
 
-- **Category:** `Video Editing & Remixing`
+- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/19cb9c31-9a1e-4c2e-ae17-b03f6a88c20b.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/48)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/48)
 
 #### Description
 
-Ribalta una scena romantica in thriller di tradimento.
+ฉากวิดีโอในธีม: ไททานิก มืดหม่น หักมุม
 
 #### Prompt
 
 ```text
-Ribalta la trama di @video1: lo sguardo dell’uomo passa da dolce a gelido e crudele; nel momento in cui la protagonista è indifesa, la spinge giù dal ponte nell’acqua. Azione netta e determinata, dal tono premeditato.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไททานิก มืดหม่น หักมุม
 ```
 
-### No. 2: Da business serio a deal di snack
+### No. 2: จริงจัง ธุรกิจ to ขนม ดีล
 
-- **Category:** `Video Editing & Remixing`
+- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/f11c41ac-ee4b-4f37-b569-d6a4725866b3.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/49)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/49)
 
 #### Description
 
-Trasforma una riunione tesa in una commedia pubblicitaria di snack.
+ฉากวิดีโอในธีม: จริงจัง ธุรกิจ to ขนม ดีล
 
 #### Prompt
 
 ```text
-Sovverti completamente la storia di @video1.
-0-3 s: uomo in abito seduto al bar, espressione calma.
-3-6 s: la donna dietro chiede tesa “Quanto è grande?”.
-6-9 s: all’improvviso lui tira fuori da sotto il tavolo un enorme pacco snack.
-13-15 s: appare il sottotitolo “Anche se sei impegnato, ricordati uno snack~”.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: จริงจัง ธุรกิจ to ขนม ดีล
 ```
 
-### No. 3: Cambio di genere del cantante principale
+### No. 3: วงดนตรี นักร้อง เพศ สลับ
 
-- **Category:** `Video Editing & Remixing`
+- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/d3c9e15c-37fa-4603-b5a7-7577a9652d2d.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/50)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/50)
 
 #### Description
 
-Sostituisce la cantante principale con un cantante maschile mantenendo tutti i movimenti.
+ฉากวิดีโอในธีม: วงดนตรี นักร้อง เพศ สลับ
 
 #### Prompt
 
 ```text
-Sostituisci la cantante femminile di video1 con il cantante maschile di @image1 mantenendo performance, luci e ritmo musicale originali: cambia il genere ma conserva lo stile.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: วงดนตรี นักร้อง เพศ สลับ
 ```
 
-### No. 4: Photobomb dello squalo
+### No. 4: ฉลาม โฟโตบอมบ์
 
-- **Category:** `Video Editing & Remixing`
+- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/06a8c86e-1b58-4088-8caa-25202eec77aa.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/51)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/51)
 
 #### Description
 
-Aggiunge un elemento minaccioso a una scena pacifica.
+ฉากวิดีโอในธีม: ฉลาม โฟโตบอมบ์
 
 #### Prompt
 
 ```text
-Modifica l’acconciatura della donna in video1 in capelli lunghi rossi, con un close-up che evidenzia il nuovo look; il resto resta invariato.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ฉลาม โฟโตบอมบ์
 ```
 
-### No. 5: Integrazione brand nel negozio di pollo fritto
+### No. 5: ไก่ทอด แบรนด์ ผสานแบรนด์
 
-- **Category:** `Video Editing & Remixing`
+- **Category:** `การตัดต่อและรีมิกซ์วิดีโอ`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/af84d3d1-5659-49bd-a7a8-c2db96918415.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/52)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/52)
 
 #### Description
 
-Integra packaging di brand in una scena di ristorante già esistente.
+ฉากวิดีโอในธีม: ไก่ทอด แบรนด์ ผสานแบรนด์
 
 #### Prompt
 
 ```text
-La camera in video1 panora a destra: il proprietario del negozio di pollo fritto gestisce ordini rapidamente, e il logo brand di @image1 appare in modo naturale sulla confezione.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไก่ทอด แบรนด์ ผสานแบรนด์
 ```
 
 <a id="category-9"></a>
 
-### Music Synchronization (4)
+### การซิงก์ดนตรี (4)
 
-### No. 1: Fashion beat drop
+### No. 1: แฟชั่น ดรอปบีต
 
-- **Category:** `Music Synchronization`
+- **Category:** `การซิงก์ดนตรี`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/5ae0578e-e6c8-4ff1-a03a-e19b5ac2f5c1.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/53)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/53)
 
 #### Description
 
-Trasformazione fashion sincronizzata al beat musicale.
+ฉากวิดีโอในธีม: แฟชั่น ดรอปบีต
 
 #### Prompt
 
 ```text
-La ragazza del poster cambia outfit di continuo, con riferimenti agli abiti @image1-6. Ogni cambio è sincronizzato al beat musicale con tagli rapidi e forte mood fashion.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: แฟชั่น ดรอปบีต
 ```
 
-### No. 2: Sincronizzazione dinamica dei ritratti sul beat
+### No. 2: ไดนามิก ภาพบุคคล บีต ซิงก์
 
-- **Category:** `Music Synchronization`
+- **Category:** `การซิงก์ดนตรี`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/11a4251f-cb41-41b1-b6a7-8ac19d340956.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/54)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/54)
 
 #### Description
 
-Ritratti dinamici sincronizzati ai keyframe musicali.
+ฉากวิดีโอในธีม: ไดนามิก ภาพบุคคล บีต ซิงก์
 
 #### Prompt
 
 ```text
-Sequenza @image1 @image2 @image3 @image4 @image5 @image6 @image7 sincronizzata al ritmo musicale, 1-2 s per frame, per mostrare variazioni emotive del ritratto con effetto album dinamico.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ไดนามิก ภาพบุคคล บีต ซิงก์
 ```
 
-### No. 3: Video musicale con transizioni paesaggistiche
+### No. 3: ภูมิทัศน์ ทรานซิชัน ดนตรี วิดีโอ
 
-- **Category:** `Music Synchronization`
+- **Category:** `การซิงก์ดนตรี`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/6b0fbeb4-51df-4094-8252-d2dfb8631776.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/55)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/55)
 
 #### Description
 
-Transizioni paesaggistiche allineate con precisione al ritmo musicale.
+ฉากวิดีโอในธีม: ภูมิทัศน์ ทรานซิชัน ดนตรี วิดีโอ
 
 #### Prompt
 
 ```text
-Scene paesaggistiche @image1 @image2 @image3 @image4 @image5 @image6 con transizioni musicali dal sorgere al tramonto, in stile MV.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ภูมิทัศน์ ทรานซิชัน ดนตรี วิดีโอ
 ```
 
-### No. 4: Storyboard anime di battaglia a scacchi
+### No. 4: อนิเมะ หมากรุก ศึก สตอรี่บอร์ด
 
-- **Category:** `Music Synchronization`
+- **Category:** `การซิงก์ดนตรี`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/efe4a014-a97b-4f4b-baa6-77d477b7024f.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/56)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/56)
 
 #### Description
 
-Sequenza anime storyboardata con timing drammatico.
+ฉากวิดีโอในธีม: อนิเมะ หมากรุก ศึก สตอรี่บอร์ด
 
 #### Prompt
 
 ```text
-Segmento anime di combattimento strategico da 8 s, con musica tesa, azioni rapide e cambi inquadratura per impatto visivo.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: อนิเมะ หมากรุก ศึก สตอรี่บอร์ด
 ```
 
 <a id="category-10"></a>
 
-### Emotional Performance (3)
+### การแสดงอารมณ์ (3)
 
-### No. 1: Crollo davanti allo specchio
+### No. 1: กระจก แตกสลาย
 
-- **Category:** `Emotional Performance`
+- **Category:** `การแสดงอารมณ์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/095be254-151d-4149-b50a-ad054c154758.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/57)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/57)
 
 #### Description
 
-Scena di crollo psicologico con crescendo emotivo.
+ฉากวิดีโอในธีม: กระจก แตกสลาย
 
 #### Prompt
 
 ```text
-La donna di @image1 va davanti allo specchio e si osserva: l’espressione passa dalla calma alla tristezza, scendono lacrime e arriva un crollo emotivo. Dramma psicologico con simbolismo dello specchio.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: กระจก แตกสลาย
 ```
 
-### No. 2: Commedia di contrasto in cucina
+### No. 2: ทำอาหาร ความต่าง คอมเมดี้
 
-- **Category:** `Emotional Performance`
+- **Category:** `การแสดงอารมณ์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/a9a3d3ad-2aec-4a14-8bb5-2ca7736e09ae.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/58)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/58)
 
 #### Description
 
-Contrasto comico tra cucina calma e caotica.
+ฉากวิดีโอในธีม: ทำอาหาร ความต่าง คอมเมดี้
 
 #### Prompt
 
 ```text
-Spot cappa aspirante: @image1 come primo frame in cucina, cappa che si attiva e aspira il fumo con forza. Primi piani funzionali del prodotto e chiusura con logo brand.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ทำอาหาร ความต่าง คอมเมดี้
 ```
 
-### No. 3: Ruggito drammatico in primo piano
+### No. 3: ดราม่าtic คำราม โคลสอัป
 
-- **Category:** `Emotional Performance`
+- **Category:** `การแสดงอารมณ์`
 - **Source:** `official`
 - **Author:** AtlasCloud
-- **Language:** `it`
+- **Language:** `th`
 - **Video:** [View](https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4)
 
 <video src="https://static.atlascloud.ai/uploads/seedance-2.0/1b870eee-b748-48a7-84b6-cd56e0c925f9.mp4" controls muted playsinline width="720"></video>
-- **Source Link:** [View](https://www.atlascloud.ai/it/seedance-2-prompt/59)
+- **Source Link:** [View](https://www.atlascloud.ai/th/seedance-2-prompt/59)
 
 #### Description
 
-Performance drammatica-comica con espressione esagerata in primo piano.
+ฉากวิดีโอในธีม: ดราม่าtic คำราม โคลสอัป
 
 #### Prompt
 
 ```text
-@image1 come primo frame: la camera ruota e avanza, il personaggio mostra un’espressione di sorpresa esagerata in tono comico, con effetti sonori divertenti.
+สร้างฉากวิดีโอ: ฉากวิดีโอในธีม: ดราม่าtic คำราม โคลสอัป
 ```
 
 ## Local Usage
@@ -1798,4 +1788,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-06-15T10:31:47.216Z
+> This README is auto-generated. 2026-06-15T11:09:53.995Z
