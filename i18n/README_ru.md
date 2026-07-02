@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-seedance-2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts/pulls)
-[![Prompts](https://img.shields.io/badge/prompts-486%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts)
+[![Prompts](https://img.shields.io/badge/prompts-582%2B-blue.svg)](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts)
 
 > A curated collection of Seedance 2.0 video prompts — each with real previews generated via Atlas Cloud. Cinematic, anime, UGC, ads, meme & more.
 
@@ -67,10 +67,10 @@ Seedance 2.0 is strongest at multimodal video generation. It handles text, image
 
 | Metric | Count |
 |--------|-------|
-| Total Prompts | **486** |
+| Total Prompts | **582** |
 | Categories | **11** |
-| Preview Videos | **319** |
-| Last Updated | **2026-07-01T03:29:32.885Z** |
+| Preview Videos | **361** |
+| Last Updated | **2026-07-02T03:29:27.190Z** |
 
 ## 🏷️ Browse by Category
 
@@ -84,7 +84,7 @@ Seedance 2.0 is strongest at multimodal video generation. It handles text, image
 - [`Video Editing & Remixing`](#category-8): **5**
 - [`Music Synchronization`](#category-9): **4**
 - [`Emotional Performance`](#category-10): **3**
-- [`Twitter Community`](#category-11): **416**
+- [`Twitter Community`](#category-11): **512**
 
 ## 🔥 Featured Prompts
 
@@ -1770,7 +1770,7 @@ Create a high-pressure disaster-action sequence: during turbulent flight, a woma
 
 <a id="category-11"></a>
 
-### Twitter Community (416)
+### Twitter Community (512)
 
 ### No. 1: Anime Super Energy Battle
 
@@ -10692,6 +10692,2140 @@ A simple motion idea beats a giant prompt.
 A simple motion idea beats a giant prompt. The useful question is whether feed readability holds. Seedance 2.0 on Atlas Cloud:
 ```
 
+### No. 417: Seedance 2.0 Doing The Heavy Lifting Here, Not
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Rakhul
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/rakhul/status/2072515721935061261)
+
+#### Description
+
+Seedance 2.0 doing the heavy lifting here, not the model.
+
+#### Prompt
+
+```text
+@higgsfield Seedance 2.0 doing the heavy lifting here, not the model. the real test would be running the same prompt with the same seed across both, i'd bet the delta is smaller than the clip edit implies
+```
+
+### No. 418: The Viral Travel Video Everyone'S Talking About? Now
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Clipfly
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072514981040701655.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072514981040701655.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ClipflyOfficial/status/2072514981040701655)
+
+#### Description
+
+The viral travel video everyone's talking about?
+
+#### Prompt
+
+```text
+The viral travel video everyone's talking about?
+
+Now it's your turn.
+
+Create it in seconds with Seedance 2.0.
+
+Try it on Clipfly！
+
+Prompt in the comments 👇
+```
+
+### No. 419: Sometimes The Strongest Chemistry Needs No Dialogue. ❤️
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Jessica Collins
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072514786861211919.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072514786861211919.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/AIwithJessica/status/2072514786861211919)
+
+#### Description
+
+Sometimes the strongest chemistry needs no dialogue.
+
+#### Prompt
+
+```text
+Blue Hour Chemistry
+
+Jessica: Face locked from uploaded https://t.co/cffo8z2Umi
+```
+
+### No. 420: Wow, Stunning Visuals! 🎬 We’Re Currently Looking For
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** FlovaAI Japan
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/Flovaai_Japan/status/2072514633131536648)
+
+#### Description
+
+Wow, stunning visuals!
+
+#### Prompt
+
+```text
+@M_L_Raso Wow, stunning visuals! 🎬 We’re currently looking for core creators for Flova (all-in-one AI video platform with Kling/Seedance tech) and want to offer you a free Pro membership. Your DMs are locked—could you follow or DM me so I can send over the details?
+```
+
+### No. 421: This Is Wild! A Small Team Made This
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** ⚡️Kairos Cine
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072513471498084432.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072513471498084432.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/KairosCine/status/2072513471498084432)
+
+#### Description
+
+This is wild!
+
+#### Prompt
+
+```text
+This is wild!
+
+A small team made this in 6 days using Seedance 2.0 4K in CapCut Video Studio. Over $5000 in credits
+
+Not perfect, but the gap is closing fast.
+
+AI filmmaking is starting to feel more like actual indie production
+
+Credit to PJ Ace &amp; the Nexus team.
+```
+
+### No. 422: 5. Income Idea 3 - Sell Video Templates
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Mr Charles (Remote Jobs)
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/MrCharlesky/status/2072512871125209595)
+
+#### Description
+
+5.
+
+#### Prompt
+
+```text
+5. Income idea 3 - Sell video templates and packs on Gumroad.
+
+Instead of selling one video at a time, sell a pack of ready made video concepts other creators can copy and adapt.
+
+Paste this into Claude: "I am building a pack of 10 ready to use Seedance 2.0 video prompts for [a
+```
+
+### No. 423: 2. Why This Model Specifically Matters For Making
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Mr Charles (Remote Jobs)
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/MrCharlesky/status/2072512586092781968)
+
+#### Description
+
+2.
+
+#### Prompt
+
+```text
+2. Why this model specifically matters for making money.
+
+Most free AI video tools give you a single random shot with no audio and a visible watermark. Seedance 2.0 does something different. It generates multiple shots in one single video, keeps the same character consistent
+```
+
+### No. 424: 1. The Website Is Called Dola. It Gives
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Mr Charles (Remote Jobs)
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/MrCharlesky/status/2072512495357424104)
+
+#### Description
+
+1.
+
+#### Prompt
+
+```text
+1. The website is called Dola. It gives you free daily access to Seedance 2.0, one of the most advanced AI video models available right now, with native audio, 2K quality, and multi-shot storytelling built in.
+
+Link:
+```
+
+### No. 425: 1. The Website Is Called Dola. It Gives
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Mr Charles (Remote Jobs)
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/MrCharlesky/status/2072512261424300053)
+
+#### Description
+
+1.
+
+#### Prompt
+
+```text
+1. The website is called Dola. It gives you free daily access to Seedance 2.0, one of the most advanced AI video models available right now, with native audio, 2K quality, and multi-shot storytelling built in.
+
+Just go to the site and start generating.
+
+Link:
+```
+
+### No. 426: Free Seedance 2.0 Is Finally Here!! 🔥 The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Mr Charles (Remote Jobs)
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/MrCharlesky/status/2072512191761109340)
+
+#### Description
+
+FREE SEEDANCE 2.0 IS FINALLY HERE!!
+
+#### Prompt
+
+```text
+FREE SEEDANCE 2.0 IS FINALLY HERE!! 🔥
+
+The AI video model beating Sora and Veo.
+
+Now a website is giving you 4 cinematic videos every single day, completely free, no credit card.
+
+You type what you want, it generates a full video with real audio in seconds.
+
+Here is how to use
+```
+
+### No. 427: You Can Access Seedance 2.0 On Openart For
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Grok
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/grok/status/2072511892401102864)
+
+#### Description
+
+You can access Seedance 2.0 on OpenArt for free (new users get starting credits).
+
+#### Prompt
+
+```text
+@BasedCLC @john_my07 You can access Seedance 2.0 on OpenArt for free (new users get starting credits).
+
+Sign up at  then go straight here: 
+
+
+Paste detailed scene-by-scene prompts like the one in that video for the best multi-shot consistency.
+```
+
+### No. 428: If Seedance 2.0 Really Brings 4K Ai Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Lizzy Grein
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/ahsankhan201519/status/2072511871484318133)
+
+#### Description
+
+if seedance 2.0 really brings 4k ai video magic, i'll be the first to quit my day job and live off tiktok alone (no promises it'll actually happen, but a creator can dream)
+
+#### Prompt
+
+```text
+if seedance 2.0 really brings 4k ai video magic, i'll be the first to quit my day job and live off tiktok alone (no promises it'll actually happen, but a creator can dream)
+#Seedance
+```
+
+### No. 429: Now There'S Something You Dont See Every Day!
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AbandonedMuse
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/abandonedmuse/status/2072511526154404308)
+
+#### Description
+
+Now there's something you dont see every day!
+
+#### Prompt
+
+```text
+@FCG_Studio Now there's something you dont see every day! Have you tried PARKOUR?  Dude seedance nailed a prompt jumping from one building to another.  It was the craziest shot.
+```
+
+### No. 430: What If The Moment That Broke Millions Of
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Shami
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072509269073871154.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072509269073871154.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ShamiWeb3/status/2072509269073871154)
+
+#### Description
+
+What if the moment that broke millions of hearts...
+
+#### Prompt
+
+```text
+What if the moment that broke millions of hearts... never happened? 
+
+Welcome to the alternative reality where the missed penalty becomes the winning goal, the net explodes, and the entire stadium erupts. One AI-generated moment rewrites football history.
+
+Made with @itsPolloAI
+```
+
+### No. 431: Seedance Prompt : Critical Instruction: The Reference Image
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 𝐌
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/Strength04_X/status/2072507848429613205)
+
+#### Description
+
+SEEDANCE PROMPT : CRITICAL INSTRUCTION: The reference image contains a 9-step chronological cooking storyboard for a Japanese Sashimi Platter.
+
+#### Prompt
+
+```text
+CRITICAL INSTRUCTION: The reference image contains a 9-step chronological cooking storyboard for a Japanese Sashimi Platter. Animate the chef seamlessly through these exact 9 steps in order. Start at Step 1 (Select fresh tuna and salmon loin), flow into Step 2
+```
+
+### No. 432: This The First Ai Video That Ever Made
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Vision33X ♘
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/Vision33X/status/2072507735766122979)
+
+#### Description
+
+this the first ai video that ever made me hungry, seedance cooked fr
+
+#### Prompt
+
+```text
+@Strength04_X @PixVerse_ this the first ai video that ever made me hungry, seedance cooked fr
+```
+
+### No. 433: Japanese Sashimi Platter 🍣 Gpt Image 2 Storyboard
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 𝐌
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072507614412644668.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072507614412644668.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/Strength04_X/status/2072507614412644668)
+
+#### Description
+
+JAPANESE SASHIMI PLATTER 🍣
+
+Gpt Image 2 Storyboard × Seedance 2.0 on  
+
+Prompt below ↓
+
+#### Prompt
+
+```text
+JAPANESE SASHIMI PLATTER 🍣
+
+Gpt Image 2 Storyboard × Seedance 2.0 on @PixVerse_ 
+
+Prompt below ↓
+```
+
+### No. 434: 4K Export From Seedance 2.0 That Stays Sharp
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** LevinX | AI Tools, Agents & Automation
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/levinxhq/status/2072505954420334997)
+
+#### Description
+
+4K export from Seedance 2.0 that stays sharp when you zoom all the way in.
+
+#### Prompt
+
+```text
+4K export from Seedance 2.0 that stays sharp when you zoom all the way in. One prompt now does what a shoot and an edit used to.
+```
+
+### No. 435: Created With Seedance 2.0 On A Young Korean
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Anissa
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072505750728110524.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072505750728110524.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/SimplyAnnisa/status/2072505750728110524)
+
+#### Description
+
+Created with seedance 2.0 on 
+
+A young Korean woman (22), naturally beautiful with realistic skin texture, minimal makeup, soft black shoulder-length hair loosely tied back with face-framing strands.
+
+#### Prompt
+
+```text
+Created with seedance 2.0 on @openart_ai
+
+A young Korean woman (22), naturally beautiful with realistic skin texture, minimal makeup, soft black shoulder-length hair loosely tied back with face-framing strands. She wears an oversized cream knit sweater over a white tank top,
+```
+
+### No. 436: Still So Thoroughly Impressed With Grok Imagine Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Ed Richards
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072503948892606519.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072503948892606519.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/imedrichards/status/2072503948892606519)
+
+#### Description
+
+Still so thoroughly impressed with grok imagine video 1.5.
+
+#### Prompt
+
+```text
+Still so thoroughly impressed with grok imagine video 1.5.
+
+I get better results with hockey than I’ve gotten with seedance or anything else.
+
+Need to try it with Gemini Omni Flash now that I added it to selfielab studio
+```
+
+### No. 437: Debuting Now!! Wargirls Of Ito'S Third Music Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** lilmovieperp
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/lilmovieperp/status/2072500614739718510)
+
+#### Description
+
+DEBUTING NOW!!
+
+#### Prompt
+
+```text
+DEBUTING NOW!!  
+WarGirLs of ITo's third music video:  "Run!"  
+First single off new album. 
+First PeRnimation tech (A.I.) 
+seedance 2.0
+```
+
+### No. 438: Seedance 2.0 4K By Fotor Is One Big
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** John Irish
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/jonnish1aigc/status/2072498684286378148)
+
+#### Description
+
+Seedance 2.0 4K by Fotor is one big flex!
+
+#### Prompt
+
+```text
+@MAslamMetlo786 @fotor_com Seedance 2.0 4K by Fotor is one big flex! As an intern for a month at Lifewood, I have realized the importance of rendering heavy data from AI. Not only does SEO, AEO, and GEO play their roles in the digital video prod. space but also the use of AI Generative Content (AIGC) does.
+```
+
+### No. 439: Seedance 2.0 Philippines : Crystal Stream | Prompt
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Pinoy AI Filmmaker
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072498266420420681.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072498266420420681.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/PinoyAIFilms11/status/2072498266420420681)
+
+#### Description
+
+Seedance 2.0 Philippines : Crystal Stream | Prompt Seedance 2.0 Mini + CapCut
+
+#### Prompt
+
+```text
+Seedance 2.0 Philippines : Crystal Stream | Prompt Seedance 2.0 Mini + CapCut
+
+#Seedance2 #SeedanceMini #CapCut #CapCutPH #CrystalStream #Nature #Cinematic #AIFilmmaking #AIAnimation #Landscape #Philippines #Shorts #PinoyAIFilmmaker
+```
+
+### No. 440: Seedance 2.0 Philippines : Tropical Rainforest | Prompt
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Pinoy AI Filmmaker
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072497806997397690.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072497806997397690.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/PinoyAIFilms11/status/2072497806997397690)
+
+#### Description
+
+Seedance 2.0 Philippines : Tropical Rainforest | Prompt Seedance 2.0 Mini + CapCut
+
+#### Prompt
+
+```text
+Seedance 2.0 Philippines : Tropical Rainforest | Prompt Seedance 2.0 Mini + CapCut
+
+#Seedance2 #SeedanceMini #CapCut #CapCutPH #Rainforest #Jungle #Nature #Cinematic #AIFilmmaking #AIAnimation #Philippines #Shorts #PinoyAIFilmmaker
+```
+
+### No. 441: Seedance 2.0 In 4K On Avocado Is A
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Mr. Nexus
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/MAslamMetlo786/status/2072497754040041797)
+
+#### Description
+
+Seedance 2.0 in 4K on Avocado is a major upgrade for AI video creators 🚀 Higher resolution, sharper detail, and more cinematic output make a huge difference for ads, storytelling, product visuals, and
+
+#### Prompt
+
+```text
+@avocadoai_co Seedance 2.0 in 4K on Avocado is a major upgrade for AI video creators 🚀 Higher resolution, sharper detail, and more cinematic output make a huge difference for ads, storytelling, product visuals, and social content. This is exactly the kind of model launch creators should be
+```
+
+### No. 442: Seedance 2.0 Philippines : Snowy Wilderness | Prompt
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Pinoy AI Filmmaker
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072497626562560456.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072497626562560456.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/PinoyAIFilms11/status/2072497626562560456)
+
+#### Description
+
+Seedance 2.0 Philippines : Snowy Wilderness | Prompt Seedance 2.0 Mini + CapCut
+
+#### Prompt
+
+```text
+Seedance 2.0 Philippines : Snowy Wilderness | Prompt Seedance 2.0 Mini + CapCut
+
+#Seedance2 #SeedanceMini #CapCut #CapCutPH #Snow #Winter #Nature #Cinematic #AIFilmmaking #AIAnimation #Philippines #Shorts #PinoyAIFilmmaker
+```
+
+### No. 443: Seedance 2.0 Philippines : Majestic Mountain | Prompt
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Pinoy AI Filmmaker
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072497322483978474.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072497322483978474.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/PinoyAIFilms11/status/2072497322483978474)
+
+#### Description
+
+Seedance 2.0 Philippines : Majestic Mountain | Prompt Seedance 2.0 Mini + CapCut
+
+#### Prompt
+
+```text
+Seedance 2.0 Philippines : Majestic Mountain | Prompt Seedance 2.0 Mini + CapCut
+
+#Seedance2 #SeedanceMini #CapCut #CapCutPH #Mountain #Nature #Landscape #Cinematic #AIFilmmaking #AIAnimation #Philippines #Shorts #PinoyAIFilmmaker
+```
+
+### No. 444: Seedance 2.0 Philippines : Endless Desert | Prompt
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Pinoy AI Filmmaker
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072497181752447405.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072497181752447405.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/PinoyAIFilms11/status/2072497181752447405)
+
+#### Description
+
+Seedance 2.0 Philippines : Endless Desert | Prompt Seedance 2.0 Mini + CapCut
+
+#### Prompt
+
+```text
+Seedance 2.0 Philippines : Endless Desert | Prompt Seedance 2.0 Mini + CapCut
+
+#Seedance2 #SeedanceMini #CapCut #CapCutPH #Desert #Nature #Cinematic #AIFilmmaking #Landscape #AIAnimation #Philippines #Shorts #PinoyAIFilmmaker
+```
+
+### No. 445: I’M Speechless! Seedance 2 Is Taking Ai Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** sam
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/IronyOracle/status/2072495747497369760)
+
+#### Description
+
+I’m speechless!
+
+#### Prompt
+
+```text
+I’m speechless! Seedance 2 is taking AI video generation to a whole new level. The future of anime is here 🤯
+
+#Seedance2 #AIVideo #TextToVideo
+```
+
+### No. 446: 🚨Bytedance Is Planning To Launch Seedance 2.5 In
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** LoscerHype🕹
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/LoscerHype/status/2072495575833170383)
+
+#### Description
+
+🚨ByteDance is planning to launch seedance 2.5 in 2 weeeks for the china region 
+
+The latest version of it's artifical intelligence video generation during it's conference in Beinjing on Tuesday
+
+&gt;3
+
+#### Prompt
+
+```text
+🚨ByteDance is planning to launch seedance 2.5 in 2 weeeks for the china region 
+
+The latest version of it's artifical intelligence video generation during it's conference in Beinjing on Tuesday
+
+&gt;30 sec refrence video in singel shot 
+
+&gt;More controllable and efficient creating
+```
+
+### No. 447: This Is Exactly What Ai Creators And Builders
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Mr. Nexus
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/MAslamMetlo786/status/2072495561895456891)
+
+#### Description
+
+This is exactly what AI creators and builders need right now 🚀 Seedance 2.0 with simple pay-as-you-go pricing removes the usual subscription barrier and makes high-quality video generation much easier
+
+#### Prompt
+
+```text
+@toapisai This is exactly what AI creators and builders need right now 🚀 Seedance 2.0 with simple pay-as-you-go pricing removes the usual subscription barrier and makes high-quality video generation much easier to test, scale, and compare. ToAPIs offering flexible access before Seedance
+```
+
+### No. 448: Pairs Figure Skating Is A Difficult Problem For
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BESTOOL
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072495184508842164.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072495184508842164.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ibestools/status/2072495184508842164)
+
+#### Description
+
+Pairs figure skating is a difficult problem for AI video: as long as the hand is messed up and the ice falls, the audience will immediately see it.
+
+#### Prompt
+
+```text
+Pairs figure skating is a difficult problem for AI video: as long as the hand is messed up and the ice falls, the audience will immediately see it. #Byteplus #Seedance 2.0 #Lumina
+```
+
+### No. 449: This Is A Short Music Video From A
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Olaf
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072494700528070706.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072494700528070706.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/olafbloodbane/status/2072494700528070706)
+
+#### Description
+
+This is a short music video from a segment of a song that i made by remixing the amazing  on suno  then making the video with Seedance, please make sure to check out theie music as well!
+
+#### Prompt
+
+```text
+This is a short music video from a segment of a song that i made by remixing the amazing @aiwatap on suno  then making the video with Seedance, please make sure to check out theie music as well!
+
+"Dont Fade Out On Me Yet"
+
+🎧Full Song On Suno:  🎧
+#anime
+```
+
+### No. 450: Fable 5 + Moby + All The New
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AJ Orbach 🐳
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072493942076006463.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072493942076006463.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/AY_Orbach/status/2072493942076006463)
+
+#### Description
+
+Fable 5 + Moby + all the new video and image models = 🤯🐳
+
+Asked Moby to build a creative studio landing page for everything Moby can do.
+
+#### Prompt
+
+```text
+Fable 5 + Moby + all the new video and image models = 🤯🐳
+
+Asked Moby to build a creative studio landing page for everything Moby can do. It generated the product shots, ran video across Seedance 2.0 (in 4K) and more, cut a 30-second film with sound, then designed and shipped
+```
+
+### No. 451: Bytedance Is Planning To Launch Seedance 2.5 In
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** LoscerHype🕹
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/LoscerHype/status/2072491030088466835)
+
+#### Description
+
+ByteDance is planning to launch seedance 2.5 in 2 weeeks for the china region 
+
+The latest version of it's artifical intelligence video generation during it's conference in Beinjing on Tuesday
+
+#### Prompt
+
+```text
+ByteDance is planning to launch seedance 2.5 in 2 weeeks for the china region 
+
+The latest version of it's artifical intelligence video generation during it's conference in Beinjing on Tuesday
+```
+
+### No. 452: 🚨 Bytedance Is Planning To Launch Seedance 2.5
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Chetaslua
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/chetaslua/status/2072489600266936450)
+
+#### Description
+
+🚨 ByteDance is planning to launch Seedance 2.5 in 2 weeks for the China region
+
+Key features:
+
+&gt; 30-second single-shot native video output.
+
+#### Prompt
+
+```text
+🚨 ByteDance is planning to launch Seedance 2.5 in 2 weeks for the China region
+
+Key features:
+
+&gt; 30-second single-shot native video output.
+
+&gt; Reference material capacity greatly increased.
+
+&gt; More controllable video generation and editing
+```
+
+### No. 453: Netflix And The Other Streamers Need To Wake
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** VraserX e/acc
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/VraserX/status/2072485908972982405)
+
+#### Description
+
+Netflix and the other streamers need to wake up.
+
+#### Prompt
+
+```text
+Netflix and the other streamers need to wake up.
+
+They should be building Seedance 2.5-level video models directly into their platforms, or creating their own version, and let indie creators make short films, weird experiments, mini-series and actually profit from them.
+
+Because
+```
+
+### No. 454: Prompt Studio: Waterfall With Seedance 2.0 In The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Alexandra Aisling
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072484902159974759.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072484902159974759.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/AllaAisling/status/2072484902159974759)
+
+#### Description
+
+Prompt Studio: Waterfall with Seedance 2.0 in  
+
+The camera is already falling through a waterfall that descends endlessly through the sky.
+
+#### Prompt
+
+```text
+Prompt Studio: Waterfall with Seedance 2.0 in @PixVerse_ 
+
+The camera is already falling through a waterfall that descends endlessly through the sky. Entire islands, temples, forests, and floating cities drift within the water as it plunges downward into infinity. Two traversal
+```
+
+### No. 455: Thanks To So Much For The Amazing Prompt
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Jin.B
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072482413109022821.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072482413109022821.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/opener_ai/status/2072482413109022821)
+
+#### Description
+
+Thanks to  so much for the amazing prompt and structure.
+
+#### Prompt
+
+```text
+Thanks to @aimikoda so much for the amazing prompt and structure. I tried to stay true to the character
+
+Check out the great workflow⤵️
+
+#seedance
+```
+
+### No. 456: Seedance Jumping This Far In Realism Is Wild
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AI Mastery Guide
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/aiseomastery/status/2072478347247092016)
+
+#### Description
+
+Seedance jumping this far in realism is wild, video gen might be closer to indistinguishable than we thought.
+
+#### Prompt
+
+```text
+@drummatick Seedance jumping this far in realism is wild, video gen might be closer to indistinguishable than we thought.
+```
+
+### No. 457: Your Video Makes Me Want To Try Using
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 【AI】プリグレ / Princess Great Melee
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/Tak_Fantasy/status/2072476483118092464)
+
+#### Description
+
+Your video makes me want to try using Seedance.
+
+#### Prompt
+
+```text
+@ZeyHashimoto Your video makes me want to try using Seedance. 
+It’s a wonderful work.
+```
+
+### No. 458: Hollywood Studios Think We'Re Insane For Doing This
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** muffi kapadia
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072474403930263791.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072474403930263791.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/muffikapad/status/2072474403930263791)
+
+#### Description
+
+Hollywood studios think we're insane for doing this.
+
+#### Prompt
+
+```text
+Hollywood studios think we're insane for doing this. 
+
+We're now putting out weekly episodes WHILE we begin production on a full-length feature film.
+
+This week's Nexus episode is crazy 👇
+
+Even more so because we got to use Seedance 2.0 4K in CapCut Video Studio. 
+
+4K is wild!
+```
+
+### No. 459: How To Create Ai Video Backgrounds For Your
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Grace Themes
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/grace_themes/status/2072474080792518732)
+
+#### Description
+
+How to Create AI Video Backgrounds for Your Website &amp; Landing Pages with Seedance 2.0 - Grace Themes
+
+#### Prompt
+
+```text
+How to Create AI Video Backgrounds for Your Website &amp; Landing Pages with Seedance 2.0 - Grace Themes 
+#website #landingpages
+```
+
+### No. 460: Congrats To The Top 3 Ranks (With Ties)
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** HUNT0
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/HUNT0_HAHAHA/status/2072471608518648014)
+
+#### Description
+
+Congrats to the Top 3 ranks (with ties) from yesterday on HUNT0!
+
+#### Prompt
+
+```text
+Congrats to the Top 3 ranks (with ties) from yesterday on HUNT0!
+
+🥇 Lenkli - Short links, QR codes &amp; bio pages (@lnke_li) - 6 up
+🥈 Forgetti - 2 up
+🥉 VibeBot - AI Discord Bot Maker | No Coding Required (@vibebot_gg) - 1 up
+🥉 Preach - 1 up
+🥉 Coding Plan - 1 up
+🥉 GPT Image 2 -
+```
+
+### No. 461: 🎬 Seedance 2.0 Mini Is Now Live On
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Cremi AI for Music Videos
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072470557652914182.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072470557652914182.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/CremiAI_/status/2072470557652914182)
+
+#### Description
+
+🎬 Seedance 2.0 Mini is now live on Cremi.
+
+#### Prompt
+
+```text
+🎬 Seedance 2.0 Mini is now live on Cremi.
+
+Create cinematic music videos faster, for less.
+✨ Faster generation
+✨ Lower cost
+✨ Built for everyday music video creation
+
+Try Seedance 2.0 Mini on Cremi today!
+
+#Cremi #Seedance2Mini
+```
+
+### No. 462: The Life | Dream A Whole Life —
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Jawid Iqbal Anwar
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072469328616964419.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072469328616964419.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/jawidiqbalanwar/status/2072469328616964419)
+
+#### Description
+
+The Life | Dream
+
+A whole life — birth to the last light — seen entirely through one man's own eyes.
+
+#### Prompt
+
+```text
+The Life | Dream
+
+A whole life — birth to the last light — seen entirely through one man's own eyes. First love, marriage, raising kids, letting them go, and one quiet truth at the end: everything he chased was already there. Made entirely with text-to-video, no references, one
+```
+
+### No. 463: Nice!!! But How Many Characters Can You Use
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Joss Monzoni
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/JossMonzoni/status/2072468649248460892)
+
+#### Description
+
+nice!!!
+
+#### Prompt
+
+```text
+@karim_yourself nice!!! but how many characters can you use in your prompt? Runway for Seedance  only allows 3500
+```
+
+### No. 464: Wtf, I Thought This Was Real Footage Until
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Md Ismail Šojal 🕷️
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/0x0SojalSec/status/2072465595451523191)
+
+#### Description
+
+Wtf, I Thought This Was Real Footage Until I Saw the Prompt 😐
+
+This Seedance 2.0 and open-art clip looks indistinguishable from real life
+
+#### Prompt
+
+```text
+Wtf, I Thought This Was Real Footage Until I Saw the Prompt 😐
+
+This Seedance 2.0 and open-art clip looks indistinguishable from real life
+```
+
+### No. 465: Seedance 2 Prompt: Vespira — The Pestilent Empress
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PixieVerse
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072463413486436563.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072463413486436563.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/itsPixieVerse/status/2072463413486436563)
+
+#### Description
+
+Seedance 2 Prompt:
+
+VESPIRA — THE PESTILENT EMPRESS [
+"THE BLOOM OF RUIN"
+Duration: 15 Seconds
+Use the storyboard [ as reference only.
+
+#### Prompt
+
+```text
+VESPIRA — THE PESTILENT EMPRESS [@1000019684]
+"THE BLOOM OF RUIN"
+Duration: 15 Seconds
+Use the storyboard [@1000019685] as reference only.
+Convert the storyboard into a single seamless cinematic sequence.
+Do not render storyboard panels.
+Do not render https://t.co/bMs06UeCxu
+```
+
+### No. 466: Seedance 2 + Gpt Image 2 Prompt Share
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** PixieVerse
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072463397309083940.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072463397309083940.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/itsPixieVerse/status/2072463397309083940)
+
+#### Description
+
+Seedance 2 + GPT Image 2 Prompt Share
+
+VESPIRA — THE PESTILENT EMPRESS
+
+Prompts in Replies 👇
+
+#### Prompt
+
+```text
+Seedance 2 + GPT Image 2 Prompt Share
+
+VESPIRA — THE PESTILENT EMPRESS
+
+Prompts in Replies 👇
+```
+
+### No. 467: Use (Seedance 2.0 In Capcut) I Will Post
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** rianai_xx
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072463025119109229.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072463025119109229.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/rianai_xx/status/2072463025119109229)
+
+#### Description
+
+Use (Seedance 2.0 in capcut)
+
+I will post the prompt:
+check the comment
+
+#### Prompt
+
+```text
+check the comment https://t.co/0ssZpxcpu9
+```
+
+### No. 468: Launched In February 2026, Bytedance'S Seedance 2.0 Generates
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Tips Excel
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/gudanglifehack/status/2072462578228564404)
+
+#### Description
+
+Launched in February 2026, ByteDance's Seedance 2.0 generates 15-second multi-shot videos from text, images, audio, or video inputs, now with native 4K support via BytePlus for sharper details in moti
+
+#### Prompt
+
+```text
+Launched in February 2026, ByteDance's Seedance 2.0 generates 15-second multi-shot videos from text, images, audio, or video inputs, now with native 4K support via BytePlus for sharper details in motion like feathers on a flying parrot or a wingsuit dive by a waterfall.
+```
+
+### No. 469: ✨Bytedance'S Seedance 2.0 Delivers 4K Ai Video Magic
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Tips Excel
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072462548729995417.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072462548729995417.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/gudanglifehack/status/2072462548729995417)
+
+#### Description
+
+✨ByteDance's Seedance 2.0 Delivers 4K AI Video Magic for Creators
+
+#### Prompt
+
+```text
+✨ByteDance's Seedance 2.0 Delivers 4K AI Video Magic for Creators
+```
+
+### No. 470: A Variation On This Prompt From Johnn -&Gt;
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** ằndre
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072461887833571721.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072461887833571721.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/andreInVan/status/2072461887833571721)
+
+#### Description
+
+A variation on this prompt from Johnn -&gt; different location: a young woman in Québec City, Canada.
+
+#### Prompt
+
+```text
+A variation on this prompt from Johnn -&gt; different location: a young woman in Québec City, Canada. On Seedance 2.0 HD
+```
+
+### No. 471: Thanks For Replying, But I Have Been Producing
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Christopher Gwinn | Grindhouse Glitch
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/ChrisGwinnLA/status/2072460807053738361)
+
+#### Description
+
+Thanks for replying, but I have been producing AI videos for 2 years now and do it professionally.
+
+#### Prompt
+
+```text
+@arcanamatic Thanks for replying, but I have been producing AI videos for 2 years now and do it professionally. I know how to prompt - that's not the issue here - rather it's Dreamina's broken AI moderation that randomly blocks perfectly safe images and ref videos (even audio sometimes) - but
+```
+
+### No. 472: Giallo Girls Tuesday: What Has Become Of Luca?
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Christopher Gwinn | Grindhouse Glitch
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072457405305401720.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072457405305401720.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ChrisGwinnLA/status/2072457405305401720)
+
+#### Description
+
+Giallo Girls Tuesday: What Has Become of Luca?
+
+#### Prompt
+
+```text
+Giallo Girls Tuesday: What Has Become of Luca?
+When a young boy with learning disabilities disappears from the village, two women take it upon themselves to find him. 
+Barbara was the last person to have spotted Luca - being led up a lonely path to a deserted villa by a strange
+```
+
+### No. 473: You Can Now Type One Paragraph And Get
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** LevinX | AI Tools, Agents & Automation
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/levinxhq/status/2072457186115297451)
+
+#### Description
+
+You can now type one paragraph and get a lifelike person on video.
+
+#### Prompt
+
+```text
+her clothes, her hair, the messy side ponytail, the sneakers. All of it typed, none of it https://t.co/htPi27bAnW
+```
+
+### No. 474: Seedance 2 Results Are Absolutely Insane! Look At
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** sam
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/IronyOracle/status/2072456070937669664)
+
+#### Description
+
+Seedance 2 results are absolutely insane!
+
+#### Prompt
+
+```text
+Seedance 2 results are absolutely insane! Look at this detail. AI video is officially the future 🤯
+
+#TextToVideo #AICreativity #AIVideo
+```
+
+### No. 475: Someone Just Benchmarked Two Ai Models On Making
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** LevinX | AI Tools, Agents & Automation
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/levinxhq/status/2072455540446564552)
+
+#### Description
+
+Someone just benchmarked two AI models on making video, not writing code.
+
+#### Prompt
+
+```text
+Someone just benchmarked two AI models on making video, not writing code. The test: which one directs a dynamic scene better from one plain prompt.
+
+Higgsfield wired their video model, Seedance 2.0, into an MCP so a chat model can drive it directly.
+
+MCP is just a plug that lets
+```
+
+### No. 476: Seedance 2.0 Takeshi’S Castle Prompt Is Below 👇
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** TechHalla
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072454815582405006.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072454815582405006.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/techhalla/status/2072454815582405006)
+
+#### Description
+
+Seedance 2.0 Takeshi’s Castle prompt is below 👇
+
+#### Prompt
+
+```text
+Seedance 2.0 Takeshi’s Castle prompt is below 👇
+```
+
+### No. 477: This Prompt Really Surprised Me. And I Also
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** firatyildiz
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072450830045721017.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072450830045721017.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/emrefiratyildiz/status/2072450830045721017)
+
+#### Description
+
+This prompt really surprised me.
+
+#### Prompt
+
+```text
+This prompt really surprised me. And I also liked that Seedance is starting to get to know Istanbul pretty well.
+
+#DreaminaCPP #Seedance2 @dreamina_ai
+```
+
+### No. 478: Veo Maybe Not Prioritizing Omni Is Just Called
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** IDK
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/Gdthainakub/status/2072449361683116285)
+
+#### Description
+
+Veo maybe not prioritizing Omni
+
+Is just called like Nano Banana But Video version and is still not beat seedance 2 or even some model
+
+But fair point
+
+#### Prompt
+
+```text
+@bedros_p Veo maybe not prioritizing Omni
+
+Is just called like Nano Banana But Video version and is still not beat seedance 2 or even some model
+
+But fair point
+```
+
+### No. 479: I Am Actually Floored! Seedance 2 Is Turning
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** sam
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/IronyOracle/status/2072448938804728191)
+
+#### Description
+
+I am actually floored!
+
+#### Prompt
+
+```text
+I am actually floored! Seedance 2 is turning images into cinematic video with insane realism. The future is here! 🤯✨
+
+#GenerativeAI #AIAnimation #Seedance2
+```
+
+### No. 480: Prompt Consistency Matters More Than Raw Model Power
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Steven Cheng
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/stevencheng/status/2072448821477736705)
+
+#### Description
+
+Prompt consistency matters more than raw model power in video gen.
+
+#### Prompt
+
+```text
+@higgsfield Prompt consistency matters more than raw model power in video gen. Seedance 2.0 is sensitive to syntax, so keep instructions atomic and explicit.
+```
+
+### No. 481: Seedance 2.0 Prompt 15 Seconds, 16:9 Cinematic, Single
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** BMX
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072448412147122330.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072448412147122330.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/bmx_ai13/status/2072448412147122330)
+
+#### Description
+
+Seedance 2.0 prompt 
+
+15 seconds, 16:9 cinematic, single continuous aerial drone shot, smooth uninterrupted flight path, no cuts.
+
+#### Prompt
+
+```text
+Seedance 2.0 prompt 
+
+15 seconds, 16:9 cinematic, single continuous aerial drone shot, smooth uninterrupted flight path, no cuts. Global setup: Epic cinematic drone footage, ultra smooth gimbal stabilization, wide angle aerial lens with subtle motion blur on fast movements.
+```
+
+### No. 482: So Sonnet/Opus Only Generated The Text Prompt For
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** engineer cat 🐈
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/MLCatttt/status/2072446159822729715)
+
+#### Description
+
+so sonnet/opus only generated the text prompt for seedance 2.0?
+
+#### Prompt
+
+```text
+@higgsfield_ai so sonnet/opus only generated the text prompt for seedance 2.0? feels like they would be much better at this task if they can trained end-to-end with seedance 2.0 so that they 'know' what prompt works well for seedance 2.0...
+```
+
+### No. 483: Which Model Did It Best? ↖️ Left: Veo
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Serena Pei
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072441161298616340.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072441161298616340.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/spei04/status/2072441161298616340)
+
+#### Description
+
+which model did it best?
+
+#### Prompt
+
+```text
+"A dimly lit kitchen late at night. A woman sits across the table from her estranged brother; her voice trembles as she says, 'You left when https://t.co/0gfJo6SbN1
+```
+
+### No. 484: Fable 5 Vs Sonnet 5. These Evals Showcase
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Higgsfield AI 🧩
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072440129084629127.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072440129084629127.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/higgsfield/status/2072440129084629127)
+
+#### Description
+
+Fable 5 vs Sonnet 5.
+
+#### Prompt
+
+```text
+Fable 5 vs Sonnet 5.
+
+These evals showcase how each model prompts Seedance 2.0, the best text-to-video and image-to-video model.
+
+In agentic pipelines, that is what sets your success rate per generation.
+```
+
+### No. 485: Seedance 2.5 Brings Native 30-Second Video And Audio
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Cremi AI for Music Videos
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/CremiAI_/status/2072440111384739938)
+
+#### Description
+
+Seedance 2.5 brings native 30-second video and audio generated alongside it.
+
+#### Prompt
+
+```text
+Seedance 2.5 brings native 30-second video and audio generated alongside it.
+That's the field chasing exactly what a music video needs.
+Would you like to see Seedance 2.5 on Cremi? 👀
+```
+
+### No. 486: Now Listed: Seedance 2.0—An Ai Video Generation Platform
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** AITopTools
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/aitoptools/status/2072439055418032524)
+
+#### Description
+
+Now listed: seedance 2.0—an AI video generation platform for creators, marketers, and product teams.
+
+#### Prompt
+
+```text
+Now listed: seedance 2.0—an AI video generation platform for creators, marketers, and product teams. Turn images + text prompts into short videos with fast or standard modes for different strictness/flexibility. Upload, prompt, generate.
+```
+
+### No. 487: Base Image Done In Mj V8.2 Then Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Toshi
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/ToshiArte/status/2072438583210770484)
+
+#### Description
+
+Base image done in MJ v8.2 Then video in Seedance and Kling.
+
+#### Prompt
+
+```text
+@MukiTanaka Base image done in MJ v8.2 Then video in Seedance and Kling. Focusing first and repeatedly in the scale. I often use comparisons, like in this one I used a lot of : "ant sized humans" running from a  "mountain size creature".
+```
+
+### No. 488: Modified Prompt By - Wwii Pacific Prompt In
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** FCG Studio
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072437213695226279.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072437213695226279.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/FCG_Studio/status/2072437213695226279)
+
+#### Description
+
+Modified prompt by  - WWII Pacific 
+Prompt in link below!
+
+#### Prompt
+
+```text
+Modified prompt by @techhalla - WWII Pacific 
+Prompt in link below! #seedance #pixverse 
+Made on @PixVerse_ July 1st 2026
+```
+
+### No. 489: Notice How This Guy Didn'T Specifically Prompt Seedance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** The Logical Fallacy Identifier (fka The MAGA Monk)
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/faze_takkun/status/2072434614665146573)
+
+#### Description
+
+notice how this guy didn't specifically prompt seedance to generate a video of a hot girl, but the ai did it anyways.
+
+#### Prompt
+
+```text
+notice how this guy didn't specifically prompt seedance to generate a video of a hot girl, but the ai did it anyways. just one obvious example of what must be millions of little biases buried in whatever insane math equations are going on to make all of this happen
+```
+
+### No. 490: Seedance Is Basically The Mythos Fable Of Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Jess
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/heyjesso/status/2072432712120426800)
+
+#### Description
+
+Seedance is basically the mythos fable of video gen, been available for some months
+
+#### Prompt
+
+```text
+@drummatick Seedance is basically the mythos fable of video gen, been available for some months
+```
+
+### No. 491: The Blender Previs Approach Solves The Biggest Problem
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Truth Teller
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/TruthTeller_acc/status/2072432071453073740)
+
+#### Description
+
+The Blender previs approach solves the biggest problem with AI video — spatial consistency.
+
+#### Prompt
+
+```text
+@reidhannaford The Blender previs approach solves the biggest problem with AI video — spatial consistency. Pure diffusion-based generation still struggles with maintaining coherent 3D space across cuts. Using Blender as a structural skeleton and Seedance for texturing/style is genuinely clever.
+```
+
+### No. 492: Fable 5 Vs. Opus 4.8 Writing Seedance 2.0
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** JSFILMZ
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072429184454893933.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072429184454893933.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/JSFILMZ0412/status/2072429184454893933)
+
+#### Description
+
+Fable 5 vs.
+
+#### Prompt
+
+```text
+Fable 5 vs. Opus 4.8 writing Seedance 2.0 prompts.
+
+Can you tell which prompt came from which model?
+
+Take your best guess and drop your answer in the comments. 👇
+```
+
+### No. 493: Yes, Checked The Full Video. It’S Ai-Generated With
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Grok
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/grok/status/2072426477417615665)
+
+#### Description
+
+Yes, checked the full video.
+
+#### Prompt
+
+```text
+@AppreciatorWay @john_my07 Yes, checked the full video. It’s AI-generated with Seedance 2.0 on OpenArt. Every detail — the woman’s look and actions, the alley cat scene, rooftop moment, natural “Annyeong,” and especially the deliberate early-2000s camcorder flaws (handheld shake, autofocus hunts, exposure
+```
+
+### No. 494: Modern Ai-Generated Videos Can Be Virtually Indistinguishable From
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Grok
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/grok/status/2072426197061865520)
+
+#### Description
+
+Modern AI-generated videos can be virtually indistinguishable from real ones by eye alone.
+
+#### Prompt
+
+```text
+@AppreciatorWay @john_my07 Modern AI-generated videos can be virtually indistinguishable from real ones by eye alone. This one is AI-made with Seedance 2.0 on OpenArt AI (as the original post states), using a detailed prompt for that early-2000s camcorder vibe. The realism is genuinely impressive.
+```
+
+### No. 495: Midjourney Prompt Is In The Alt Of The
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** TechHalla
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/techhalla/status/2072425718068212057)
+
+#### Description
+
+Midjourney prompt is in the ALT of the image.
+
+#### Prompt
+
+```text
+Midjourney prompt is in the ALT of the image. Use it always as reference for this Seedance 2.0 prompt
+
+Cinematic lofi vaporwave animation, static locked-off wide shot, dreamy tropical dusk with heavy volumetric haze, god rays from the massive red sun, floating particles and mist
+```
+
+### No. 496: Made Something There With Seedance Fast, More Cheaper
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Elo's Kat
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/CircleVang/status/2072425392657588575)
+
+#### Description
+
+made something there
+
+with seedance fast, more cheaper option
+
+video in the morning
+
+#### Prompt
+
+```text
+@yapper_so made something there
+
+with seedance fast, more cheaper option
+
+video in the morning
+```
+
+### No. 497: I Took That Idea And Tried To Move
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** gootecks
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072425032392077334.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072425032392077334.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/gootecks/status/2072425032392077334)
+
+#### Description
+
+I took that idea and tried to move it forward for part 2, still using Seedance 2.0 but with yapper.
+
+#### Prompt
+
+```text
+Here's Part 2 — I leaned into your GTA V observation and made it the whole visual conceit: https://t.co/uF2QpiZ2bk
+```
+
+### No. 498: No, You Don'T Have To Pay To Start
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Grok
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/grok/status/2072422939652194450)
+
+#### Description
+
+No, you don't have to pay to start.
+
+#### Prompt
+
+```text
+@WealthInMotion_ @drummatick No, you don't have to pay to start. New users on OpenArt get free credits to try Seedance 2.0 immediately. Sign up at  go to the video tool, drop in that hyper-detailed prompt style (with the early-2000s DV camcorder look and natural audio), add any
+```
+
+### No. 499: Instead Of Looking For Low-Poly Blender Assets For
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** tintwotin
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/tintwotin/status/2072421963671195773)
+
+#### Description
+
+Instead of looking for low-poly Blender assets for 3d to video with Seedance or LTX + 3DREAL, why not generate the assets directly in Blender?
+
+#### Prompt
+
+```text
+Instead of looking for low-poly Blender assets for 3d to video with Seedance or LTX + 3DREAL, why not generate the assets directly in Blender? And convert the 3d scene directly to video with Pallaidium? Links below. @Blender @fal @ltx_io @ltx_model
+```
+
+### No. 500: Most People Don'T Know How Good Ai Video
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** jzcreates
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072421615271363013.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072421615271363013.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/jzcreates/status/2072421615271363013)
+
+#### Description
+
+Most people don't know how good AI video is about to get.
+
+#### Prompt
+
+```text
+Most people don't know how good AI video is about to get.
+
+This frozen-in-time clip was made with Seedance 2.0.
+
+Seedance 2.5 soon: 30+ sec shots, native 4K, tighter prompt adherence.
+
+What would you create if one prompt held a 30-second scene?
+
+#Seedance #AIvideo
+```
+
+### No. 501: How To Make Interactive Videos For Your Website
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Magnific
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072421408471462269.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072421408471462269.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/magnific/status/2072421408471462269)
+
+#### Description
+
+How to make interactive videos for your website:
+
+These videos move as you scroll, follow your cursor, and reveal the product when you click on it
+
+This will be the structure for the prompt:
+"Generate
+
+#### Prompt
+
+```text
+"Generate two interactive video heroes using Magnific with model Seedance 2.0 4K, using https://t.co/7zEsQPpQXC
+```
+
+### No. 502: The Most Precise Seedance 2.0 Storyboard Method I'Ve
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Nexlow
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072420981008978361.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072420981008978361.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/NexlowX/status/2072420981008978361)
+
+#### Description
+
+THE MOST PRECISE SEEDANCE 2.0 STORYBOARD METHOD I'VE TESTED
+
+One performer.
+
+#### Prompt
+
+```text
+THE MOST PRECISE SEEDANCE 2.0 STORYBOARD METHOD I'VE TESTED
+
+One performer. Live singing + choreography happening at the exact same time. No lip-sync drift, no expression breaking the movement.
+
+Most creators storyboard with plain notes and hope the model figures it out.
+
+The
+```
+
+### No. 503: The Best Ai Video Autopilot Of 2026 Actually
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Wuki
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072420871419875487.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072420871419875487.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/0xWuki/status/2072420871419875487)
+
+#### Description
+
+The best AI video autopilot of 2026 actually delivers.
+
+#### Prompt
+
+```text
+The best AI video autopilot of 2026 actually delivers.
+
+Not because AI video tools are rare.
+
+Because this is the first time the thing you actually want from a content machine:
+
+&gt; viral shorts at scale, autopilot generation, multi-account scheduling
+&gt; doesn’t have to live inside
+```
+
+### No. 504: Go To And Select Seedance 2.0. Copy That
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Grok
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/grok/status/2072420486852534737)
+
+#### Description
+
+Go to  and select Seedance 2.0.
+
+#### Prompt
+
+```text
+@WealthInMotion_ @drummatick Go to  and select Seedance 2.0.
+
+Copy that exact prompt style: hyper-detailed subject description (looks, clothes, hair) for consistency, authentic location, timed scene breakdowns with natural actions, and the full early-2000s DV camcorder look (handheld
+```
+
+### No. 505: The Credit Timer On Seedance 2.0 Just Broke
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Asher Crowe 🪺
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072420226411446602.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072420226411446602.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/ashercrw/status/2072420226411446602)
+
+#### Description
+
+THE CREDIT TIMER ON SEEDANCE 2.0 JUST BROKE FOR 18 DAYS.
+
+#### Prompt
+
+```text
+THE CREDIT TIMER ON SEEDANCE 2.0 JUST BROKE FOR 18 DAYS. 23,913 CLIPS RAN ON IT IN THE FIRST SEVEN HOURS. $0 BURNED. HERE'S THE WINDOW BEFORE IT CLOSES.
+
+The old UGC agency math was a freelance creator network, a casting day, a shoot day, an edit day, and a $1,200 invoice per
+```
+
+### No. 506: V3 Is Gonna Be Free Money... Look At
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** sleep
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072419632166645878.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072419632166645878.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/sleepclip/status/2072419632166645878)
+
+#### Description
+
+V3 is gonna be free money...
+
+#### Prompt
+
+```text
+V3 is gonna be free money... look at this AI UGC video.
+
+this video was generated with seedance 2.0 and the launch of 2.5 is gonna go crazy.
+
+its gonna revolutionise marketing. here's how it looks:
+```
+
+### No. 507: Mikasa Looks Absolutely Incredible! Seedance 2 Is Pushing
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** sam
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/IronyOracle/status/2072419608561062242)
+
+#### Description
+
+Mikasa looks absolutely incredible!
+
+#### Prompt
+
+```text
+Mikasa looks absolutely incredible! Seedance 2 is pushing the boundaries of AI video generation. This is the future! 🤯
+
+#AIGenerated #Seedance #AIArt
+```
+
+### No. 508: 🔑 Complete Seedance 2.0 Video Prompt (Golden Hour
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** NRX83
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/nrx838/status/2072419464025620703)
+
+#### Description
+
+🔑 Complete Seedance 2.0 Video Prompt (Golden Hour Fashion):
+
+text Super dynamic luxury fashion commercial, ultra-fast cinematic jump cuts, rapid camera sweeps, whip pans, motion blur, warm golden hour
+
+#### Prompt
+
+```text
+🔑 Complete Seedance 2.0 Video Prompt (Golden Hour Fashion):
+
+text Super dynamic luxury fashion commercial, ultra-fast cinematic jump cuts, rapid camera sweeps, whip pans, motion blur, warm golden hour sun flares on Paris streets. 15 seconds of high-energy movement.
+
+[00:00]
+```
+
+### No. 509: Stop Dragging Noodle Nodes. The Era Of Comfyui
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** NRX83
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072419337416110552.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072419337416110552.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/nrx838/status/2072419337416110552)
+
+#### Description
+
+Stop dragging noodle nodes.
+
+#### Prompt
+
+```text
+Stop dragging noodle nodes. The era of ComfyUI spaghetti is over 🍝⏳
+
+Traditional AI workflows are exhausting: you manually connect boxes, drag lines, configure endless parameters, and launch each generation step-by-step. It’s a tedious, manual grind that kills creative
+```
+
+### No. 510: Not Sure To Be Honest, I Have An
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** Conor Martin
+- **Language:** `ru`
+- **Video:** [View](https://static.atlascloud.ai/prompt/seedance-2/x_2072418100931125540.mp4)
+
+<video src="https://static.atlascloud.ai/prompt/seedance-2/x_2072418100931125540.mp4" controls muted playsinline width="720"></video>
+- **Source Link:** [View](https://x.com/conormartinai/status/2072418100931125540)
+
+#### Description
+
+not sure to be honest, I have an   flow that I use, where you connect the source image and then describe the video in seedance 
+
+here's another one!
+
+#### Prompt
+
+```text
+@kensavage not sure to be honest, I have an @ElevenCreative  flow that I use, where you connect the source image and then describe the video in seedance 
+
+here's another one!
+```
+
+### No. 511: I Created A Song With Suno. Chopped It
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** M.E.G. Pictures
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/MukiTanaka/status/2072416397808783695)
+
+#### Description
+
+i created a song with suno.
+
+#### Prompt
+
+```text
+@EmmarsRover @DrDreams @dreamina_ai i created a song with suno. chopped it in 14secs parts and uploaded as reference. it kept the soul but changed some stuff. this will be hard to make a 2 min video. i dont know why seedance does this.
+```
+
+### No. 512: 0:09 Prompt Only Mentioned "Small Terraces," Yet Seedance
+
+- **Category:** `Twitter Community`
+- **Source:** `x`
+- **Author:** 서선장 🐶🐱
+- **Language:** `ru`
+- **Source Link:** [View](https://x.com/captain_seo_/status/2072415814045884914)
+
+#### Description
+
+0:09 Prompt only mentioned "small terraces," yet Seedance 2.0 perfectly rendered the iconic green waterproof rooftops of Seoul's low-rise homes.
+
+#### Prompt
+
+```text
+0:09 Prompt only mentioned "small terraces," yet Seedance 2.0 perfectly rendered the iconic green waterproof rooftops of Seoul's low-rise homes. 😮
+```
+
 ## Local Usage
 
 ```bash
@@ -10713,4 +12847,4 @@ npm run build-all
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-> This README is auto-generated. 2026-07-01T03:29:32.885Z
+> This README is auto-generated. 2026-07-02T03:29:27.190Z
